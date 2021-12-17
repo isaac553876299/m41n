@@ -1,0 +1,39 @@
+noria:
+create null for each vagon
+move pivot of null to top of vagons
+parent vagons to null
+parent nulls to wheel
+create locator at center wheel
+constraint->orient foreach null+vagon
+animation-->windows->animation editor->graph editor
+view->infinity
+curves->postinfinity->cycle
+straight line
+
+keyframe:
+S
+right click delete
+
+2 primitives:
+modeling-->modify->freeze transformations
+
+rigging:
+skeleton->create joints
+ENTER
+son SHIFT parent + P
+joint+mesh skin->bind skin
+
+mesh->rightclick->paint skin weight tools
+full white->flood
+joint->select->doubleclick vertex->shift+joint->paint select->flood
+
+face:
+duplicate face
+shift select last parent
+animation-->deform->blendshape
+leftmost-arrow(doubleclick?)->soft select->volume/surface->B=radius
+holdmouse->vertex mode
+proceed to edit duplicates
+windows->animation editors->shape editor
+
+:

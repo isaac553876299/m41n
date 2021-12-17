@@ -1,0 +1,15 @@
+#include <iostream>
+
+#define MAX 256
+
+int main()
+{
+	float a, b;
+	while (1)
+	{
+		std::cin >> a >> b;
+		std::cout << (100 - 100 * abs(a - b) / MAX) << " %" << MAX << " ";
+		system("pause");
+	}
+	return 0;
+}

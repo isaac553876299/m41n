@@ -1,0 +1,12860 @@
+##########
+**************************************************
+#nivell1 _80_
+
+
+
+**************************************************
+----------
+一
+イチ、 イツ
+ひと-、 ひと.つ
+one, one radical (no.1)
+----------
+----------
+右
+ウ、 ユウ
+みぎ
+right
+----------
+----------
+雨
+ウ
+あめ、 あま-、 -さめ
+rain
+----------
+----------
+円
+エン
+まる.い、 まる、 まど、 まど.か、 まろ.やか
+circle, yen, round
+----------
+----------
+王
+オウ、 -ノウ
+
+king, rule, magnate
+----------
+----------
+音
+オン、 イン、 -ノン
+おと、 ね
+sound, noise
+----------
+----------
+下
+カ、 ゲ
+した、 しも、 もと、 さ.げる、 さ.がる、 くだ.る、 くだ.り、 くだ.す、 -くだ.す、 くだ.さる、 お.ろす、 お.りる
+below, down, descend, give, low, inferior
+----------
+----------
+火
+カ
+ひ、 -び、 ほ-
+fire
+----------
+----------
+花
+カ、 ケ
+はな
+flower
+----------
+----------
+貝
+バイ
+かい
+shellfish
+----------
+----------
+学
+ガク
+まな.ぶ
+study, learning, science
+----------
+----------
+気
+キ、 ケ
+き
+spirit, mind, air, atmosphere, mood
+----------
+----------
+九
+キュウ、 ク
+ここの、 ここの.つ
+nine
+----------
+----------
+休
+キュウ
+やす.む、 やす.まる、 やす.める
+rest, day off, retire, sleep
+----------
+----------
+玉
+ギョク
+たま、 たま-、 -だま
+jewel, ball
+----------
+----------
+金
+キン、 コン、 ゴン
+かね、 かな-、 -がね
+gold
+----------
+----------
+空
+クウ
+そら、 あ.く、 あ.き、 あ.ける、 から、 す.く、 す.かす、 むな.しい
+empty, sky, void, vacant, vacuum
+----------
+----------
+月
+ゲツ、 ガツ
+つき
+month, moon
+----------
+----------
+犬
+ケン
+いぬ、 いぬ-
+dog
+----------
+----------
+見
+ケン
+み.る、 み.える、 み.せる
+see, hopes, chances, idea, opinion, look at, visible
+----------
+----------
+五
+ゴ
+いつ、 いつ.つ
+five
+----------
+----------
+口
+コウ、 ク
+くち
+mouth
+----------
+----------
+校
+コウ、 キョウ
+
+exam, school, printing, proof, correction
+----------
+----------
+左
+サ、 シャ
+ひだり
+left
+----------
+----------
+三
+サン、 ゾウ
+み、 み.つ、 みっ.つ
+three
+----------
+----------
+山
+サン、 セン
+やま
+mountain
+----------
+----------
+子
+シ、 ス、 ツ
+こ、 -こ、 ね
+child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac
+----------
+----------
+四
+シ
+よ、 よ.つ、 よっ.つ、 よん
+four
+----------
+----------
+糸
+シ
+いと
+thread
+----------
+----------
+字
+ジ
+あざ、 あざな、 -な
+character, letter, word, section of village
+----------
+----------
+耳
+ジ
+みみ
+ear
+----------
+----------
+七
+シチ
+なな、 なな.つ、 なの
+seven
+----------
+----------
+車
+シャ
+くるま
+car
+----------
+----------
+手
+シュ、 ズ
+て、 て-、 -て、 た-
+hand
+----------
+----------
+十
+ジュウ、 ジッ、 ジュッ
+とお、 と、 そ
+ten
+----------
+----------
+出
+シュツ、 スイ
+で.る、 -で、 だ.す、 -だ.す、 い.でる、 い.だす
+exit, leave, go out, come out, put out, protrude
+----------
+----------
+女
+ジョ、 ニョ、 ニョウ
+おんな、 め
+woman, female
+----------
+----------
+小
+ショウ
+ちい.さい、 こ-、 お-、 さ-
+little, small
+----------
+----------
+上
+ジョウ、 ショウ、 シャン
+うえ、 -うえ、 うわ-、 かみ、 あ.げる、 -あ.げる、 あ.がる、 -あ.がる、 あ.がり、 -あ.がり、 のぼ.る、 のぼ.り、 のぼ.せる、 のぼ.す、 たてまつ.る
+above, up
+----------
+----------
+森
+シン
+もり
+forest, woods
+----------
+----------
+人
+ジン、 ニン
+ひと、 -り、 -と
+person
+----------
+----------
+水
+スイ
+みず、 みず-
+water
+----------
+----------
+正
+セイ、 ショウ
+ただ.しい、 ただ.す、 まさ、 まさ.に
+correct, justice, righteous, 10**40
+----------
+----------
+生
+セイ、 ショウ
+い.きる、 い.かす、 い.ける、 う.まれる、 うま.れる、 う.まれ、 うまれ、 う.む、 お.う、 は.える、 は.やす、 き、 なま、 なま-、 な.る、 な.す、 む.す、 -う
+life, genuine, birth
+----------
+----------
+青
+セイ、 ショウ
+あお、 あお-、 あお.い
+blue, green
+----------
+----------
+夕
+セキ
+ゆう
+evening
+----------
+----------
+石
+セキ、 シャク、 コク
+いし
+stone
+----------
+----------
+赤
+セキ、 シャク
+あか、 あか-、 あか.い、 あか.らむ、 あか.らめる
+red
+----------
+----------
+千
+セン
+ち
+thousand
+----------
+----------
+川
+セン
+かわ
+stream, river, river or three-stroke river radical (no. 47)
+----------
+----------
+先
+セン
+さき、 ま.ず
+before, ahead, previous, future, precedence
+----------
+----------
+早
+ソウ、 サッ
+はや.い、 はや、 はや-、 はや.まる、 はや.める、 さ-
+early, fast
+----------
+----------
+草
+ソウ
+くさ、 くさ-、 -ぐさ
+grass, weeds, herbs, pasture, write, draft
+----------
+----------
+足
+ソク
+あし、 た.りる、 た.る、 た.す
+leg, foot, be sufficient, counter for pairs of footwear
+----------
+----------
+村
+ソン
+むら
+village, town
+----------
+----------
+大
+ダイ、 タイ
+おお-、 おお.きい、 -おお.いに
+large, big
+----------
+----------
+男
+ダン、 ナン
+おとこ、 お
+male
+----------
+----------
+竹
+チク
+たけ
+bamboo
+----------
+----------
+中
+チュウ
+なか、 うち、 あた.る
+in, inside, middle, mean, center
+----------
+----------
+虫
+チュウ、 キ
+むし
+insect, bug, temper
+----------
+----------
+町
+チョウ
+まち
+town, village, block, street
+----------
+----------
+天
+テン
+あまつ、 あめ、 あま-
+heavens, sky, imperial
+----------
+----------
+田
+デン
+た
+rice field, rice paddy
+----------
+----------
+土
+ド、 ト
+つち
+soil, earth, ground, Turkey
+----------
+----------
+二
+ニ、 ジ
+ふた、 ふた.つ、 ふたたび
+two, two radical (no. 7)
+----------
+----------
+日
+ニチ、 ジツ
+ひ、 -び、 -か
+day, sun, Japan, counter for days
+----------
+----------
+入
+ニュウ、 ジュ
+い.る、 -い.る、 -い.り、 い.れる、 -い.れ、 はい.る
+enter, insert
+----------
+----------
+年
+ネン
+とし
+year, counter for years
+----------
+----------
+白
+ハク、 ビャク
+しろ、 しら-、 しろ.い
+white
+----------
+----------
+八
+ハチ
+や、 や.つ、 やっ.つ、 よう
+eight, eight radical (no. 12)
+----------
+----------
+百
+ヒャク、 ビャク
+もも
+hundred
+----------
+----------
+文
+ブン、 モン
+ふみ、 あや
+sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)
+----------
+----------
+木
+ボク、 モク
+き、 こ-
+tree, wood
+----------
+----------
+本
+ホン
+もと
+book, present, main, origin, true, real, counter for long cylindrical things
+----------
+----------
+名
+メイ、 ミョウ
+な、 -な
+name, noted, distinguished, reputation
+----------
+----------
+目
+モク、 ボク
+め、 -め、 ま-
+eye, class, look, insight, experience, care, favor
+----------
+----------
+立
+リツ、 リュウ、 リットル
+た.つ、 -た.つ、 た.ち-、 た.てる、 -た.てる、 た.て-、 たて-、 -た.て、 -だ.て、 -だ.てる
+stand up, rise, set up, erect
+----------
+----------
+力
+リョク、 リキ、 リイ
+ちから
+power, strength, strong, strain, bear up, exert
+----------
+----------
+林
+リン
+はやし
+grove, forest
+----------
+----------
+六
+ロク、 リク
+む、 む.つ、 むっ.つ、 むい
+six
+----------
+**************************************************
+#nivell2 _160_
+
+
+
+**************************************************
+----------
+引
+イン
+ひ.く、 ひ.ける
+pull, tug, jerk, admit, install, quote, refer to
+----------
+----------
+羽
+ウ
+は、 わ、 はね
+feathers, counter for birds, rabbits
+----------
+----------
+雲
+ウン
+くも、 -ぐも
+cloud
+----------
+----------
+園
+エン
+その
+park, garden, yard, farm
+----------
+----------
+遠
+エン、 オン
+とお.い
+distant, far
+----------
+----------
+何
+カ
+なに、 なん、 なに-、 なん-
+what
+----------
+----------
+科
+カ
+
+department, course, section
+----------
+----------
+夏
+カ、 ガ、 ゲ
+なつ
+summer
+----------
+----------
+家
+カ、 ケ
+いえ、 や、 うち
+house, home, family, professional, expert, performer
+----------
+----------
+歌
+カ
+うた、 うた.う
+song, sing
+----------
+----------
+画
+ガ、 カク、 エ、 カイ
+えが.く、 かく.する、 かぎ.る、 はかりごと、 はか.る
+brush-stroke, picture
+----------
+----------
+回
+カイ、 エ
+まわ.る、 -まわ.る、 -まわ.り、 まわ.す、 -まわ.す、 まわ.し-、 -まわ.し、 もとお.る、 か.える
+-times, round, game, revolve, counter for occurrences
+----------
+----------
+会
+カイ、 エ
+あ.う、 あ.わせる、 あつ.まる
+meeting, meet, party, association, interview, join
+----------
+----------
+海
+カイ
+うみ
+sea, ocean
+----------
+----------
+絵
+カイ、 エ
+
+picture, drawing, painting, sketch
+----------
+----------
+外
+ガイ、 ゲ
+そと、 ほか、 はず.す、 はず.れる、 と-
+outside
+----------
+----------
+角
+カク
+かど、 つの
+angle, corner, square, horn, antlers
+----------
+----------
+楽
+ガク、 ラク、 ゴウ
+たの.しい、 たの.しむ、 この.む
+music, comfort, ease
+----------
+----------
+活
+カツ
+い.きる、 い.かす、 い.ける
+lively, resuscitation, being helped, living
+----------
+----------
+間
+カン、 ケン
+あいだ、 ま、 あい
+interval, space
+----------
+----------
+丸
+ガン
+まる、 まる.める、 まる.い
+round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away
+----------
+----------
+岩
+ガン
+いわ
+boulder, rock, cliff
+----------
+----------
+顔
+ガン
+かお
+face, expression
+----------
+----------
+汽
+キ
+
+vapor, steam
+----------
+----------
+記
+キ
+しる.す
+scribe, account, narrative
+----------
+----------
+帰
+キ
+かえ.る、 かえ.す、 おく.る、 とつ.ぐ
+homecoming, arrive at, lead to, result in
+----------
+----------
+弓
+キュウ
+ゆみ
+bow, bow (archery, violin)
+----------
+----------
+牛
+ギュウ
+うし
+cow
+----------
+----------
+魚
+ギョ
+うお、 さかな、 -ざかな
+fish
+----------
+----------
+京
+キョウ、 ケイ、 キン
+みやこ
+capital, 10**16
+----------
+----------
+強
+キョウ、 ゴウ
+つよ.い、 つよ.まる、 つよ.める、 し.いる、 こわ.い
+strong
+----------
+----------
+教
+キョウ
+おし.える、 おそ.わる
+teach, faith, doctrine
+----------
+----------
+近
+キン、 コン
+ちか.い
+near, early, akin, tantamount
+----------
+----------
+兄
+ケイ、 キョウ
+あに
+elder brother, big brother
+----------
+----------
+形
+ケイ、 ギョウ
+かた、 -がた、 かたち、 なり
+shape, form, style
+----------
+----------
+計
+ケイ
+はか.る、 はか.らう
+plot, plan, scheme, measure
+----------
+----------
+元
+ゲン、 ガン
+もと
+beginning, former time, origin
+----------
+----------
+言
+ゲン、 ゴン
+い.う、 こと
+say, word
+----------
+----------
+原
+ゲン
+はら
+meadow, original, primitive, field, plain, prairie, tundra, wilderness
+----------
+----------
+戸
+コ
+と
+door, counter for houses, door radical (no. 63)
+----------
+----------
+古
+コ
+ふる.い、 ふる-、 -ふる.す
+old
+----------
+----------
+午
+ゴ
+うま
+noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac
+----------
+----------
+後
+ゴ、 コウ
+のち、 うし.ろ、 うしろ、 あと、 おく.れる
+behind, back, later
+----------
+----------
+語
+ゴ
+かた.る、 かた.らう
+word, speech, language
+----------
+----------
+工
+コウ、 ク、 グ
+
+craft, construction, katakana e radical (no. 48)
+----------
+----------
+公
+コウ、 ク
+おおやけ
+public, prince, official, governmental
+----------
+----------
+広
+コウ
+ひろ.い、 ひろ.まる、 ひろ.める、 ひろ.がる、 ひろ.げる
+wide, broad, spacious
+----------
+----------
+交
+コウ
+まじ.わる、 まじ.える、 ま.じる、 まじ.る、 ま.ざる、 ま.ぜる、 -か.う、 か.わす、 かわ.す、 こもごも
+mingle, mixing, association, coming & going
+----------
+----------
+光
+コウ
+ひか.る、 ひかり
+ray, light
+----------
+----------
+考
+コウ
+かんが.える、 かんが.え
+consider, think over
+----------
+----------
+行
+コウ、 ギョウ、 アン
+い.く、 ゆ.く、 -ゆ.き、 -ゆき、 -い.き、 -いき、 おこな.う、 おこ.なう
+going, journey, carry out, conduct, act, line, row, bank
+----------
+----------
+高
+コウ
+たか.い、 たか、 -だか、 たか.まる、 たか.める
+tall, high, expensive
+----------
+----------
+黄
+コウ、 オウ
+き、 こ-
+yellow
+----------
+----------
+合
+ゴウ、 ガッ、 カッ
+あ.う、 -あ.う、 あ.い、 あい-、 -あ.い、 -あい、 あ.わす、 あ.わせる、 -あ.わせる
+fit, suit, join, 0.1
+----------
+----------
+谷
+コク
+たに、 きわ.まる
+valley
+----------
+----------
+国
+コク
+くに
+country
+----------
+----------
+黒
+コク
+くろ、 くろ.ずむ、 くろ.い
+black
+----------
+----------
+今
+コン、 キン
+いま
+now
+----------
+----------
+才
+サイ
+
+genius, years old, cubic shaku
+----------
+----------
+細
+サイ
+ほそ.い、 ほそ.る、 こま.か、 こま.かい
+dainty, get thin, taper, slender, narrow, detailed, precise
+----------
+----------
+作
+サク、 サ
+つく.る、 つく.り、 -づく.り
+make, production, prepare, build
+----------
+----------
+算
+サン
+そろ
+calculate, divining, number, abacus, probability
+----------
+----------
+止
+シ
+と.まる、 -ど.まり、 と.める、 -と.める、 -ど.め、 とど.める、 とど.め、 とど.まる、 や.める、 や.む、 -や.む、 よ.す、 -さ.す、 -さ.し
+stop, halt
+----------
+----------
+市
+シ
+いち
+market, city, town
+----------
+----------
+矢
+シ
+や
+dart, arrow
+----------
+----------
+姉
+シ
+あね、 はは
+elder sister
+----------
+----------
+思
+シ
+おも.う、 おもえら.く、 おぼ.す
+think
+----------
+----------
+紙
+シ
+かみ
+paper
+----------
+----------
+寺
+ジ
+てら
+Buddhist temple
+----------
+----------
+自
+ジ、 シ
+みずか.ら、 おの.ずから、 おの.ずと
+oneself
+----------
+----------
+時
+ジ
+とき、 -どき
+time, hour
+----------
+----------
+室
+シツ
+むろ
+room, apartment, chamber, greenhouse, cellar
+----------
+----------
+社
+シャ
+やしろ
+company, firm, office, association, shrine
+----------
+----------
+弱
+ジャク
+よわ.い、 よわ.る、 よわ.まる、 よわ.める
+weak, frail
+----------
+----------
+首
+シュ
+くび
+neck, counter for songs and poems
+----------
+----------
+秋
+シュウ
+あき、 とき
+autumn
+----------
+----------
+週
+シュウ
+
+week
+----------
+----------
+春
+シュン
+はる
+springtime, spring (season)
+----------
+----------
+書
+ショ
+か.く、 -が.き、 -がき
+write
+----------
+----------
+少
+ショウ
+すく.ない、 すこ.し
+few, little
+----------
+----------
+場
+ジョウ、 チョウ
+ば
+location, place
+----------
+----------
+色
+ショク、 シキ
+いろ
+color
+----------
+----------
+食
+ショク、 ジキ
+く.う、 く.らう、 た.べる、 は.む
+eat, food
+----------
+----------
+心
+シン
+こころ、 -ごころ
+heart, mind, spirit, heart radical (no. 61)
+----------
+----------
+新
+シン
+あたら.しい、 あら.た、 あら-、 にい-
+new
+----------
+----------
+親
+シン
+おや、 おや-、 した.しい、 した.しむ
+parent, intimacy, relative, familiarity, dealer (cards)
+----------
+----------
+図
+ズ、 ト
+え、 はか.る
+map, drawing, plan, extraordinary, audacious
+----------
+----------
+数
+スウ、 ス、 サク、 ソク、 シュ
+かず、 かぞ.える、 しばしば、 せ.める、 わずらわ.しい
+number, strength, fate, law, figures
+----------
+----------
+西
+セイ、 サイ、 ス
+にし
+west, Spain
+----------
+----------
+声
+セイ、 ショウ
+こえ、 こわ-
+voice
+----------
+----------
+星
+セイ、 ショウ
+ほし、 -ぼし
+star, spot, dot, mark
+----------
+----------
+晴
+セイ
+は.れる、 は.れ、 は.れ-、 -ば.れ、 は.らす
+clear up
+----------
+----------
+切
+セツ、 サイ
+き.る、 -き.る、 き.り、 -き.り、 -ぎ.り、 き.れる、 -き.れる、 き.れ、 -き.れ、 -ぎ.れ
+cut, cutoff, be sharp
+----------
+----------
+雪
+セツ
+ゆき
+snow
+----------
+----------
+船
+セン
+ふね、 ふな-
+ship, boat
+----------
+----------
+線
+セン
+すじ
+line, track
+----------
+----------
+前
+ゼン
+まえ、 -まえ
+in front, before
+----------
+----------
+組
+ソ
+く.む、 くみ、 -ぐみ
+association, braid, plait, construct, assemble, unite, cooperate, grapple
+----------
+----------
+走
+ソウ
+はし.る
+run
+----------
+----------
+多
+タ
+おお.い、 まさ.に、 まさ.る
+many, frequent, much
+----------
+----------
+太
+タイ、 タ
+ふと.い、 ふと.る
+plump, thick, big around
+----------
+----------
+体
+タイ、 テイ
+からだ、 かたち
+body, substance, object, reality, counter for images
+----------
+----------
+台
+ダイ、 タイ
+うてな、 われ、 つかさ
+pedestal, a stand, counter for machines and vehicles
+----------
+----------
+地
+チ、 ジ
+
+ground, earth
+----------
+----------
+池
+チ
+いけ
+pond, cistern, pool, reservoir
+----------
+----------
+知
+チ
+し.る、 し.らせる
+know, wisdom
+----------
+----------
+茶
+チャ、 サ
+
+tea
+----------
+----------
+昼
+チュウ
+ひる
+daytime, noon
+----------
+----------
+長
+チョウ
+なが.い、 おさ
+long, leader, superior, senior
+----------
+----------
+鳥
+チョウ
+とり
+bird, chicken
+----------
+----------
+朝
+チョウ
+あさ
+morning, dynasty, regime, epoch, period, (North) Korea
+----------
+----------
+直
+チョク、 ジキ、 ジカ
+ただ.ちに、 なお.す、 -なお.す、 なお.る、 なお.き、 す.ぐ
+straightaway, honesty, frankness, fix, repair
+----------
+----------
+通
+ツウ、 ツ
+とお.る、 とお.り、 -とお.り、 -どお.り、 とお.す、 とお.し、 -どお.し、 かよ.う
+traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.
+----------
+----------
+弟
+テイ、 ダイ、 デ
+おとうと
+younger brother, faithful service to elders
+----------
+----------
+店
+テン
+みせ、 たな
+store, shop
+----------
+----------
+点
+テン
+つ.ける、 つ.く、 た.てる、 さ.す、 とぼ.す、 とも.す、 ぼち
+spot, point, mark, speck, decimal point
+----------
+----------
+電
+デン
+
+electricity
+----------
+----------
+刀
+トウ
+かたな、 そり
+sword, saber, knife
+----------
+----------
+冬
+トウ
+ふゆ
+winter
+----------
+----------
+当
+トウ
+あ.たる、 あ.たり、 あ.てる、 あ.て、 まさ.に、 まさ.にべし
+hit, right, appropriate, himself
+----------
+----------
+東
+トウ
+ひがし
+east
+----------
+----------
+答
+トウ
+こた.える、 こた.え
+solution, answer
+----------
+----------
+頭
+トウ、 ズ、 ト
+あたま、 かしら、 -がしら、 かぶり
+head, counter for large animals
+----------
+----------
+同
+ドウ
+おな.じ
+same, agree, equal
+----------
+----------
+道
+ドウ、 トウ
+みち、 いう
+road-way, street, district, journey, course, moral, teachings
+----------
+----------
+読
+ドク、 トク、 トウ
+よ.む、 -よ.み
+read
+----------
+----------
+内
+ナイ、 ダイ
+うち
+inside, within, between, among, house, home
+----------
+----------
+南
+ナン、 ナ
+みなみ
+south
+----------
+----------
+肉
+ニク
+しし
+meat
+----------
+----------
+馬
+バ
+うま、 うま-、 ま
+horse
+----------
+----------
+売
+バイ
+う.る、 う.れる
+sell
+----------
+----------
+買
+バイ
+か.う
+buy
+----------
+----------
+麦
+バク
+むぎ
+barley, wheat
+----------
+----------
+半
+ハン
+なか.ば
+half, middle, odd number, semi-, part-
+----------
+----------
+番
+バン
+つが.い
+turn, number in a series
+----------
+----------
+父
+フ
+ちち
+father
+----------
+----------
+風
+フウ、 フ
+かぜ、 かざ-
+wind, air, style, manner
+----------
+----------
+分
+ブン、 フン、 ブ
+わ.ける、 わ.け、 わ.かれる、 わ.かる、 わ.かつ
+part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100
+----------
+----------
+聞
+ブン、 モン
+き.く、 き.こえる
+hear, ask, listen
+----------
+----------
+米
+ベイ、 マイ、 メエトル
+こめ、 よね
+rice, USA, metre
+----------
+----------
+歩
+ホ、 ブ、 フ
+ある.く、 あゆ.む
+walk, counter for steps
+----------
+----------
+母
+ボ
+はは、 も
+mother
+----------
+----------
+方
+ホウ
+かた、 -かた、 -がた
+direction, person, alternative
+----------
+----------
+北
+ホク
+きた
+north
+----------
+----------
+毎
+マイ
+ごと、 -ごと.に
+every
+----------
+----------
+妹
+マイ
+いもうと
+younger sister
+----------
+----------
+万
+マン、 バン
+よろず
+ten thousand, 10,000
+----------
+----------
+明
+メイ、 ミョウ、 ミン
+あ.かり、 あか.るい、 あか.るむ、 あか.らむ、 あき.らか、 あ.ける、 -あ.け、 あ.く、 あ.くる、 あ.かす
+bright, light
+----------
+----------
+鳴
+メイ
+な.く、 な.る、 な.らす
+chirp, cry, bark, sound, ring, echo, honk
+----------
+----------
+毛
+モウ
+け
+fur, hair, feather, down
+----------
+----------
+門
+モン
+かど、 と
+gate, counter for cannons
+----------
+----------
+夜
+ヤ
+よ、 よる
+night, evening
+----------
+----------
+野
+ヤ、 ショ
+の、 の-
+plains, field, rustic, civilian life
+----------
+----------
+友
+ユウ
+とも
+friend
+----------
+----------
+用
+ヨウ
+もち.いる
+utilize, business, service, use, employ
+----------
+----------
+曜
+ヨウ
+
+weekday
+----------
+----------
+来
+ライ、 タイ
+く.る、 きた.る、 きた.す、 き.たす、 き.たる、 き、 こ
+come, due, next, cause, become
+----------
+----------
+里
+リ
+さと
+ri, village, parent's home, league
+----------
+----------
+理
+リ
+ことわり
+logic, arrangement, reason, justice, truth
+----------
+----------
+話
+ワ
+はな.す、 はなし
+tale, talk
+----------
+**************************************************
+#nivell3 _200_
+
+
+
+**************************************************
+----------
+悪
+アク、 オ
+わる.い、 わる-、 あ.し、 にく.い、 -にく.い、 ああ、 いずくに、 いずくんぞ、 にく.む
+bad, vice, rascal, false, evil, wrong
+----------
+----------
+安
+アン
+やす.い、 やす.まる、 やす、 やす.らか
+relax, cheap, low, quiet, rested, contented, peaceful
+----------
+----------
+暗
+アン
+くら.い、 くら.む、 くれ.る
+darkness, disappear, shade, informal, grow dark, be blinded
+----------
+----------
+医
+イ
+い.やす、 い.する、 くすし
+doctor, medicine
+----------
+----------
+委
+イ
+ゆだ.ねる
+committee, entrust to, leave to, devote, discard
+----------
+----------
+意
+イ
+
+idea, mind, heart, taste, thought, desire, care, liking
+----------
+----------
+育
+イク
+そだ.つ、 そだ.ち、 そだ.てる、 はぐく.む
+bring up, grow up, raise, rear
+----------
+----------
+員
+イン
+
+employee, member, number, the one in charge
+----------
+----------
+院
+イン
+
+Inst., institution, temple, mansion, school
+----------
+----------
+飲
+イン、 オン
+の.む、 -の.み
+drink, smoke, take
+----------
+----------
+運
+ウン
+はこ.ぶ
+carry, luck, destiny, fate, lot, transport, progress, advance
+----------
+----------
+泳
+エイ
+およ.ぐ
+swim
+----------
+----------
+駅
+エキ
+
+station
+----------
+----------
+央
+オウ
+
+center, middle
+----------
+----------
+横
+オウ
+よこ
+sideways, side, horizontal, width, woof, unreasonable, perverse
+----------
+----------
+屋
+オク
+や
+roof, house, shop, dealer, seller
+----------
+----------
+温
+オン
+あたた.か、 あたた.かい、 あたた.まる、 あたた.める、 ぬく
+warm
+----------
+----------
+化
+カ、 ケ
+ば.ける、 ば.かす、 ふ.ける、 け.する
+change, take the form of, influence, enchant, delude, -ization
+----------
+----------
+何
+カ
+なに、 なん、 なに-、 なん-
+what
+----------
+----------
+界
+カイ
+
+world, boundary
+----------
+----------
+開
+カイ
+ひら.く、 ひら.き、 -びら.き、 ひら.ける、 あ.く、 あ.ける
+open, unfold, unseal
+----------
+----------
+階
+カイ
+きざはし
+storey, stair, counter for storeys of a building
+----------
+----------
+寒
+カン
+さむ.い
+cold
+----------
+----------
+感
+カン
+
+emotion, feeling, sensation
+----------
+----------
+漢
+カン
+
+Sino-, China
+----------
+----------
+館
+カン
+やかた、 たて
+building, mansion, large building, palace
+----------
+----------
+岸
+ガン
+きし
+beach
+----------
+----------
+起
+キ
+お.きる、 お.こる、 お.こす、 おこ.す、 た.つ
+rouse, wake up, get up
+----------
+----------
+期
+キ、 ゴ
+
+period, time, date, term
+----------
+----------
+客
+キャク、 カク
+
+guest, visitor, customer, client
+----------
+----------
+究
+キュウ、 ク
+きわ.める
+research, study
+----------
+----------
+急
+キュウ
+いそ.ぐ、 いそ.ぎ、 せ.く
+hurry, emergency, sudden, steep
+----------
+----------
+級
+キュウ
+
+class, rank, grade
+----------
+----------
+宮
+キュウ、 グウ、 ク、 クウ
+みや
+Shinto shrine, constellations, palace, princess
+----------
+----------
+球
+キュウ
+たま
+ball, sphere
+----------
+----------
+去
+キョ、 コ
+さ.る、 -さ.る
+gone, past, quit, leave, elapse, eliminate, divorce
+----------
+----------
+橋
+キョウ
+はし
+bridge
+----------
+----------
+業
+ギョウ、 ゴウ
+わざ
+business, vocation, arts, performance
+----------
+----------
+曲
+キョク
+ま.がる、 ま.げる、 くま
+bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean
+----------
+----------
+局
+キョク
+つぼね
+bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment
+----------
+----------
+銀
+ギン
+しろがね
+silver
+----------
+----------
+区
+ク、 オウ、 コウ
+
+ward, district
+----------
+----------
+苦
+ク
+くる.しい、 -ぐる.しい、 くる.しむ、 くる.しめる、 にが.い、 にが.る
+suffering, trial, worry, hardship, feel bitter, scowl
+----------
+----------
+具
+グ
+そな.える、 つぶさ.に
+tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture
+----------
+----------
+君
+クン
+きみ、 -ぎみ
+mister, you, ruler, male name suffix
+----------
+----------
+係
+ケイ
+かか.る、 かかり、 -がかり、 かか.わる
+person in charge, connection, duty, concern oneself
+----------
+----------
+軽
+ケイ、 キョウ、 キン
+かる.い、 かろ.やか、 かろ.んじる
+lightly, trifling, unimportant
+----------
+----------
+血
+ケツ
+ち
+blood
+----------
+----------
+決
+ケツ
+き.める、 -ぎ.め、 き.まる、 さ.く
+decide, fix, agree upon, appoint
+----------
+----------
+研
+ケン
+と.ぐ
+polish, study of, sharpen
+----------
+----------
+県
+ケン
+か.ける
+prefecture
+----------
+----------
+庫
+コ、 ク
+くら
+warehouse, storehouse
+----------
+----------
+湖
+コ
+みずうみ
+lake
+----------
+----------
+向
+コウ
+む.く、 む.い、 -む.き、 む.ける、 -む.け、 む.かう、 む.かい、 む.こう、 む.こう-、 むこ、 むか.い
+yonder, facing, beyond, confront, defy, tend toward, approach
+----------
+----------
+幸
+コウ
+さいわ.い、 さち、 しあわ.せ
+happiness, blessing, fortune
+----------
+----------
+港
+コウ
+みなと
+harbor
+----------
+----------
+号
+ゴウ
+さけ.ぶ、 よびな
+nickname, number, item, title, pseudonym, name, call
+----------
+----------
+根
+コン
+ね、 -ね
+root, radical, head (pimple)
+----------
+----------
+祭
+サイ
+まつ.る、 まつ.り、 まつり
+ritual, offer prayers, celebrate, deify, enshrine, worship
+----------
+----------
+皿
+ベイ
+さら
+dish, a helping, plate
+----------
+----------
+仕
+シ、 ジ
+つか.える
+attend, doing, official, serve
+----------
+----------
+死
+シ
+し.ぬ、 し.に-
+death, die
+----------
+----------
+使
+シ
+つか.う、 つか.い、 -つか.い、 -づか.い
+use, send on a mission, order, messenger, envoy, ambassador, cause
+----------
+----------
+始
+シ
+はじ.める、 -はじ.める、 はじ.まる
+commence, begin
+----------
+----------
+指
+シ
+ゆび、 さ.す、 -さ.し
+finger, point to, indicate, put into, play (chess), measure (ruler)
+----------
+----------
+歯
+シ
+よわい、 は、 よわ.い、 よわい.する
+tooth, cog
+----------
+----------
+詩
+シ
+うた
+poem, poetry
+----------
+----------
+次
+ジ、 シ
+つ.ぐ、 つぎ
+next, order, sequence
+----------
+----------
+事
+ジ、 ズ
+こと、 つか.う、 つか.える
+matter, thing, fact, business, reason, possibly
+----------
+----------
+持
+ジ
+も.つ、 -も.ち、 も.てる
+hold, have
+----------
+----------
+式
+シキ
+
+style, ceremony, rite, function, method, system, form, expression
+----------
+----------
+実
+ジツ、 シツ
+み、 みの.る、 まこと、 みの、 みち.る
+reality, truth, seed, fruit, nut
+----------
+----------
+写
+シャ、 ジャ
+うつ.す、 うつ.る、 うつ-、 うつ.し
+copy, be photographed, describe
+----------
+----------
+者
+シャ
+もの
+someone, person
+----------
+----------
+主
+シュ、 ス、 シュウ
+ぬし、 おも、 あるじ
+lord, chief, master, main thing, principal
+----------
+----------
+守
+シュ、 ス
+まも.る、 まも.り、 もり、 -もり、 かみ
+guard, protect, defend, obey
+----------
+----------
+取
+シュ
+と.る、 と.り、 と.り-、 とり、 -ど.り
+take, fetch, take up
+----------
+----------
+酒
+シュ
+さけ、 さか-
+sake, alcohol
+----------
+----------
+受
+ジュ
+う.ける、 -う.け、 う.かる
+accept, undergo, answer (phone), take, get, catch, receive
+----------
+----------
+州
+シュウ、 ス
+す
+state, province
+----------
+----------
+拾
+シュウ、 ジュウ
+ひろ.う
+pick up, gather, find, go on foot, ten
+----------
+----------
+終
+シュウ
+お.わる、 -お.わる、 おわ.る、 お.える、 つい、 つい.に
+end, finish
+----------
+----------
+習
+シュウ、 ジュ
+なら.う、 なら.い
+learn
+----------
+----------
+集
+シュウ
+あつ.まる、 あつ.める、 つど.う
+gather, meet, congregate, swarm, flock
+----------
+----------
+住
+ジュウ、 ヂュウ、 チュウ
+す.む、 す.まう、 -ず.まい
+dwell, reside, live, inhabit
+----------
+----------
+重
+ジュウ、 チョウ
+え、 おも.い、 おも.り、 おも.なう、 かさ.ねる、 かさ.なる、 おも
+heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold
+----------
+----------
+宿
+シュク
+やど、 やど.る、 やど.す
+inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling
+----------
+----------
+所
+ショ
+ところ、 -ところ、 どころ、 とこ
+place, extent
+----------
+----------
+暑
+ショ
+あつ.い
+sultry, hot, summer heat
+----------
+----------
+助
+ジョ
+たす.ける、 たす.かる、 す.ける、 すけ
+help, rescue, assist
+----------
+----------
+昭
+ショウ
+
+shining, bright
+----------
+----------
+消
+ショウ
+き.える、 け.す
+extinguish, blow out, turn off, neutralize, cancel
+----------
+----------
+商
+ショウ
+あきな.う
+make a deal, selling, dealing in, merchant
+----------
+----------
+章
+ショウ
+
+badge, chapter, composition, poem, design
+----------
+----------
+勝
+ショウ
+か.つ、 -が.ち、 まさ.る、 すぐ.れる、 かつ
+victory, win, prevail, excel
+----------
+----------
+乗
+ジョウ、 ショウ
+の.る、 -の.り、 の.せる
+ride, power, multiplication, record, counter for vehicles, board, mount, join
+----------
+----------
+植
+ショク
+う.える、 う.わる
+plant
+----------
+----------
+申
+シン
+もう.す、 もう.し-、 さる
+have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac
+----------
+----------
+身
+シン
+み
+somebody, person, one's station in life
+----------
+----------
+神
+シン、 ジン
+かみ、 かん-、 こう-
+gods, mind, soul
+----------
+----------
+真
+シン
+ま、 ま-、 まこと
+true, reality, Buddhist sect
+----------
+----------
+深
+シン
+ふか.い、 -ぶか.い、 ふか.まる、 ふか.める、 み-
+deep, heighten, intensify, strengthen
+----------
+----------
+進
+シン
+すす.む、 すす.める
+advance, proceed, progress, promote
+----------
+----------
+世
+セイ、 セ、 ソウ
+よ
+generation, world, society, public
+----------
+----------
+整
+セイ
+ととの.える、 ととの.う
+organize, arranging, tune, tone, meter, key (music)
+----------
+----------
+昔
+セキ、 シャク
+むかし
+once upon a time, antiquity, old times
+----------
+----------
+全
+ゼン
+まった.く、 すべ.て
+whole, entire, all, complete, fulfill
+----------
+----------
+相
+ソウ、 ショウ
+あい-
+inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy
+----------
+----------
+送
+ソウ
+おく.る
+escort, send
+----------
+----------
+想
+ソウ、 ソ
+おも.う
+concept, think, idea, thought
+----------
+----------
+息
+ソク
+いき
+breath, respiration, son, interest (on money)
+----------
+----------
+速
+ソク
+はや.い、 はや-、 はや.める、 すみ.やか
+quick, fast
+----------
+----------
+族
+ゾク
+
+tribe, family
+----------
+----------
+他
+タ
+ほか
+other, another, the others
+----------
+----------
+打
+ダ、 ダース
+う.つ、 う.ち-、 ぶ.つ
+strike, hit, knock, pound, dozen
+----------
+----------
+対
+タイ、 ツイ
+あいて、 こた.える、 そろ.い、 つれあ.い、 なら.ぶ、 むか.う
+vis-a-vis, opposite, even, equal, versus, anti-, compare
+----------
+----------
+待
+タイ
+ま.つ、 -ま.ち
+wait, depend on
+----------
+----------
+代
+ダイ、 タイ
+か.わる、 かわ.る、 かわ.り、 か.わり、 -がわ.り、 -が.わり、 か.える、 よ、 しろ
+substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee
+----------
+----------
+第
+ダイ、 テイ
+
+No., residence
+----------
+----------
+題
+ダイ
+
+topic, subject
+----------
+----------
+炭
+タン
+すみ
+charcoal, coal
+----------
+----------
+短
+タン
+みじか.い
+short, brevity, fault, defect, weak point
+----------
+----------
+談
+ダン
+
+discuss, talk
+----------
+----------
+着
+チャク、 ジャク
+き.る、 き.せる、 つ.く、 つ.ける
+don, arrive, wear, counter for suits of clothing
+----------
+----------
+注
+チュウ
+そそ.ぐ、 さ.す、 つ.ぐ
+pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate
+----------
+----------
+柱
+チュウ
+はしら
+pillar, post, cylinder, support
+----------
+----------
+丁
+チョウ、 テイ、 チン、 トウ、 チ
+ひのと
+street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign
+----------
+----------
+帳
+チョウ
+とばり
+notebook, account book, album, curtain, veil, net, tent
+----------
+----------
+調
+チョウ
+しら.べる、 しら.べ、 ととの.う、 ととの.える
+tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate
+----------
+----------
+追
+ツイ
+お.う
+chase, drive away, follow, pursue, meanwhile
+----------
+----------
+定
+テイ、 ジョウ
+さだ.める、 さだ.まる、 さだ.か
+determine, fix, establish, decide
+----------
+----------
+庭
+テイ
+にわ
+courtyard, garden, yard
+----------
+----------
+笛
+テキ
+ふえ
+flute, clarinet, pipe, whistle, bagpipe, piccolo
+----------
+----------
+鉄
+テツ
+くろがね
+iron
+----------
+----------
+転
+テン
+ころ.がる、 ころ.げる、 ころ.がす、 ころ.ぶ、 まろ.ぶ、 うたた、 うつ.る、 くる.めく
+revolve, turn around, change
+----------
+----------
+都
+ト、 ツ
+みやこ
+metropolis, capital, all, everything
+----------
+----------
+度
+ド、 ト、 タク
+たび、 -た.い
+degrees, occurrence, time, counter for occurrences, consider, attitude
+----------
+----------
+投
+トウ
+な.げる、 -な.げ
+throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss
+----------
+----------
+豆
+トウ、 ズ
+まめ、 まめ-
+beans, pea, midget
+----------
+----------
+島
+トウ
+しま
+island
+----------
+----------
+湯
+トウ
+ゆ
+hot water, bath, hot spring
+----------
+----------
+登
+トウ、 ト、 ドウ、 ショウ、 チョウ
+のぼ.る、 あ.がる
+ascend, climb up
+----------
+----------
+等
+トウ
+ひと.しい、 など、 -ら
+etc., and so forth, class (first), quality, equal, similar
+----------
+----------
+動
+ドウ
+うご.く、 うご.かす
+move, motion, change, confusion, shift, shake
+----------
+----------
+童
+ドウ
+わらべ
+juvenile, child
+----------
+----------
+農
+ノウ
+
+agriculture, farmers
+----------
+----------
+波
+ハ
+なみ
+waves, billows, Poland
+----------
+----------
+配
+ハイ
+くば.る
+distribute, spouse, exile, rationing
+----------
+----------
+倍
+バイ
+
+double, twice, times, fold
+----------
+----------
+箱
+ソウ
+はこ
+box, chest, case, bin, railway car
+----------
+----------
+畑
+
+はた、 はたけ、 -ばたけ
+farm, field, garden, one's specialty, (kokuji)
+----------
+----------
+発
+ハツ、 ホツ
+た.つ、 あば.く、 おこ.る、 つか.わす、 はな.つ
+departure, discharge, publish, emit, start from, disclose, counter for gunshots
+----------
+----------
+反
+ハン、 ホン、 タン、 ホ
+そ.る、 そ.らす、 かえ.す、 かえ.る、 -かえ.る
+anti-
+----------
+----------
+坂
+ハン
+さか
+slope, incline, hill
+----------
+----------
+板
+ハン、 バン
+いた
+plank, board, plate, stage
+----------
+----------
+皮
+ヒ
+かわ
+pelt, skin, hide, leather, skin radical (no. 107)
+----------
+----------
+悲
+ヒ
+かな.しい、 かな.しむ
+grieve, sad, deplore, regret
+----------
+----------
+美
+ビ、 ミ
+うつく.しい
+beauty, beautiful
+----------
+----------
+鼻
+ビ
+はな
+nose, snout
+----------
+----------
+筆
+ヒツ
+ふで
+writing brush, writing, painting brush, handwriting
+----------
+----------
+氷
+ヒョウ
+こおり、 ひ、 こお.る
+icicle, ice, hail, freeze, congeal
+----------
+----------
+表
+ヒョウ
+おもて、 -おもて、 あらわ.す、 あらわ.れる、 あら.わす
+surface, table, chart, diagram
+----------
+----------
+秒
+ビョウ
+
+second (1/60 minute)
+----------
+----------
+病
+ビョウ、 ヘイ
+や.む、 -や.み、 やまい
+ill, sick
+----------
+----------
+品
+ヒン、 ホン
+しな
+goods, refinement, dignity, article, counter for meal courses
+----------
+----------
+負
+フ
+ま.ける、 ま.かす、 お.う
+defeat, negative, -, minus, bear, owe, assume a responsibility
+----------
+----------
+部
+ブ
+-べ
+section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine
+----------
+----------
+服
+フク
+
+clothing, admit, obey, discharge
+----------
+----------
+福
+フク
+
+blessing, fortune, luck, wealth
+----------
+----------
+物
+ブツ、 モツ
+もの、 もの-
+thing, object, matter
+----------
+----------
+平
+ヘイ、 ビョウ、 ヒョウ
+たい.ら、 たい.らげる、 ひら
+even, flat, peace
+----------
+----------
+返
+ヘン
+かえ.す、 -かえ.す、 かえ.る、 -かえ.る
+return, answer, fade, repay
+----------
+----------
+勉
+ベン
+つと.める
+exertion, endeavour, encourage, strive, make effort, diligent
+----------
+----------
+放
+ホウ
+はな.す、 -っぱな.し、 はな.つ、 はな.れる、 こ.く、 ほう.る
+set free, release, fire, shoot, emit, banish, liberate
+----------
+----------
+味
+ミ
+あじ、 あじ.わう
+flavor, taste
+----------
+----------
+命
+メイ、 ミョウ
+いのち
+fate, command, decree, destiny, life, appoint
+----------
+----------
+面
+メン、 ベン
+おも、 おもて、 つら
+mask, face, features, surface
+----------
+----------
+問
+モン
+と.う、 と.い、 とん
+question, ask, problem
+----------
+----------
+役
+ヤク、 エキ
+
+duty, war, campaign, drafted labor, office, service, role
+----------
+----------
+薬
+ヤク
+くすり
+medicine, chemical, enamel, gunpowder, benefit
+----------
+----------
+由
+ユ、 ユウ、 ユイ
+よし、 よ.る
+wherefore, a reason
+----------
+----------
+油
+ユ、 ユウ
+あぶら
+oil, fat
+----------
+----------
+有
+ユウ、 ウ
+あ.る
+possess, have, exist, happen, occur, approx
+----------
+----------
+遊
+ユウ、 ユ
+あそ.ぶ、 あそ.ばす
+play
+----------
+----------
+予
+ヨ、 シャ
+あらかじ.め
+beforehand, previous, myself, I
+----------
+----------
+羊
+ヨウ
+ひつじ
+sheep
+----------
+----------
+洋
+ヨウ
+
+ocean, sea, foreign, Western style
+----------
+----------
+葉
+ヨウ
+は
+leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece
+----------
+----------
+陽
+ヨウ
+ひ
+sunshine, yang principle, positive, male, heaven, daytime
+----------
+----------
+様
+ヨウ、 ショウ
+さま、 さん
+Esq., way, manner, situation, polite suffix
+----------
+----------
+落
+ラク
+お.ちる、 お.ち、 お.とす
+fall, drop, come down, village, hamlet
+----------
+----------
+流
+リュウ、 ル
+なが.れる、 なが.れ、 なが.す、 -なが.す
+current, a sink, flow, forfeit
+----------
+----------
+旅
+リョ
+たび
+trip, travel
+----------
+----------
+両
+リョウ
+てる、 ふたつ
+both, old Japanese coin, counter for carriages (e.g., in a train), two
+----------
+----------
+緑
+リョク、 ロク
+みどり
+green
+----------
+----------
+礼
+レイ、 ライ
+
+salute, bow, ceremony, thanks, remuneration
+----------
+----------
+列
+レツ、 レ
+
+file, row, rank, tier, column
+----------
+----------
+練
+レン
+ね.る、 ね.り
+practice, gloss, train, drill, polish, refine
+----------
+----------
+路
+ロ、 ル
+-じ、 みち
+path, route, road, distance
+----------
+----------
+和
+ワ、 オ、 カ
+やわ.らぐ、 やわ.らげる、 なご.む、 なご.やか、 あ.える
+harmony, Japanese style, peace, soften, Japan
+----------
+**************************************************
+#nivell4 _200_
+
+
+
+**************************************************
+----------
+愛
+アイ
+いと.しい、 かな.しい、 め.でる、 お.しむ、 まな
+love, affection, favourite
+----------
+----------
+案
+アン
+つくえ
+plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench
+----------
+----------
+以
+イ
+もっ.て
+by means of, because, in view of, compared with
+----------
+----------
+衣
+イ、 エ
+ころも、 きぬ、 -ぎ
+garment, clothes, dressing
+----------
+----------
+位
+イ
+くらい、 ぐらい
+rank, grade, throne, crown, about, some
+----------
+----------
+囲
+イ
+かこ.む、 かこ.う、 かこ.い
+surround, besiege, store, paling, enclosure, encircle, preserve, keep
+----------
+----------
+胃
+イ
+
+stomach, paunch, crop, craw
+----------
+----------
+印
+イン
+しるし、 -じるし、 しる.す
+stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India
+----------
+----------
+英
+エイ
+はなぶさ
+England, English, hero, outstanding, calyx
+----------
+----------
+栄
+エイ、 ヨウ
+さか.える、 は.え、 -ば.え、 は.える、 え
+flourish, prosperity, honor, glory, splendor
+----------
+----------
+塩
+エン
+しお
+salt
+----------
+----------
+億
+オク
+
+hundred million, 10**8
+----------
+----------
+加
+カ
+くわ.える、 くわ.わる
+add, addition, increase, join, include, Canada
+----------
+----------
+果
+カ
+は.たす、 はた.す、 -は.たす、 は.てる、 -は.てる、 は.て
+fruit, reward, carry out, achieve, complete, end, finish, succeed
+----------
+----------
+貨
+カ
+たから
+freight, goods, property
+----------
+----------
+課
+カ
+
+chapter, lesson, section, department, division, counter for chapters (of a book)
+----------
+----------
+芽
+ガ
+め
+bud, sprout, spear, germ
+----------
+----------
+改
+カイ
+あらた.める、 あらた.まる
+reformation, change, modify, mend, renew, examine, inspect, search
+----------
+----------
+械
+カイ
+かせ
+contraption, fetter, machine, instrument
+----------
+----------
+害
+ガイ
+
+harm, injury
+----------
+----------
+街
+ガイ、 カイ
+まち
+boulevard, street, town
+----------
+----------
+各
+カク
+おのおの
+each, every, either
+----------
+----------
+覚
+カク
+おぼ.える、 さ.ます、 さ.める、 さと.る
+memorize, learn, remember, awake, sober up
+----------
+----------
+完
+カン
+
+perfect, completion, end
+----------
+----------
+官
+カン
+
+bureaucrat, the government, organ
+----------
+----------
+管
+カン
+くだ
+pipe, tube, wind instrument, drunken talk, control, jurisdiction
+----------
+----------
+関
+カン
+せき、 -ぜき、 かか.わる、 からくり、 かんぬき
+connection, barrier, gateway, involve, concerning
+----------
+----------
+観
+カン
+み.る、 しめ.す
+outlook, look, appearance, condition, view
+----------
+----------
+願
+ガン
+ねが.う、 -ねがい
+petition, request, vow, wish, hope
+----------
+----------
+希
+キ、 ケ
+まれ、 こいねが.う
+hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal
+----------
+----------
+季
+キ
+
+seasons
+----------
+----------
+紀
+キ
+
+chronicle, account, narrative, history, annals, geologic period
+----------
+----------
+喜
+キ
+よろこ.ぶ、 よろこ.ばす
+rejoice, take pleasure in
+----------
+----------
+旗
+キ
+はた
+national flag, banner, standard
+----------
+----------
+器
+キ
+うつわ
+utensil, vessel, receptacle, implement, instrument, ability, container, tool, set
+----------
+----------
+機
+キ
+はた
+loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion
+----------
+----------
+議
+ギ
+
+deliberation, consultation, debate, consideration
+----------
+----------
+求
+キュウ、 グ
+もと.める
+request, want, wish for, require, demand
+----------
+----------
+泣
+キュウ
+な.く
+cry, weep, moan
+----------
+----------
+救
+キュウ
+すく.う
+salvation, save, help, rescue, reclaim
+----------
+----------
+給
+キュウ
+たま.う、 たも.う、 -たま.え
+salary, wage, gift, allow, grant, bestow on
+----------
+----------
+挙
+キョ
+あ.げる、 あ.がる、 こぞ.る
+raise, plan, project, behavior, actions
+----------
+----------
+漁
+ギョ、 リョウ
+あさ.る
+fishing, fishery
+----------
+----------
+共
+キョウ
+とも、 とも.に、 -ども
+together, both, neither, all, and, alike, with
+----------
+----------
+協
+キョウ
+
+co-, cooperation
+----------
+----------
+鏡
+キョウ、 ケイ
+かがみ
+mirror, speculum, barrel-head, round rice-cake offering
+----------
+----------
+競
+キョウ、 ケイ
+きそ.う、 せ.る、 くら.べる
+emulate, compete with, bid, sell at auction, bout, contest, race
+----------
+----------
+極
+キョク、 ゴク
+きわ.める、 きわ.まる、 きわ.まり、 きわ.み、 き.める、 -ぎ.め、 き.まる
+poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48
+----------
+----------
+訓
+クン、 キン
+おし.える、 よ.む、 くん.ずる
+instruction, Japanese character reading, explanation, read
+----------
+----------
+軍
+グン
+いくさ
+army, force, troops, war, battle
+----------
+----------
+郡
+グン
+こおり
+county, district
+----------
+----------
+径
+ケイ
+みち、 こみち、 さしわたし、 ただちに
+diameter, path, method
+----------
+----------
+型
+ケイ
+かた、 -がた
+mould, type, model
+----------
+----------
+景
+ケイ
+
+scenery, view
+----------
+----------
+芸
+ゲイ、 ウン
+う.える、 のり、 わざ
+technique, art, craft, performance, acting, trick, stunt
+----------
+----------
+欠
+ケツ、 ケン
+か.ける、 か.く
+lack, gap, fail, yawning radical (no. 76)
+----------
+----------
+結
+ケツ、 ケチ
+むす.ぶ、 ゆ.う、 ゆ.わえる
+tie, bind, contract, join, organize, do up hair, fasten
+----------
+----------
+建
+ケン、 コン
+た.てる、 た.て、 -だ.て、 た.つ
+build
+----------
+----------
+健
+ケン
+すこ.やか
+healthy, health, strength, persistence
+----------
+----------
+験
+ケン、 ゲン
+あかし、 しるし、 ため.す、 ためし
+verification, effect, testing
+----------
+----------
+固
+コ
+かた.める、 かた.まる、 かた.まり、 かた.い
+harden, set, clot, curdle
+----------
+----------
+功
+コウ、 ク
+いさお
+achievement, merits, success, honor, credit
+----------
+----------
+好
+コウ
+この.む、 す.く、 よ.い、 い.い
+fond, pleasing, like something
+----------
+----------
+候
+コウ
+そうろう
+climate, season, weather, wait for, expect
+----------
+----------
+航
+コウ
+
+navigate, sail, cruise, fly
+----------
+----------
+康
+コウ
+
+ease, peace
+----------
+----------
+告
+コク
+つ.げる
+revelation, tell, inform, announce
+----------
+----------
+差
+サ
+さ.す、 さ.し
+distinction, difference, variation, discrepancy, margin, balance
+----------
+----------
+菜
+サイ
+な
+vegetable, side dish, greens
+----------
+----------
+最
+サイ、 シュ
+もっと.も、 つま
+utmost, most, extreme
+----------
+----------
+材
+ザイ
+
+lumber, log, timber, wood, materials, ingredients, talent
+----------
+----------
+昨
+サク
+
+yesterday, previous
+----------
+----------
+札
+サツ
+ふだ
+tag, paper money, counter for bonds, placard, bid
+----------
+----------
+刷
+サツ
+す.る、 -ず.り、 -ずり、 は.く
+printing, print, brush
+----------
+----------
+殺
+サツ、 サイ、 セツ
+ころ.す、 -ごろ.し、 そ.ぐ
+kill, murder, butcher, slice off, split, diminish, reduce, spoil
+----------
+----------
+察
+サツ
+
+guess, presume, surmise, judge, understand
+----------
+----------
+参
+サン、 シン
+まい.る、 まい-、 まじわる、 みつ
+nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in
+----------
+----------
+産
+サン
+う.む、 う.まれる、 うぶ-、 む.す
+products, bear, give birth, yield, childbirth, native, property
+----------
+----------
+散
+サン
+ち.る、 ち.らす、 -ち.らす、 ち.らかす、 ち.らかる、 ち.らばる、 ばら、 ばら.ける
+scatter, disperse, spend, squander
+----------
+----------
+残
+ザン、 サン
+のこ.る、 のこ.す、 そこな.う、 のこ.り
+remainder, leftover, balance
+----------
+----------
+士
+シ
+さむらい
+gentleman, scholar, samurai, samurai radical (no. 33)
+----------
+----------
+氏
+シ
+うじ、 -うじ
+family name, surname, clan
+----------
+----------
+史
+シ
+
+history, chronicle
+----------
+----------
+司
+シ
+つかさど.る
+director, official, govt office, rule, administer
+----------
+----------
+試
+シ
+こころ.みる、 ため.す
+test, try, attempt, experiment, ordeal
+----------
+----------
+児
+ジ、 ニ、 ゲイ
+こ、 -こ、 -っこ
+newborn babe, child, young of animals
+----------
+----------
+治
+ジ、 チ
+おさ.める、 おさ.まる、 なお.る、 なお.す
+reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve
+----------
+----------
+辞
+ジ
+や.める、 いな.む
+resign, word, term, expression
+----------
+----------
+失
+シツ
+うしな.う、 う.せる
+lose, error, fault, disadvantage, loss
+----------
+----------
+借
+シャク
+か.りる
+borrow, rent
+----------
+----------
+種
+シュ
+たね、 -ぐさ
+species, kind, class, variety, seed
+----------
+----------
+周
+シュウ
+まわ.り
+circumference, circuit, lap
+----------
+----------
+祝
+シュク、 シュウ
+いわ.う
+celebrate, congratulate
+----------
+----------
+順
+ジュン
+
+obey, order, turn, right, docility, occasion
+----------
+----------
+初
+ショ
+はじ.め、 はじ.めて、 はつ、 はつ-、 うい-、 -そ.める、 -ぞ.め
+first time, beginning
+----------
+----------
+松
+ショウ
+まつ
+pine tree
+----------
+----------
+笑
+ショウ
+わら.う、 え.む
+laugh
+----------
+----------
+唱
+ショウ
+とな.える
+chant, recite, call upon, yell
+----------
+----------
+焼
+ショウ
+や.く、 や.き、 や.き-、 -や.き、 や.ける
+bake, burning
+----------
+----------
+象
+ショウ、 ゾウ
+かたど.る
+elephant, pattern after, imitate, image, shape, sign (of the times)
+----------
+----------
+照
+ショウ
+て.る、 て.らす、 て.れる
+illuminate, shine, compare, bashful
+----------
+----------
+賞
+ショウ
+ほ.める
+prize, reward, praise
+----------
+----------
+臣
+シン、 ジン
+
+retainer, subject
+----------
+----------
+信
+シン
+
+faith, truth, fidelity, trust
+----------
+----------
+成
+セイ、 ジョウ
+な.る、 な.す、 -な.す
+turn into, become, get, grow, elapse, reach
+----------
+----------
+省
+セイ、 ショウ
+かえり.みる、 はぶ.く
+focus, government ministry, conserve
+----------
+----------
+清
+セイ、 ショウ、 シン
+きよ.い、 きよ.まる、 きよ.める
+pure, purify, cleanse, exorcise, Manchu dynasty
+----------
+----------
+静
+セイ、 ジョウ
+しず-、 しず.か、 しず.まる、 しず.める
+quiet
+----------
+----------
+席
+セキ
+むしろ
+seat, mat, occasion, place
+----------
+----------
+積
+セキ
+つ.む、 -づ.み、 つ.もる、 つ.もり
+volume, product (x*y), acreage, contents, pile up, stack, load, amass
+----------
+----------
+折
+セツ、 シャク
+お.る、 おり、 お.り、 -お.り、 お.れる
+fold, break, fracture, bend, yield, submit
+----------
+----------
+節
+セツ、 セチ
+ふし、 -ぶし、 のっと
+node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody
+----------
+----------
+説
+セツ、 ゼイ
+と.く
+opinion, theory, explanation, rumor
+----------
+----------
+浅
+セン
+あさ.い
+shallow, superficial, frivolous, wretched, shameful
+----------
+----------
+戦
+セン
+いくさ、 たたか.う、 おのの.く、 そよ.ぐ、 わなな.く
+war, battle, match
+----------
+----------
+選
+セン
+えら.ぶ、 え.る、 よ.る
+elect, select, choose, prefer
+----------
+----------
+然
+ゼン、 ネン
+しか、 しか.り、 しか.し、 さ
+sort of thing, so, if so, in that case, well
+----------
+----------
+争
+ソウ
+あらそ.う、 いか.でか
+contend, dispute, argue
+----------
+----------
+倉
+ソウ
+くら
+godown, warehouse, storehouse, cellar, treasury
+----------
+----------
+巣
+ソウ
+す、 す.くう
+nest, rookery, hive, cobweb, den
+----------
+----------
+束
+ソク
+たば、 たば.ねる、 つか、 つか.ねる
+bundle, sheaf, ream, tie in bundles, govern, manage, control
+----------
+----------
+側
+ソク
+かわ、 がわ、 そば
+side, lean, oppose, regret
+----------
+----------
+続
+ゾク、 ショク、 コウ、 キョウ
+つづ.く、 つづ.ける、 つぐ.ない
+continue, series, sequel
+----------
+----------
+卒
+ソツ、 シュツ
+そっ.する、 お.える、 お.わる、 ついに、 にわか
+graduate, soldier, private, die
+----------
+----------
+孫
+ソン
+まご
+grandchild, descendants
+----------
+----------
+帯
+タイ
+お.びる、 おび
+sash, belt, obi, zone, region
+----------
+----------
+隊
+タイ
+
+regiment, party, company, squad
+----------
+----------
+達
+タツ、 ダ
+-たち
+accomplished, reach, arrive, attain
+----------
+----------
+単
+タン
+ひとえ
+simple, one, single, merely
+----------
+----------
+置
+チ
+お.く、 -お.き
+placement, put, set, deposit, leave behind, keep, employ, pawn
+----------
+----------
+仲
+チュウ
+なか
+go-between, relationship
+----------
+----------
+貯
+チョ
+た.める、 たくわ.える
+savings, store, lay in, keep, wear mustache
+----------
+----------
+兆
+チョウ
+きざ.す、 きざ.し
+portent, 10**12, trillion, sign, omen, symptoms
+----------
+----------
+腸
+チョウ
+はらわた、 わた
+intestines, guts, bowels, viscera
+----------
+----------
+低
+テイ
+ひく.い、 ひく.める、 ひく.まる
+lower, short, humble
+----------
+----------
+底
+テイ
+そこ
+bottom, sole, depth, bottom price, base, kind, sort
+----------
+----------
+停
+テイ
+と.める、 と.まる
+halt, stopping
+----------
+----------
+的
+テキ
+まと
+bull's eye, mark, target, object, adjective ending
+----------
+----------
+典
+テン、 デン
+
+code, ceremony, law, rule
+----------
+----------
+伝
+デン、 テン
+つた.わる、 つた.える、 つた.う、 つだ.う、 -づた.い、 つて
+transmit, go along, walk along, follow, report, communicate, legend, tradition
+----------
+----------
+徒
+ト
+いたずら、 あだ
+on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people
+----------
+----------
+努
+ド
+つと.める
+toil, diligent, as much as possible
+----------
+----------
+灯
+トウ
+ひ、 ほ-、 ともしび、 とも.す、 あかり
+lamp, a light, light, counter for lights
+----------
+----------
+堂
+ドウ
+
+public chamber, hall
+----------
+----------
+働
+ドウ
+はたら.く
+work, (kokuji)
+----------
+----------
+特
+トク
+
+special
+----------
+----------
+得
+トク
+え.る、 う.る
+gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit
+----------
+----------
+毒
+ドク
+
+poison, virus, venom, germ, harm, injury, spite
+----------
+----------
+熱
+ネツ
+あつ.い
+heat, temperature, fever, mania, passion
+----------
+----------
+念
+ネン
+
+wish, sense, idea, thought, feeling, desire, attention
+----------
+----------
+敗
+ハイ
+やぶ.れる
+failure, defeat, reversal
+----------
+----------
+梅
+バイ
+うめ
+plum
+----------
+----------
+博
+ハク、 バク
+
+Dr., command, esteem, win acclaim, Ph.D., exposition, fair
+----------
+----------
+飯
+ハン
+めし
+meal, boiled rice
+----------
+----------
+飛
+ヒ
+と.ぶ、 と.ばす、 -と.ばす
+fly, skip (pages), scatter
+----------
+----------
+費
+ヒ
+つい.やす、 つい.える
+expense, cost, spend, consume, waste
+----------
+----------
+必
+ヒツ
+かなら.ず
+invariably, certain, inevitable
+----------
+----------
+票
+ヒョウ
+
+ballot, label, ticket, sign
+----------
+----------
+標
+ヒョウ
+しるべ、 しるし
+signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target
+----------
+----------
+不
+フ、 ブ
+
+negative, non-, bad, ugly, clumsy
+----------
+----------
+夫
+フ、 フウ、 ブ
+おっと、 それ
+husband, man
+----------
+----------
+付
+フ
+つ.ける、 -つ.ける、 -づ.ける、 つ.け、 つ.け-、 -つ.け、 -づ.け、 -づけ、 つ.く、 -づ.く、 つ.き、 -つ.き、 -つき、 -づ.き、 -づき
+adhere, attach, refer to, append
+----------
+----------
+府
+フ
+
+borough, urban prefecture, govt office, representative body, storehouse
+----------
+----------
+副
+フク
+
+vice-, assistant, aide, duplicate, copy
+----------
+----------
+粉
+フン
+デシメートル、 こ、 こな
+flour, powder, dust
+----------
+----------
+兵
+ヘイ、 ヒョウ
+つわもの
+soldier, private, troops, army, warfare, strategy, tactics
+----------
+----------
+別
+ベツ
+わか.れる、 わ.ける
+separate, branch off, diverge, fork, another, extra, specially
+----------
+----------
+辺
+ヘン
+あた.り、 ほと.り、 -べ
+environs, boundary, border, vicinity
+----------
+----------
+変
+ヘン
+か.わる、 か.わり、 か.える
+unusual, change, strange
+----------
+----------
+便
+ベン、 ビン
+たよ.り
+convenience, facility, excrement, feces, letter, chance
+----------
+----------
+包
+ホウ
+つつ.む、 くる.む
+wrap, pack up, cover, conceal
+----------
+----------
+法
+ホウ、 ハッ、 ホッ、 フラン
+のり
+method, law, rule, principle, model, system
+----------
+----------
+望
+ボウ、 モウ
+のぞ.む、 もち
+ambition, full moon, hope, desire, aspire to, expect
+----------
+----------
+牧
+ボク
+まき
+breed, care for, shepherd, feed, pasture
+----------
+----------
+末
+マツ、 バツ
+すえ、 うら、 うれ
+end, close, tip, powder, posterity
+----------
+----------
+満
+マン、 バン
+み.ちる、 み.つ、 み.たす
+full, fullness, enough, satisfy
+----------
+----------
+未
+ミ、 ビ
+いま.だ、 ま.だ、 ひつじ
+un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac
+----------
+----------
+脈
+ミャク
+すじ
+vein, pulse, hope
+----------
+----------
+民
+ミン
+たみ
+people, nation, subjects
+----------
+----------
+無
+ム、 ブ
+な.い
+nothingness, none, ain't, nothing, nil, not
+----------
+----------
+約
+ヤク
+つづ.まる、 つづ.める、 つづま.やか
+promise, approximately, shrink
+----------
+----------
+勇
+ユウ
+いさ.む
+courage, cheer up, be in high spirits, bravery, heroism
+----------
+----------
+要
+ヨウ
+い.る、 かなめ
+need, main point, essence, pivot, key to
+----------
+----------
+養
+ヨウ、 リョウ
+やしな.う
+foster, bring up, rear, develop, nurture
+----------
+----------
+浴
+ヨク
+あ.びる、 あ.びせる
+bathe, be favored with, bask in
+----------
+----------
+利
+リ
+き.く
+profit, advantage, benefit
+----------
+----------
+陸
+リク、 ロク
+おか
+land, six
+----------
+----------
+良
+リョウ
+よ.い、 -よ.い、 い.い、 -い.い
+good, pleasing, skilled
+----------
+----------
+料
+リョウ
+
+fee, materials
+----------
+----------
+量
+リョウ
+はか.る
+quantity, measure, weight, amount, consider, estimate, surmise
+----------
+----------
+輪
+リン
+わ
+wheel, ring, circle, link, loop, counter for wheels and flowers
+----------
+----------
+類
+ルイ
+たぐ.い
+sort, kind, variety, class, genus
+----------
+----------
+令
+レイ
+
+orders, laws, command, decree, good
+----------
+----------
+冷
+レイ
+つめ.たい、 ひ.える、 ひ.や、 ひ.ややか、 ひ.やす、 ひ.やかす、 さ.める、 さ.ます
+cool, cold (beer, person), chill
+----------
+----------
+例
+レイ
+たと.える
+example, custom, usage, precedent
+----------
+----------
+歴
+レキ、 レッキ
+
+curriculum, continuation, passage of time
+----------
+----------
+連
+レン
+つら.なる、 つら.ねる、 つ.れる、 -づ.れ
+take along, lead, join, connect, party, gang, clique
+----------
+----------
+老
+ロウ
+お.いる、 ふ.ける
+old man, old age, grow old
+----------
+----------
+労
+ロウ
+ろう.する、 いたわ.る、 いた.ずき、 ねぎら、 つか.れる、 ねぎら.う
+labor, thank for, reward for, toil, trouble
+----------
+----------
+録
+ロク
+しる.す、 と.る
+record
+----------
+**************************************************
+#nivell5 _185_
+
+
+
+**************************************************
+----------
+圧
+アツ、 エン、 オウ
+お.す、 へ.す、 おさ.える、 お.さえる
+pressure, push, overwhelm, oppress, dominate
+----------
+----------
+移
+イ
+うつ.る、 うつ.す
+shift, move, change, drift, catch (cold, fire), pass into
+----------
+----------
+因
+イン
+よ.る、 ちな.む
+cause, factor, be associated with, depend on, be limited
+----------
+----------
+永
+エイ
+なが.い
+eternity, long, lengthy
+----------
+----------
+営
+エイ
+いとな.む、 いとな.み
+occupation, camp, perform, build, conduct (business)
+----------
+----------
+衛
+エイ、 エ
+
+defense, protection
+----------
+----------
+易
+エキ、 イ
+やさ.しい、 やす.い
+easy, ready to, simple, fortune-telling, divination
+----------
+----------
+益
+エキ、 ヤク
+ま.す
+benefit, gain, profit, advantage
+----------
+----------
+液
+エキ
+
+fluid, liquid, juice, sap, secretion
+----------
+----------
+演
+エン
+
+performance, act, play, render, stage
+----------
+----------
+応
+オウ、 ヨウ、 -ノウ
+あた.る、 まさに、 こた.える
+apply, answer, yes, OK, reply, accept
+----------
+----------
+往
+オウ
+い.く、 いにしえ、 さき.に、 ゆ.く
+journey, travel, chase away, let go, going, before, formerly
+----------
+----------
+桜
+オウ、 ヨウ
+さくら
+cherry
+----------
+----------
+恩
+オン
+
+grace, kindness, goodness, favor, mercy, blessing, benefit
+----------
+----------
+可
+カ、 コク
+-べ.き、 -べ.し
+can, passable, mustn't, should not, do not
+----------
+----------
+仮
+カ、 ケ
+かり、 かり-
+sham, temporary, interim, assumed (name), informal
+----------
+----------
+価
+カ、 ケ
+あたい
+value, price
+----------
+----------
+河
+カ
+かわ
+river
+----------
+----------
+過
+カ
+す.ぎる、 す.ごす、 あやま.ち、 あやま.つ、 よぎ.る、 よ.ぎる
+overdo, exceed, go beyond, error
+----------
+----------
+賀
+ガ
+
+congratulations, joy
+----------
+----------
+快
+カイ
+こころよ.い
+cheerful, pleasant, agreeable, comfortable
+----------
+----------
+解
+カイ、 ゲ
+と.く、 と.かす、 と.ける、 ほど.く、 ほど.ける、 わか.る、 さと.る
+unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute
+----------
+----------
+格
+カク、 コウ、 キャク、 ゴウ
+
+status, rank, capacity, character, case (law, grammar)
+----------
+----------
+確
+カク、 コウ
+たし.か、 たし.かめる
+assurance, firm, tight, hard, solid, confirm, clear, evident
+----------
+----------
+額
+ガク
+ひたい
+forehead, tablet, plaque, framed picture, sum, amount, volume
+----------
+----------
+刊
+カン
+
+publish, carve, engrave
+----------
+----------
+幹
+カン
+みき
+tree trunk, main part, talent, capability
+----------
+----------
+慣
+カン
+な.れる、 な.らす
+accustomed, get used to, become experienced
+----------
+----------
+眼
+ガン、 ゲン
+まなこ、 め
+eyeball
+----------
+----------
+基
+キ
+もと、 もとい
+fundamentals, radical (chem), counter for machines, foundation
+----------
+----------
+寄
+キ
+よ.る、 -よ.り、 よ.せる
+draw near, stop in, bring near, gather, collect, send, forward
+----------
+----------
+規
+キ
+
+standard, measure
+----------
+----------
+技
+ギ
+わざ
+skill, art, craft, ability, feat, performance, vocation, arts
+----------
+----------
+義
+ギ
+
+righteousness, justice, morality, honor, loyalty, meaning
+----------
+----------
+逆
+ギャク、 ゲキ
+さか、 さか.さ、 さか.らう
+inverted, reverse, opposite, wicked
+----------
+----------
+久
+キュウ、 ク
+ひさ.しい
+long time, old story
+----------
+----------
+旧
+キュウ
+ふる.い、 もと
+old times, old things, old friend, former, ex-
+----------
+----------
+居
+キョ、 コ
+い.る、 -い、 お.る
+reside, to be, exist, live with
+----------
+----------
+許
+キョ
+ゆる.す、 もと
+permit, approve
+----------
+----------
+境
+キョウ、 ケイ
+さかい
+boundary, border, region
+----------
+----------
+均
+キン
+なら.す
+level, average
+----------
+----------
+禁
+キン
+
+prohibition, ban, forbid
+----------
+----------
+句
+ク
+
+phrase, clause, sentence, passage, paragraph, counter for haiku
+----------
+----------
+群
+グン
+む.れる、 む.れ、 むら、 むら.がる
+flock, group, crowd, herd, swarm, cluster
+----------
+----------
+経
+ケイ、 キョウ、 キン
+へ.る、 た.つ、 たていと、 はか.る、 のり
+sutra, longitude, pass thru, expire, warp
+----------
+----------
+潔
+ケツ
+いさぎよ.い
+undefiled, pure, clean, righteous, gallant
+----------
+----------
+件
+ケン
+くだん
+affair, case, matter, item
+----------
+----------
+券
+ケン
+
+ticket
+----------
+----------
+険
+ケン
+けわ.しい
+precipitous, inaccessible place, impregnable position, steep place, sharp eyes
+----------
+----------
+検
+ケン
+しら.べる
+examination, investigate
+----------
+----------
+限
+ゲン
+かぎ.る、 かぎ.り、 -かぎ.り
+limit, restrict, to best of ability
+----------
+----------
+現
+ゲン
+あらわ.れる、 あらわ.す、 うつつ、 うつ.つ
+present, existing, actual
+----------
+----------
+減
+ゲン
+へ.る、 へ.らす
+dwindle, decrease, reduce, decline, curtail, get hungry
+----------
+----------
+故
+コ
+ゆえ、 ふる.い、 もと
+happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently
+----------
+----------
+個
+コ、 カ
+
+individual, counter for articles
+----------
+----------
+護
+ゴ
+まも.る
+safeguard, protect
+----------
+----------
+効
+コウ
+き.く、 ききめ、 なら.う
+merit, efficacy, efficiency, benefit
+----------
+----------
+厚
+コウ
+あつ.い、 あか
+thick, heavy, rich, kind, cordial, brazen, shameless
+----------
+----------
+耕
+コウ
+たがや.す
+till, plow, cultivate
+----------
+----------
+鉱
+コウ
+あらがね
+mineral, ore
+----------
+----------
+構
+コウ
+かま.える、 かま.う
+posture, build, pretend
+----------
+----------
+興
+コウ、 キョウ
+おこ.る、 おこ.す
+entertain, revive, retrieve, interest, pleasure
+----------
+----------
+講
+コウ
+
+lecture, club, association
+----------
+----------
+混
+コン
+ま.じる、 -ま.じり、 ま.ざる、 ま.ぜる、 こ.む
+mix, blend, confuse
+----------
+----------
+査
+サ
+
+investigate
+----------
+----------
+再
+サイ、 サ
+ふたた.び
+again, twice, second time
+----------
+----------
+災
+サイ
+わざわ.い
+disaster, calamity, woe, curse, evil
+----------
+----------
+妻
+サイ
+つま
+wife, spouse
+----------
+----------
+採
+サイ
+と.る
+pick, take, fetch, take up
+----------
+----------
+際
+サイ
+きわ、 -ぎわ
+occasion, side, edge, verge, dangerous, adventurous, indecent, time, when
+----------
+----------
+在
+ザイ
+あ.る
+exist, outskirts, suburbs, located in
+----------
+----------
+財
+ザイ、 サイ、 ゾク
+たから
+property, money, wealth, assets
+----------
+----------
+罪
+ザイ
+つみ
+guilt, sin, crime, fault, blame, offense
+----------
+----------
+雑
+ザツ、 ゾウ
+まじ.える、 まじ.る
+miscellaneous
+----------
+----------
+酸
+サン
+す.い
+acid, bitterness, sour, tart
+----------
+----------
+賛
+サン
+たす.ける、 たた.える
+approve, praise, title or inscription on picture, assist, agree with
+----------
+----------
+支
+シ
+ささ.える、 つか.える、 か.う
+branch, support, sustain, branch radical (no. 65)
+----------
+----------
+志
+シ
+シリング、 こころざ.す、 こころざし
+intention, plan, resolve, aspire, motive, hopes, shilling
+----------
+----------
+枝
+シ
+えだ
+bough, branch, twig, limb, counter for branches
+----------
+----------
+師
+シ
+いくさ
+expert, teacher, master, model, exemplar, army (incl. counter), war
+----------
+----------
+資
+シ
+
+assets, resources, capital, funds, data, be conducive to, contribute to
+----------
+----------
+飼
+シ
+か.う
+domesticate, raise, keep, feed
+----------
+----------
+示
+ジ、 シ
+しめ.す
+show, indicate, point out, express, display
+----------
+----------
+似
+ジ
+に.る、 ひ.る
+becoming, resemble, counterfeit, imitate, suitable
+----------
+----------
+識
+シキ
+し.る、 しる.す
+discriminating, know, write
+----------
+----------
+質
+シツ、 シチ、 チ
+たち、 ただ.す、 もと、 わりふ
+substance, quality, matter, temperament
+----------
+----------
+舎
+シャ、 セキ
+やど.る
+cottage, inn, hut, house, mansion
+----------
+----------
+謝
+シャ
+あやま.る
+apologize, thank, refuse
+----------
+----------
+授
+ジュ
+さず.ける、 さず.かる
+impart, instruct, grant, confer
+----------
+----------
+修
+シュウ、 シュ
+おさ.める、 おさ.まる
+discipline, conduct oneself well, study, master
+----------
+----------
+述
+ジュツ
+の.べる
+mention, state, speak, relate
+----------
+----------
+術
+ジュツ
+すべ
+art, technique, skill, means, trick, resources, magic
+----------
+----------
+準
+ジュン
+じゅん.じる、 じゅん.ずる、 なぞら.える、 のり、 ひと.しい、 みずもり
+semi-, correspond to, proportionate to, conform, imitate
+----------
+----------
+序
+ジョ
+つい.で、 ついで
+preface, beginning, order, precedence, occasion, chance, incidentally
+----------
+----------
+招
+ショウ
+まね.く
+beckon, invite, summon, engage
+----------
+----------
+承
+ショウ、 ジョウ
+うけたまわ.る、 う.ける
+acquiesce, hear, listen to, be informed, receive
+----------
+----------
+証
+ショウ
+あかし
+evidence, proof, certificate
+----------
+----------
+条
+ジョウ、 チョウ、 デキ
+えだ、 すじ
+article, clause, counter for articles, clauses, paragraphs, etc., twig, item, stripe, streak
+----------
+----------
+状
+ジョウ
+
+status quo, conditions, circumstances, form, appearance
+----------
+----------
+常
+ジョウ
+つね、 とこ-
+usual, ordinary, normal, common, regular, continually, always, long-lasting
+----------
+----------
+情
+ジョウ、 セイ
+なさ.け
+feelings, emotion, passion, sympathy, circumstances, facts
+----------
+----------
+織
+ショク、 シキ
+お.る、 お.り、 おり、 -おり、 -お.り
+weave, fabric
+----------
+----------
+職
+ショク、 ソク
+
+post, employment, work
+----------
+----------
+制
+セイ
+
+system, law, rule
+----------
+----------
+性
+セイ、 ショウ
+さが
+sex, gender, nature
+----------
+----------
+政
+セイ、 ショウ
+まつりごと、 まん
+politics, government
+----------
+----------
+勢
+セイ、 ゼイ
+いきお.い、 はずみ
+forces, energy, military strength
+----------
+----------
+精
+セイ、 ショウ
+しら.げる、 くわ.しい
+refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill
+----------
+----------
+製
+セイ
+
+made in..., manufacture
+----------
+----------
+税
+ゼイ
+
+tax, duty
+----------
+----------
+責
+セキ
+せ.める
+blame, condemn, censure
+----------
+----------
+績
+セキ
+
+exploits, achievements, unreeling cocoons
+----------
+----------
+接
+セツ、 ショウ
+つ.ぐ
+touch, contact, adjoin, piece together
+----------
+----------
+設
+セツ
+もう.ける
+establishment, provision, prepare
+----------
+----------
+舌
+ゼツ
+した
+tongue, reed, clapper
+----------
+----------
+絶
+ゼツ
+た.える、 た.やす、 た.つ
+discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled
+----------
+----------
+銭
+セン、 ゼン
+ぜに、 すき
+coin, .01 yen, money
+----------
+----------
+祖
+ソ
+
+ancestor, pioneer, founder
+----------
+----------
+素
+ソ、 ス
+もと
+elementary, principle, naked, uncovered
+----------
+----------
+総
+ソウ
+す.べて、 すべ.て、 ふさ
+general, whole, all, full, total
+----------
+----------
+造
+ゾウ
+つく.る、 つく.り、 -づく.り
+create, make, structure, physique
+----------
+----------
+像
+ゾウ
+
+statue, picture, image, figure, portrait
+----------
+----------
+増
+ゾウ
+ま.す、 ま.し、 ふ.える、 ふ.やす
+increase, add, augment, gain, promote
+----------
+----------
+則
+ソク
+のっと.る
+rule, follow, based on, model after
+----------
+----------
+測
+ソク
+はか.る
+fathom, plan, scheme, measure
+----------
+----------
+属
+ゾク、 ショク
+さかん、 つく、 やから
+belong, genus, subordinate official, affiliated
+----------
+----------
+率
+ソツ、 リツ、 シュツ
+ひき.いる
+ratio, rate, proportion, %, factor, lead, spearhead, command
+----------
+----------
+損
+ソン
+そこ.なう、 そこな.う、 -そこ.なう、 そこ.ねる、 -そこ.ねる
+damage, loss, disadvantage, hurt, injure
+----------
+----------
+退
+タイ
+しりぞ.く、 しりぞ.ける、 ひ.く、 の.く、 の.ける、 ど.く
+retreat, withdraw, retire, resign, repel, expel, reject
+----------
+----------
+貸
+タイ
+か.す、 か.し-、 かし-
+lend
+----------
+----------
+態
+タイ
+わざ.と
+attitude, condition, figure, appearance, voice (of verbs)
+----------
+----------
+団
+ダン、 トン
+かたまり、 まる.い
+group, association
+----------
+----------
+断
+ダン
+た.つ、 ことわ.る、 さだ.める
+severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting
+----------
+----------
+築
+チク
+きず.く
+fabricate, build, construct
+----------
+----------
+張
+チョウ
+は.る、 -は.り、 -ば.り
+lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)
+----------
+----------
+提
+テイ、 チョウ、 ダイ
+さ.げる
+propose, take along, carry in hand
+----------
+----------
+程
+テイ
+ほど、 -ほど
+extent, degree, law, formula, distance, limits, amount
+----------
+----------
+適
+テキ
+かな.う
+suitable, occasional, rare, qualified, capable
+----------
+----------
+敵
+テキ
+かたき、 あだ、 かな.う
+enemy, foe, opponent
+----------
+----------
+統
+トウ
+す.べる、 ほび.る
+overall, relationship, ruling, governing
+----------
+----------
+銅
+ドウ
+あかがね
+copper
+----------
+----------
+導
+ドウ
+みちび.く
+guidance, leading, conduct, usher
+----------
+----------
+徳
+トク
+
+benevolence, virtue, goodness, commanding respect
+----------
+----------
+独
+ドク、 トク
+ひと.り
+single, alone, spontaneously, Germany
+----------
+----------
+任
+ニン
+まか.せる、 まか.す
+responsibility, duty, term, entrust to, appoint
+----------
+----------
+燃
+ネン
+も.える、 も.やす、 も.す
+burn, blaze, glow
+----------
+----------
+能
+ノウ
+よ.く、 あた.う
+ability, talent, skill, capacity
+----------
+----------
+破
+ハ
+やぶ.る、 やぶ.れる、 わ.れる
+rend, rip, tear, break, destroy, defeat, frustrate
+----------
+----------
+犯
+ハン、 ボン
+おか.す
+crime, sin, offense
+----------
+----------
+判
+ハン、 バン
+わか.る
+judgement, signature, stamp, seal
+----------
+----------
+版
+ハン
+
+printing block, printing plate, edition, impression, label
+----------
+----------
+比
+ヒ
+くら.べる
+compare, race, ratio, Philippines
+----------
+----------
+肥
+ヒ
+こ.える、 こえ、 こ.やす、 こ.やし、 ふと.る
+fertilizer, get fat, fertile, manure, pamper
+----------
+----------
+非
+ヒ
+あら.ず
+un-, mistake, negative, injustice, non-
+----------
+----------
+備
+ビ
+そな.える、 そな.わる、 つぶさ.に
+equip, provision, preparation
+----------
+----------
+俵
+ヒョウ
+たわら
+bag, bale, sack, counter for bags
+----------
+----------
+評
+ヒョウ
+
+evaluate, criticism, comment
+----------
+----------
+貧
+ヒン、 ビン
+まず.しい
+poverty, poor
+----------
+----------
+布
+フ、 ホ
+ぬの、 し.く、 きれ
+linen, cloth, spread, distribute
+----------
+----------
+婦
+フ
+よめ
+lady, woman, wife, bride
+----------
+----------
+富
+フ、 フウ
+と.む、 とみ
+wealth, enrich, abundant
+----------
+----------
+武
+ブ、 ム
+たけ、 たけ.し
+warrior, military, chivalry, arms
+----------
+----------
+復
+フク
+また
+restore, return to, revert, resume
+----------
+----------
+複
+フク
+
+duplicate, double, compound, multiple
+----------
+----------
+仏
+ブツ、 フツ
+ほとけ
+Buddha, the dead, France
+----------
+----------
+編
+ヘン
+あ.む、 -あ.み
+compilation, knit, plait, braid, twist, editing, completed poem, part of a book
+----------
+----------
+弁
+ベン、 ヘン
+かんむり、 わきま.える、 わ.ける、 はなびら、 あらそ.う
+valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap
+----------
+----------
+保
+ホ、 ホウ
+たも.つ
+protect, guarantee, keep, preserve, sustain, support
+----------
+----------
+墓
+ボ
+はか
+grave, tomb
+----------
+----------
+報
+ホウ
+むく.いる
+report, news, reward, retribution
+----------
+----------
+豊
+ホウ、 ブ
+ゆた.か、 とよ
+bountiful, excellent, rich
+----------
+----------
+防
+ボウ
+ふせ.ぐ
+ward off, defend, protect, resist
+----------
+----------
+貿
+ボウ
+
+trade, exchange
+----------
+----------
+暴
+ボウ、 バク
+あば.く、 あば.れる
+outburst, rave, fret, force, violence, cruelty, outrage
+----------
+----------
+務
+ム
+つと.める
+task, duties
+----------
+----------
+夢
+ム、 ボウ
+ゆめ、 ゆめ.みる、 くら.い
+dream, vision, illusion
+----------
+----------
+迷
+メイ
+まよ.う
+astray, be perplexed, in doubt, lost, err, illusion
+----------
+----------
+綿
+メン
+わた
+cotton
+----------
+----------
+輸
+ユ、 シュ
+
+transport, send, be inferior
+----------
+----------
+余
+ヨ
+あま.る、 あま.り、 あま.す、 あんま.り
+too much, myself, surplus, other, remainder
+----------
+----------
+預
+ヨ
+あず.ける、 あず.かる
+deposit, custody, leave with, entrust to
+----------
+----------
+容
+ヨウ
+い.れる
+contain, form, looks
+----------
+----------
+略
+リャク
+ほぼ、 はぶ.く、 おか.す、 おさ.める、 はかりごと、 はか.る
+abbreviation, omission, outline, shorten, capture, plunder
+----------
+----------
+留
+リュウ、 ル
+と.める、 と.まる、 とど.める、 とど.まる、 るうぶる
+detain, fasten, halt, stop
+----------
+----------
+領
+リョウ
+えり
+jurisdiction, dominion, territory, fief, reign
+----------
+**************************************************
+#nivell6 _181_
+
+
+
+**************************************************
+----------
+異
+イ
+こと、 こと.なる、 け
+uncommon, different, queerness, strangeness, wonderful, curious, unusual
+----------
+----------
+遺
+イ、 ユイ
+のこ.す
+bequeath, leave behind, reserve
+----------
+----------
+域
+イキ
+
+range, region, limits, stage, level
+----------
+----------
+宇
+ウ
+
+eaves, roof, house, heaven
+----------
+----------
+映
+エイ
+うつ.る、 うつ.す、 は.える、 -ば.え
+reflect, reflection, projection
+----------
+----------
+延
+エン
+の.びる、 の.べる、 の.べ、 の.ばす
+prolong, stretching
+----------
+----------
+沿
+エン
+そ.う、 -ぞ.い
+run alongside, follow along, run along, lie along
+----------
+----------
+我
+ガ
+われ、 わ、 わ.が-、 わが-
+ego, I, selfish, our, oneself
+----------
+----------
+灰
+カイ
+はい
+ashes, puckery juice, cremate
+----------
+----------
+拡
+カク、 コウ
+ひろ.がる、 ひろ.げる、 ひろ.める
+broaden, extend, expand, enlarge
+----------
+----------
+革
+カク
+かわ
+leather, skin, reform, become serious
+----------
+----------
+閣
+カク
+
+tower, tall building, palace
+----------
+----------
+割
+カツ
+わ.る、 わり、 わ.り、 わ.れる、 さ.く
+proportion, comparatively, divide, cut, separate, split
+----------
+----------
+株
+シュ
+かぶ
+stocks, stump, shares, stock, counter for small plants
+----------
+----------
+干
+カン
+ほ.す、 ほ.し-、 -ぼ.し、 ひ.る
+dry, parch, ebb, recede, interfere, intercede
+----------
+----------
+巻
+カン、 ケン
+ま.く、 まき、 ま.き
+scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)
+----------
+----------
+看
+カン
+み.る
+watch over, see
+----------
+----------
+簡
+カン、 ケン
+えら.ぶ、 ふだ
+simplicity, brevity
+----------
+----------
+危
+キ
+あぶ.ない、 あや.うい、 あや.ぶむ
+dangerous, fear, uneasy
+----------
+----------
+机
+キ
+つくえ
+desk, table
+----------
+----------
+揮
+キ
+ふる.う
+brandish, wave, wag, swing, shake
+----------
+----------
+貴
+キ
+たっと.い、 とうと.い、 たっと.ぶ、 とうと.ぶ
+precious, value, prize, esteem, honor
+----------
+----------
+疑
+ギ
+うたが.う
+doubt, distrust, be suspicious, question
+----------
+----------
+吸
+キュウ
+す.う
+suck, imbibe, inhale, sip
+----------
+----------
+供
+キョウ、 ク、 クウ、 グ
+そな.える、 とも、 -ども
+submit, offer, present, serve (meal), accompany
+----------
+----------
+胸
+キョウ
+むね、 むな-
+bosom, breast, chest, heart, feelings
+----------
+----------
+郷
+キョウ、 ゴウ
+さと
+home town, village, native place, district
+----------
+----------
+勤
+キン、 ゴン
+つと.める、 -づと.め、 つと.まる、 いそ.しむ
+diligence, become employed, serve
+----------
+----------
+筋
+キン
+すじ
+muscle, sinew, tendon, fiber, plot, plan, descent
+----------
+----------
+系
+ケイ
+
+lineage, system
+----------
+----------
+敬
+ケイ、 キョウ
+うやま.う
+awe, respect, honor, revere
+----------
+----------
+警
+ケイ
+いまし.める
+admonish, commandment
+----------
+----------
+劇
+ゲキ
+
+drama, play
+----------
+----------
+激
+ゲキ
+はげ.しい
+violent, get excited, enraged, chafe, incite
+----------
+----------
+穴
+ケツ
+あな
+hole, aperture, slit, cave, den
+----------
+----------
+絹
+ケン
+きぬ
+silk
+----------
+----------
+権
+ケン、 ゴン
+おもり、 かり、 はか.る
+authority, power, rights
+----------
+----------
+憲
+ケン
+
+constitution, law
+----------
+----------
+源
+ゲン
+みなもと
+source, origin
+----------
+----------
+厳
+ゲン、 ゴン
+おごそ.か、 きび.しい、 いか.めしい、 いつくし
+stern, strictness, severity, rigidity
+----------
+----------
+己
+コ、 キ
+おのれ、 つちのと、 な
+self
+----------
+----------
+呼
+コ
+よ.ぶ
+call, call out to, invite
+----------
+----------
+誤
+ゴ
+あやま.る、 -あやま.る
+mistake, err, do wrong, mislead
+----------
+----------
+后
+コウ、 ゴ
+きさき
+empress, queen, after, behind, back, later
+----------
+----------
+孝
+コウ、 キョウ
+
+filial piety, child's respect
+----------
+----------
+皇
+コウ、 オウ
+
+emperor
+----------
+----------
+紅
+コウ、 ク
+べに、 くれない、 あか.い
+crimson, deep red
+----------
+----------
+降
+コウ、 ゴ
+お.りる、 お.ろす、 ふ.る、 ふ.り、 くだ.る、 くだ.す
+descend, precipitate, fall, surrender
+----------
+----------
+鋼
+コウ
+はがね
+steel
+----------
+----------
+刻
+コク
+きざ.む、 きざ.み
+engrave, cut fine, chop, hash, mince, time, carving
+----------
+----------
+穀
+コク
+
+cereals, grain
+----------
+----------
+骨
+コツ
+ほね
+skeleton, bone, remains, frame
+----------
+----------
+困
+コン
+こま.る
+quandary, become distressed, annoyed
+----------
+----------
+砂
+サ、 シャ
+すな
+sand
+----------
+----------
+座
+ザ
+すわ.る
+squat, seat, cushion, gathering, sit
+----------
+----------
+済
+サイ、 セイ
+す.む、 -ず.み、 -ずみ、 す.まない、 す.ます、 -す.ます、 すく.う、 な.す、 わたし、 わた.る
+settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not
+----------
+----------
+裁
+サイ
+た.つ、 さば.く
+tailor, judge, decision, cut out (pattern)
+----------
+----------
+策
+サク
+
+scheme, plan, policy, step, means
+----------
+----------
+冊
+サツ、 サク
+ふみ
+tome, counter for books, volume
+----------
+----------
+蚕
+サン、 テン
+かいこ、 こ
+silkworm
+----------
+----------
+至
+シ
+いた.る
+climax, arrive, proceed, reach, attain, result in
+----------
+----------
+私
+シ
+わたくし、 わたし
+private, I, me
+----------
+----------
+姿
+シ
+すがた
+figure, form, shape
+----------
+----------
+視
+シ
+み.る
+inspection, regard as, see, look at
+----------
+----------
+詞
+シ
+ことば
+part of speech, words, poetry
+----------
+----------
+誌
+シ
+
+document, records
+----------
+----------
+磁
+ジ
+
+magnet, porcelain
+----------
+----------
+射
+シャ
+い.る、 さ.す、 う.つ
+shoot, shine into, onto, archery
+----------
+----------
+捨
+シャ
+す.てる
+discard, throw away, abandon, resign, reject, sacrifice
+----------
+----------
+尺
+シャク
+
+shaku, Japanese foot, measure, scale, rule
+----------
+----------
+若
+ジャク、 ニャク、 ニャ
+わか.い、 わか-、 も.しくわ、 も.し、 も.しくは、 ごと.し
+young, if, perhaps, possibly, low number, immature
+----------
+----------
+樹
+ジュ
+き
+timber, trees, wood, establish, set up
+----------
+----------
+収
+シュウ
+おさ.める、 おさ.まる
+income, obtain, reap, pay, supply, store
+----------
+----------
+宗
+シュウ、 ソウ
+むね
+religion, sect, denomination, main point, origin, essence
+----------
+----------
+就
+シュウ、 ジュ
+つ.く、 つ.ける
+concerning, settle, take position, depart, study, per
+----------
+----------
+衆
+シュウ、 シュ
+おお.い
+masses, great numbers, multitude, populace
+----------
+----------
+従
+ジュウ、 ショウ、 ジュ
+したが.う、 したが.える、 より
+accompany, obey, submit to, comply, follow, secondary, incidental, subordinate
+----------
+----------
+縦
+ジュウ
+たて
+vertical, length, height, self-indulgent, wayward
+----------
+----------
+縮
+シュク
+ちぢ.む、 ちぢ.まる、 ちぢ.める、 ちぢ.れる、 ちぢ.らす
+shrink, contract, shrivel, wrinkle, reduce
+----------
+----------
+熟
+ジュク
+う.れる
+mellow, ripen, mature, acquire skill
+----------
+----------
+純
+ジュン
+
+genuine, purity, innocence, net (profit)
+----------
+----------
+処
+ショ
+ところ、 -こ、 お.る
+dispose, manage, deal with, sentence, condemn, act, behave, place
+----------
+----------
+署
+ショ
+
+signature, govt office, police station
+----------
+----------
+諸
+ショ
+もろ
+various, many, several, together
+----------
+----------
+除
+ジョ、 ジ
+のぞ.く、 -よ.け
+exclude, division (x/3), remove, abolish, cancel, except
+----------
+----------
+将
+ショウ、 ソウ
+まさ.に、 はた、 まさ、 ひきい.る、 もって
+leader, commander, general, admiral, or, and again, soon, from now on, just about
+----------
+----------
+傷
+ショウ
+きず、 いた.む、 いた.める
+wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point
+----------
+----------
+障
+ショウ
+さわ.る
+hinder, hurt, harm
+----------
+----------
+城
+ジョウ、 セイ
+しろ
+castle
+----------
+----------
+蒸
+ジョウ、 セイ
+む.す、 む.れる、 む.らす
+steam, heat, sultry, foment, get musty
+----------
+----------
+針
+シン
+はり
+needle, pin, staple, stinger
+----------
+----------
+仁
+ジン、 ニ、 ニン
+
+humanity, virtue, benevolence, charity, man, kernel
+----------
+----------
+垂
+スイ
+た.れる、 た.らす、 た.れ、 -た.れ、 なんなんと.す
+droop, suspend, hang, slouch
+----------
+----------
+推
+スイ
+お.す
+conjecture, infer, guess, suppose, support, push (for)
+----------
+----------
+寸
+スン
+
+measurement, tenth of a shaku, a little, small
+----------
+----------
+盛
+セイ、 ジョウ
+も.る、 さか.る、 さか.ん
+boom, prosper, copulate
+----------
+----------
+聖
+セイ、 ショウ
+ひじり
+holy, saint, sage, master, priest
+----------
+----------
+誠
+セイ
+まこと
+sincerity, admonish, warn, prohibit, truth, fidelity
+----------
+----------
+宣
+セン
+のたま.う
+proclaim, say, announce
+----------
+----------
+専
+セン
+もっぱ.ら
+specialty, exclusive, mainly, solely
+----------
+----------
+泉
+セン
+いずみ
+spring, fountain
+----------
+----------
+洗
+セン
+あら.う
+wash, inquire into, probe
+----------
+----------
+染
+セン
+そ.める、 そ.まる、 し.みる、 し.み
+dye, color, paint, stain, print
+----------
+----------
+善
+ゼン
+よ.い、 い.い、 よ.く、 よし.とする
+virtuous, good, goodness
+----------
+----------
+奏
+ソウ
+かな.でる
+play music, speak to a ruler, complete
+----------
+----------
+窓
+ソウ、 ス
+まど、 てんまど、 けむだし
+window, pane
+----------
+----------
+創
+ソウ、 ショウ
+つく.る、 はじ.める、 きず、 けず.しける
+genesis, wound, injury, hurt, start, originate
+----------
+----------
+装
+ソウ、 ショウ
+よそお.う、 よそお.い
+attire, dress, pretend, disguise, profess
+----------
+----------
+層
+ソウ
+
+stratum, social class, layer, story, floor
+----------
+----------
+操
+ソウ、 サン
+みさお、 あやつ.る
+maneuver, manipulate, operate, steer, chastity, virginity, fidelity
+----------
+----------
+蔵
+ゾウ、 ソウ
+くら、 おさ.める、 かく.れる
+storehouse, hide, own, have, possess
+----------
+----------
+臓
+ゾウ
+はらわた
+entrails, viscera, bowels
+----------
+----------
+存
+ソン、 ゾン
+ながら.える、 あ.る、 たも.つ、 と.う
+exist, suppose, be aware of, believe, feel
+----------
+----------
+尊
+ソン
+たっと.い、 とうと.い、 たっと.ぶ、 とうと.ぶ
+revered, valuable, precious, noble, exalted
+----------
+----------
+宅
+タク
+
+home, house, residence, our house, my husband
+----------
+----------
+担
+タン
+かつ.ぐ、 にな.う
+shouldering, carry, raise, bear
+----------
+----------
+探
+タン
+さぐ.る、 さが.す
+grope, search, look for
+----------
+----------
+誕
+タン
+
+nativity, be born, declension, lie, be arbitrary
+----------
+----------
+段
+ダン、 タン
+
+grade, steps, stairs
+----------
+----------
+暖
+ダン、 ノン
+あたた.か、 あたた.かい、 あたた.まる、 あたた.める
+warmth
+----------
+----------
+値
+チ
+ね、 あたい
+price, cost, value
+----------
+----------
+宙
+チュウ
+
+mid-air, air, space, sky, memorization, interval of time
+----------
+----------
+忠
+チュウ
+
+loyalty, fidelity, faithfulness
+----------
+----------
+著
+チョ、 チャク
+あらわ.す、 いちじる.しい
+renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work
+----------
+----------
+庁
+チョウ、 テイ
+やくしょ
+government office
+----------
+----------
+頂
+チョウ
+いただ.く、 いただき
+place on the head, receive, top of head, top, summit, peak
+----------
+----------
+潮
+チョウ
+しお、 うしお
+tide, salt water, opportunity
+----------
+----------
+賃
+チン
+
+fare, fee, hire, rent, wages, charge
+----------
+----------
+痛
+ツウ
+いた.い、 いた.む、 いた.ましい、 いた.める
+pain, hurt, damage, bruise
+----------
+----------
+展
+テン
+
+unfold, expand
+----------
+----------
+討
+トウ
+う.つ
+chastise, attack, defeat, destroy, conquer
+----------
+----------
+党
+トウ
+なかま、 むら
+party, faction, clique
+----------
+----------
+糖
+トウ
+
+sugar
+----------
+----------
+届
+カイ
+とど.ける、 -とど.け、 とど.く
+deliver, reach, arrive, report, notify, forward
+----------
+----------
+難
+ナン
+かた.い、 -がた.い、 むずか.しい、 むづか.しい、 むつか.しい、 -にく.い
+difficult, impossible, trouble, accident, defect
+----------
+----------
+乳
+ニュウ
+ちち、 ち
+milk, breasts
+----------
+----------
+認
+ニン
+みと.める、 したた.める
+acknowledge, witness, discern, recognize, appreciate, believe
+----------
+----------
+納
+ノウ、 ナッ、 ナ、 ナン、 トウ
+おさ.める、 -おさ.める、 おさ.まる
+settlement, obtain, reap, pay, supply, store
+----------
+----------
+脳
+ノウ、 ドウ
+のうずる
+brain, memory
+----------
+----------
+派
+ハ
+
+faction, group, party, clique, sect, school
+----------
+----------
+拝
+ハイ
+おが.む、 おろが.む
+worship, adore, pray to
+----------
+----------
+背
+ハイ
+せ、 せい、 そむ.く、 そむ.ける
+stature, height, back, behind, disobey, defy, go back on, rebel
+----------
+----------
+肺
+ハイ
+
+lungs
+----------
+----------
+俳
+ハイ
+
+haiku, actor
+----------
+----------
+班
+ハン
+
+squad, corps, unit, group
+----------
+----------
+晩
+バン
+
+nightfall, night
+----------
+----------
+否
+ヒ
+いな、 いや
+negate, no, noes, refuse, decline, deny
+----------
+----------
+批
+ヒ
+
+criticism, strike
+----------
+----------
+秘
+ヒ
+ひ.める、 ひそ.か、 かく.す
+secret, conceal
+----------
+----------
+腹
+フク
+はら
+abdomen, belly, stomach
+----------
+----------
+奮
+フン
+ふる.う
+stirred up, be invigorated, flourish
+----------
+----------
+並
+ヘイ、 ホウ
+な.み、 なみ、 なら.べる、 なら.ぶ、 なら.びに
+row, and, besides, as well as, line up, rank with, rival, equal
+----------
+----------
+陛
+ヘイ
+
+highness, steps (of throne)
+----------
+----------
+閉
+ヘイ
+と.じる、 と.ざす、 し.める、 し.まる、 た.てる
+closed, shut
+----------
+----------
+片
+ヘン
+かた-、 かた
+one-sided, leaf, sheet, right-side kata radical (no. 91)
+----------
+----------
+補
+ホ
+おぎな.う
+supplement, supply, make good, offset, compensate, assistant, learner
+----------
+----------
+暮
+ボ
+く.れる、 く.らす
+evening, twilight, season's end, livelihood, make a living, spend time
+----------
+----------
+宝
+ホウ
+たから
+treasure, wealth, valuables
+----------
+----------
+訪
+ホウ
+おとず.れる、 たず.ねる、 と.う
+call on, visit, look up, offer sympathy
+----------
+----------
+亡
+ボウ、 モウ
+な.い、 な.き-、 ほろ.びる、 ほろ.ぶ、 ほろ.ぼす
+deceased, the late, dying, perish
+----------
+----------
+忘
+ボウ
+わす.れる
+forget
+----------
+----------
+棒
+ボウ
+
+rod, stick, cane, pole, club, line
+----------
+----------
+枚
+マイ、 バイ
+
+sheet of..., counter for flat thin objects or sheets
+----------
+----------
+幕
+マク、 バク
+とばり
+curtain, bunting, act of play
+----------
+----------
+密
+ミツ
+ひそ.か
+secrecy, density (pop), minuteness, carefulness
+----------
+----------
+盟
+メイ
+
+alliance, oath
+----------
+----------
+模
+モ、 ボ
+
+imitation, copy, mock
+----------
+----------
+訳
+ヤク
+わけ
+translate, reason, circumstance, case
+----------
+----------
+郵
+ユウ
+
+mail, stagecoach stop
+----------
+----------
+優
+ユウ、 ウ
+やさ.しい、 すぐ.れる、 まさ.る
+tenderness, excel, surpass, actor, superiority, gentleness
+----------
+----------
+幼
+ヨウ
+おさな.い
+infancy, childhood
+----------
+----------
+欲
+ヨク
+ほっ.する、 ほ.しい
+longing, covetousness, greed, passion, desire, craving
+----------
+----------
+翌
+ヨク
+
+the following, next
+----------
+----------
+乱
+ラン、 ロン
+みだ.れる、 みだ.る、 みだ.す、 みだ、 おさ.める、 わた.る
+riot, war, disorder, disturb
+----------
+----------
+卵
+ラン
+たまご
+egg, ovum, spawn, roe
+----------
+----------
+覧
+ラン
+み.る
+perusal, see
+----------
+----------
+裏
+リ
+うら
+back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side
+----------
+----------
+律
+リツ、 リチ、 レツ
+
+rhythm, law, regulation, gauge, control
+----------
+----------
+臨
+リン
+のぞ.む
+look to, face, meet, confront, attend, call on
+----------
+----------
+朗
+ロウ
+ほが.らか、 あき.らか
+melodious, clear, bright, serene, cheerful
+----------
+----------
+論
+ロン
+あげつら.う
+argument, discourse
+----------
+**************************************************
+#nivell7 _1130_
+
+
+
+**************************************************
+----------
+亜
+ア
+つ.ぐ
+Asia, rank next, come after, -ous
+----------
+----------
+哀
+アイ
+あわ.れ、 あわ.れむ、 かな.しい
+pathetic, grief, sorrow, pathos, pity, sympathize
+----------
+----------
+挨
+アイ
+ひら.く
+approach, draw near, push open
+----------
+----------
+曖
+アイ
+くら.い
+dark, not clear
+----------
+----------
+握
+アク
+にぎ.る
+grip, hold, mould sushi, bribe
+----------
+----------
+扱
+ソウ、 キュウ
+あつか.い、 あつか.う、 あつか.る、 こ.く
+handle, entertain, thresh, strip
+----------
+----------
+宛
+エン
+あ.てる、 -あて、 -づつ、 あたか.も
+address, just like, fortunately
+----------
+----------
+嵐
+ラン
+あらし
+storm, tempest
+----------
+----------
+依
+イ、 エ
+よ.る
+reliant, depend on, consequently, therefore, due to
+----------
+----------
+威
+イ
+おど.す、 おど.し、 おど.かす
+intimidate, dignity, majesty, menace, threaten
+----------
+----------
+為
+イ
+ため、 な.る、 な.す、 す.る、 たり、 つく.る、 なり
+do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good, advantage, as a result of
+----------
+----------
+畏
+イ
+おそ.れる、 かしこま.る、 かしこ、 かしこ.し
+fear, majestic, graciously, be apprehensive
+----------
+----------
+尉
+イ、 ジョウ
+
+military officer, jailer, old man, rank
+----------
+----------
+萎
+イ
+な、 しお.れる、 しな.びる、 しぼ.む、 な.える
+wither, droop, lame
+----------
+----------
+偉
+イ
+えら.い
+admirable, greatness, remarkable, conceited, famous, excellent
+----------
+----------
+椅
+イ
+
+chair
+----------
+----------
+彙
+イ
+はりねずみ
+same kind, collect, classify, category, hedgehog
+----------
+----------
+違
+イ
+ちが.う、 ちが.い、 ちが.える、 -ちが.える、 たが.う、 たが.える
+difference, differ
+----------
+----------
+維
+イ
+
+fiber, tie, rope
+----------
+----------
+慰
+イ
+なぐさ.める、 なぐさ.む
+consolation, amusement, seduce, cheer, make sport of, comfort, console
+----------
+----------
+緯
+イ
+よこいと、 ぬき
+horizontal, woof, left & right, (parallels of) latitude, prediction
+----------
+----------
+壱
+イチ、 イツ
+ひとつ
+one (in documents)
+----------
+----------
+逸
+イツ
+そ.れる、 そ.らす、 はぐ.れる
+deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge
+----------
+----------
+茨
+シ、 ジ
+いばら、 かや、 くさぶき
+briar, thorn
+----------
+----------
+芋
+ウ
+いも
+potato
+----------
+----------
+咽
+イン、 エン、 エツ
+むせ.ぶ、 むせ.る、 のど、 の.む
+throat, choked, smothered, stuffy
+----------
+----------
+姻
+イン
+
+matrimony, marry
+----------
+----------
+淫
+イン
+ひた.す、 ほしいまま、 みだ.ら、 みだ.れる、 みだり
+lewdness, licentiousness
+----------
+----------
+陰
+イン
+かげ、 かげ.る
+shade, yin, negative, sex organs, secret, shadow
+----------
+----------
+隠
+イン、 オン
+かく.す、 かく.し、 かく.れる、 かか.す、 よ.る
+conceal, hide, cover
+----------
+----------
+韻
+イン
+
+rhyme, elegance, tone
+----------
+----------
+唄
+バイ
+うた、 うた.う
+song, ballad
+----------
+----------
+鬱
+ウツ
+うっ.する、 ふさ.ぐ、 しげ.る
+gloom, depression, melancholy, luxuriant
+----------
+----------
+畝
+ボウ、 ホ、 モ、 ム
+せ、 うね
+furrow, thirty tsubo, ridge, rib
+----------
+----------
+浦
+ホ
+うら
+bay, creek, inlet, gulf, beach, seacoast
+----------
+----------
+詠
+エイ
+よ.む、 うた.う
+recitation, poem, song, composing
+----------
+----------
+影
+エイ
+かげ
+shadow, silhouette, phantom
+----------
+----------
+鋭
+エイ
+するど.い
+pointed, sharpness, edge, weapon, sharp, violent
+----------
+----------
+疫
+エキ、 ヤク
+
+epidemic
+----------
+----------
+悦
+エツ
+よろこ.ぶ、 よろこ.ばす
+ecstasy, joy, rapture
+----------
+----------
+越
+エツ、 オツ
+こ.す、 -こ.す、 -ご.し、 こ.える、 -ご.え
+surpass, cross over, move to, exceed, Vietnam
+----------
+----------
+謁
+エツ
+
+audience, audience (with king)
+----------
+----------
+閲
+エツ
+けみ.する
+review, inspection, revision
+----------
+----------
+炎
+エン
+ほのお
+inflammation, flame, blaze
+----------
+----------
+怨
+エン、 オン、 ウン
+うら.む、 うらみ、 うら.めしい
+grudge, show resentment, be jealous
+----------
+----------
+宴
+エン
+うたげ
+banquet, feast, party
+----------
+----------
+媛
+エン
+ひめ
+beautiful woman, princess
+----------
+----------
+援
+エン
+
+abet, help, save
+----------
+----------
+煙
+エン
+けむ.る、 けむり、 けむ.い
+smoke
+----------
+----------
+猿
+エン
+さる
+monkey
+----------
+----------
+鉛
+エン
+なまり
+lead
+----------
+----------
+縁
+エン、 -ネン
+ふち、 ふち.どる、 ゆかり、 よすが、 へり、 えにし
+affinity, relation, connection, edge, border, verge, brink
+----------
+----------
+艶
+エン
+つや、 なま.めかしい、 あで.やか、 つや.めく、 なま.めく
+glossy, luster, glaze, polish, charm, colorful, captivating
+----------
+----------
+汚
+オ
+けが.す、 けが.れる、 けが.らわしい、 よご.す、 よご.れる、 きたな.い
+dirty, pollute, disgrace, rape, defile
+----------
+----------
+凹
+オウ
+くぼ.む、 へこ.む、 ぼこ
+concave, hollow, sunken
+----------
+----------
+押
+オウ
+お.す、 お.し-、 お.っ-、 お.さえる、 おさ.える
+push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of
+----------
+----------
+旺
+オウ、 キョウ、 ゴウ
+かがや.き、 うつくし.い、 さかん
+flourishing, successful, beautiful, vigorous
+----------
+----------
+欧
+オウ
+うた.う、 は.く
+Europe
+----------
+----------
+殴
+オウ
+なぐ.る
+assault, hit, beat, thrash
+----------
+----------
+翁
+オウ
+おきな
+venerable old man
+----------
+----------
+奥
+オウ
+おく、 おく.まる、 くま
+heart, interior
+----------
+----------
+岡
+コウ
+おか
+mount, hill, knoll
+----------
+----------
+憶
+オク
+
+recollection, think, remember
+----------
+----------
+臆
+オク、 ヨク
+むね、 おくする
+timidity, heart, mind, fear, cowardly
+----------
+----------
+虞
+グ
+おそれ、 おもんぱか.る、 はか.る、 うれ.える、 あざむ.く、 あやま.る、 のぞ.む、 たの.しむ
+fear, uneasiness, anxiety, concern, expectation, consideration
+----------
+----------
+乙
+オツ、 イツ
+おと-、 きのと
+the latter, duplicate, strange, witty, fishhook radical (no. 5)
+----------
+----------
+俺
+エン
+おれ、 われ
+I, myself
+----------
+----------
+卸
+シャ
+おろ.す、 おろし、 おろ.し
+wholesale
+----------
+----------
+穏
+オン
+おだ.やか
+calm, quiet, moderation
+----------
+----------
+佳
+カ
+
+excellent, beautiful, good, pleasing, skilled
+----------
+----------
+苛
+カ
+いじ.める、 さいな.む、 いらだ.つ、 からい、 こまかい
+torment, scold, chastise
+----------
+----------
+架
+カ
+か.ける、 か.かる
+erect, frame, mount, support, shelf, construct
+----------
+----------
+華
+カ、 ケ
+はな
+splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous
+----------
+----------
+菓
+カ
+
+candy, cakes, fruit
+----------
+----------
+渦
+カ
+うず
+whirlpool, eddy, vortex
+----------
+----------
+嫁
+カ
+よめ、 とつ.ぐ、 い.く、 ゆ.く
+marry into, bride
+----------
+----------
+暇
+カ
+ひま、 いとま
+spare time, rest, leisure, time, leave of absence
+----------
+----------
+禍
+カ
+わざわい
+calamity, misfortune, evil, curse
+----------
+----------
+靴
+カ
+くつ
+shoes
+----------
+----------
+寡
+カ
+
+widow, minority, few
+----------
+----------
+箇
+カ、 コ
+
+counter for articles
+----------
+----------
+稼
+カ
+かせ.ぐ
+earnings, work, earn money
+----------
+----------
+蚊
+ブン
+か
+mosquito
+----------
+----------
+牙
+ガ、 ゲ
+きば、 は
+tusk, fang, tusk radical (no. 92)
+----------
+----------
+瓦
+ガ
+かわら、 ぐらむ
+tile, gram
+----------
+----------
+雅
+ガ
+みや.び
+gracious, elegant, graceful, refined
+----------
+----------
+餓
+ガ
+う.える
+starve, hungry, thirst
+----------
+----------
+介
+カイ
+
+jammed in, shellfish, mediate, concern oneself with
+----------
+----------
+戒
+カイ
+いまし.める
+commandment
+----------
+----------
+怪
+カイ、 ケ
+あや.しい、 あや.しむ
+suspicious, mystery, apparition
+----------
+----------
+拐
+カイ
+
+kidnap, falsify
+----------
+----------
+悔
+カイ
+く.いる、 く.やむ、 くや.しい
+repent, regret
+----------
+----------
+皆
+カイ
+みな、 みんな
+all, everything
+----------
+----------
+塊
+カイ、 ケ
+かたまり、 つちくれ
+clod, lump, chunk, clot, mass
+----------
+----------
+楷
+カイ
+
+square character style, correctness
+----------
+----------
+潰
+カイ、 エ
+つぶ.す、 つぶ.れる、 つい.える
+crush, smash, break, dissipate
+----------
+----------
+壊
+カイ、 エ
+こわ.す、 こわ.れる、 やぶ.る
+demolition, break, destroy
+----------
+----------
+懐
+カイ、 エ
+ふところ、 なつ.かしい、 なつ.かしむ、 なつ.く、 なつ.ける、 なず.ける、 いだ.く、 おも.う
+pocket, feelings, heart, yearn, miss someone, become attached to, bosom, breast
+----------
+----------
+諧
+カイ
+かな.う、 やわ.らぐ
+harmony
+----------
+----------
+劾
+ガイ
+
+censure, criminal investigation
+----------
+----------
+崖
+ガイ、 ゲ、 ギ
+がけ、 きし、 はて
+cliff, bluff, precipice
+----------
+----------
+涯
+ガイ
+はて
+horizon, shore, limit, bound
+----------
+----------
+慨
+ガイ
+
+rue, be sad, sigh, lament
+----------
+----------
+蓋
+ガイ、 カイ、 コウ
+ふた、 けだ.し、 おお.う、 かさ、 かこう
+cover, lid, flap
+----------
+----------
+該
+ガイ
+
+above-stated, the said, that specific
+----------
+----------
+概
+ガイ
+おおむ.ね
+outline, condition, approximation, generally
+----------
+----------
+骸
+ガイ、 カイ
+むくろ
+bone, body, corpse
+----------
+----------
+垣
+エン
+かき
+hedge, fence, wall
+----------
+----------
+柿
+シ
+かき
+persimmon
+----------
+----------
+核
+カク
+
+nucleus, core, kernel
+----------
+----------
+殻
+カク、 コク、 バイ
+から、 がら
+husk, nut shell
+----------
+----------
+郭
+カク
+くるわ
+enclosure, quarters, fortification, red-light district
+----------
+----------
+較
+カク、 コウ
+くら.べる
+contrast, compare
+----------
+----------
+隔
+カク
+へだ.てる、 へだ.たる
+isolate, alternate, distance, separate, gulf
+----------
+----------
+獲
+カク
+え.る
+seize, get, find, earn, acquire, can, may, able to
+----------
+----------
+嚇
+カク
+おど.す
+menacing, dignity, majesty, threaten
+----------
+----------
+穫
+カク
+
+harvest, reap
+----------
+----------
+岳
+ガク
+たけ
+point, peak, mountain
+----------
+----------
+顎
+ガク
+あご、 あぎと
+jaw, chin, gill
+----------
+----------
+掛
+カイ、 ケイ
+か.ける、 -か.ける、 か.け、 -か.け、 -が.け、 か.かる、 -か.かる、 -が.かる、 か.かり、 -が.かり、 かかり、 -がかり
+hang, suspend, depend, arrive at, tax, pour
+----------
+----------
+潟
+セキ
+かた、 -がた
+lagoon
+----------
+----------
+括
+カツ
+くく.る
+fasten, tie up, arrest, constrict
+----------
+----------
+喝
+カツ
+
+hoarse, scold
+----------
+----------
+渇
+カツ
+かわ.く
+thirst, dry up, parch
+----------
+----------
+葛
+カツ、 カチ
+つづら、 くず
+arrowroot, kudzu
+----------
+----------
+滑
+カツ、 コツ
+すべ.る、 なめ.らか
+slippery, slide, slip, fail exam
+----------
+----------
+褐
+カツ
+
+brown, woollen kimono
+----------
+----------
+轄
+カツ
+くさび
+control, wedge
+----------
+----------
+且
+ショ、 ソ、 ショウ
+か.つ
+moreover, also, furthermore
+----------
+----------
+釜
+フ
+かま
+kettle, cauldron, iron pot
+----------
+----------
+鎌
+レン、 ケン
+かま
+sickle, scythe, trick
+----------
+----------
+刈
+ガイ、 カイ
+か.る
+reap, cut, clip, trim, prune
+----------
+----------
+甘
+カン
+あま.い、 あま.える、 あま.やかす、 うま.い
+sweet, coax, pamper, be content, sugary
+----------
+----------
+汗
+カン
+あせ
+sweat, perspire
+----------
+----------
+缶
+カン
+かま
+tin can, container, jar radical (no. 121)
+----------
+----------
+肝
+カン
+きも
+liver, pluck, nerve, chutzpah
+----------
+----------
+冠
+カン
+かんむり
+crown, best, peerless
+----------
+----------
+陥
+カン
+おちい.る、 おとしい.れる
+collapse, fall into, cave in, fall (castle), slide into
+----------
+----------
+乾
+カン、 ケン
+かわ.く、 かわ.かす、 ほ.す、 ひ.る、 いぬい
+drought, dry, dessicate, drink up, heaven, emperor
+----------
+----------
+勘
+カン
+
+intuition, perception, check, compare, sixth sense
+----------
+----------
+患
+カン
+わずら.う
+afflicted, disease, suffer from, be ill
+----------
+----------
+貫
+カン
+つらぬ.く、 ぬ.く、 ぬき
+pierce, 8 1/3lbs, penetrate, brace
+----------
+----------
+喚
+カン
+わめ.く
+yell, cry, call, scream, summon
+----------
+----------
+堪
+カン、 タン
+た.える、 たま.る、 こら.える、 こた.える
+withstand, endure, support, resist
+----------
+----------
+換
+カン
+か.える、 -か.える、 か.わる
+interchange, period, change, convert, replace, renew
+----------
+----------
+敢
+カン
+あ.えて、 あ.えない、 あ.えず
+daring, brave, bold, sad, tragic, pitiful
+----------
+----------
+棺
+カン
+
+coffin, casket
+----------
+----------
+款
+カン
+
+goodwill, article, section, friendship, collusion
+----------
+----------
+閑
+カン
+
+leisure
+----------
+----------
+勧
+カン、 ケン
+すす.める
+persuade, recommend, advise, encourage, offer
+----------
+----------
+寛
+カン
+くつろ.ぐ、 ひろ.い、 ゆる.やか
+tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded
+----------
+----------
+歓
+カン
+よろこ.ぶ
+delight, joy
+----------
+----------
+監
+カン
+
+oversee, official, govt office, rule, administer
+----------
+----------
+緩
+カン
+ゆる.い、 ゆる.やか、 ゆる.む、 ゆる.める
+slacken, loosen, relax, lessen, be moderate, ease
+----------
+----------
+憾
+カン
+うら.む
+remorse, regret, be sorry
+----------
+----------
+還
+カン
+かえ.る
+send back, return
+----------
+----------
+環
+カン
+わ
+ring, circle, link, wheel
+----------
+----------
+韓
+カン
+から、 いげた
+Korea
+----------
+----------
+艦
+カン
+
+warship
+----------
+----------
+鑑
+カン
+かんが.みる、 かがみ
+specimen, take warning from, learn from
+----------
+----------
+含
+ガン
+ふく.む、 ふく.める
+contain, include, hold in the mouth, bear in mind, understand, cherish
+----------
+----------
+玩
+ガン
+もちあそ.ぶ、 もてあそ.ぶ
+play, take pleasure in, trifle with, make sport of
+----------
+----------
+頑
+ガン
+かたく
+stubborn, foolish, firmly
+----------
+----------
+企
+キ
+くわだ.てる、 たくら.む
+undertake, scheme, design, attempt, plan
+----------
+----------
+伎
+ギ、 キ
+わざ、 わざおぎ
+deed, skill
+----------
+----------
+岐
+キ、 ギ
+
+branch off, fork in road, scene, arena, theater
+----------
+----------
+忌
+キ
+い.む、 い.み、 い.まわしい
+mourning, abhor, detestable, death anniversary
+----------
+----------
+奇
+キ
+く.しき、 あや.しい、 くし、 めずら.しい
+strange, strangeness, curiosity
+----------
+----------
+祈
+キ
+いの.る
+pray, wish
+----------
+----------
+軌
+キ
+
+rut, wheel, track, model, way of doing
+----------
+----------
+既
+キ
+すで.に
+previously, already, long ago
+----------
+----------
+飢
+キ
+う.える
+hungry, starve
+----------
+----------
+鬼
+キ
+おに、 おに-
+ghost, devil
+----------
+----------
+亀
+キ、 キュウ、 キン
+かめ
+tortoise, turtle
+----------
+----------
+幾
+キ
+いく-、 いく.つ、 いく.ら
+how many, how much, how far, how long, some, several
+----------
+----------
+棋
+キ
+ご
+chess piece, Japanese chess, shogi
+----------
+----------
+棄
+キ
+す.てる
+abandon, throw away, discard, resign, reject, sacrifice
+----------
+----------
+毀
+キ
+こぼ.つ、 こわ.す、 こぼ.れる、 こわ.れる、 そし.る、 やぶ.る
+break, destroy, censure, be chipped, be scratched, be broken, be ruined
+----------
+----------
+畿
+キ
+みやこ
+capital, suburbs of capital
+----------
+----------
+輝
+キ
+かがや.く
+radiance, shine, sparkle, gleam, twinkle
+----------
+----------
+騎
+キ
+
+equestrian, riding on horses, counter for equestrians
+----------
+----------
+宜
+ギ
+よろ.しい、 よろ.しく
+best regards, good
+----------
+----------
+偽
+ギ、 カ
+いつわ.る、 にせ、 いつわ.り
+falsehood, lie, deceive, pretend, counterfeit, forgery
+----------
+----------
+欺
+ギ
+あざむ.く
+deceit, cheat, delude
+----------
+----------
+儀
+ギ
+
+ceremony, rule, affair, case, a matter
+----------
+----------
+戯
+ギ、 ゲ
+たわむ.れる、 ざ.れる、 じゃ.れる
+frolic, play, sport
+----------
+----------
+擬
+ギ
+まが.い、 もど.き
+mimic, aim (a gun) at, nominate, imitate
+----------
+----------
+犠
+ギ、 キ
+いけにえ
+sacrifice
+----------
+----------
+菊
+キク
+
+chrysanthemum
+----------
+----------
+吉
+キチ、 キツ
+よし
+good luck, joy, congratulations
+----------
+----------
+喫
+キツ
+の.む
+consume, eat, drink, smoke, receive (a blow)
+----------
+----------
+詰
+キツ、 キチ
+つ.める、 つ.め、 -づ.め、 つ.まる、 つ.む
+packed, close, pressed, reprove, rebuke, blame
+----------
+----------
+却
+キャク
+かえ.って、 しりぞ.く、 しりぞ.ける
+instead, on the contrary, rather, step back, withdraw, retreat
+----------
+----------
+脚
+キャク、 キャ、 カク
+あし
+skids, leg, undercarriage, lower part, base
+----------
+----------
+虐
+ギャク
+しいた.げる
+tyrannize, oppress
+----------
+----------
+及
+キュウ
+およ.ぶ、 およ.び、 および、 およ.ぼす
+reach out, exert, exercise, cause
+----------
+----------
+丘
+キュウ
+おか
+hill, knoll
+----------
+----------
+朽
+キュウ
+く.ちる
+decay, rot, remain in seclusion
+----------
+----------
+臼
+キュウ、 グ
+うす、 うすづ.く
+mortar
+----------
+----------
+糾
+キュウ
+ただ.す
+twist, ask, investigate, verify
+----------
+----------
+嗅
+キュウ
+か.ぐ
+smell, sniff, scent
+----------
+----------
+窮
+キュウ、 キョウ
+きわ.める、 きわ.まる、 きわ.まり、 きわ.み
+hard up, destitute, suffer, perplexed, cornered
+----------
+----------
+巨
+キョ
+
+gigantic, big, large, great
+----------
+----------
+拒
+キョ、 ゴ
+こば.む
+repel, refuse, reject, decline
+----------
+----------
+拠
+キョ、 コ
+よ.る
+foothold, based on, follow, therefore
+----------
+----------
+虚
+キョ、 コ
+むな.しい、 うつ.ろ
+void, emptiness, unpreparedness, crack, fissure, untruth
+----------
+----------
+距
+キョ
+へだ.たる、 けづめ
+long-distance, spur, fetlock
+----------
+----------
+御
+ギョ、 ゴ
+おん-、 お-、 み-
+honorable, manipulate, govern
+----------
+----------
+凶
+キョウ
+
+villain, evil, bad luck, disaster
+----------
+----------
+叫
+キョウ
+さけ.ぶ
+shout, exclaim, yell
+----------
+----------
+狂
+キョウ
+くる.う、 くる.おしい、 くるお.しい
+lunatic, insane, crazy, confuse
+----------
+----------
+享
+キョウ、 コウ
+う.ける
+enjoy, receive, undergo, answer (phone), take, get, catch
+----------
+----------
+況
+キョウ
+まし.て、 いわ.んや、 おもむき
+condition, situation
+----------
+----------
+峡
+キョウ、 コウ
+はざま
+gorge, ravine
+----------
+----------
+挟
+キョウ、 ショウ
+はさ.む、 はさ.まる、 わきばさ.む、 さしはさ.む
+pinch, between
+----------
+----------
+狭
+キョウ、 コウ
+せま.い、 せば.める、 せば.まる、 さ
+cramped, narrow, contract, tight
+----------
+----------
+恐
+キョウ
+おそ.れる、 おそ.る、 おそ.ろしい、 こわ.い、 こわ.がる
+fear, dread, awe
+----------
+----------
+恭
+キョウ
+うやうや.しい
+respect, reverent
+----------
+----------
+脅
+キョウ
+おびや.かす、 おど.す、 おど.かす
+threaten, coerce
+----------
+----------
+矯
+キョウ
+た.める
+rectify, straighten, correct, reform, cure, control, pretend, falsify
+----------
+----------
+響
+キョウ
+ひび.く
+echo, sound, resound, ring, vibrate
+----------
+----------
+驚
+キョウ
+おどろ.く、 おどろ.かす
+wonder, be surprised, frightened, amazed
+----------
+----------
+仰
+ギョウ、 コウ
+あお.ぐ、 おお.せ、 お.っしゃる、 おっしゃ.る
+face-up, look up, depend, seek, respect, revere, drink, take
+----------
+----------
+暁
+ギョウ、 キョウ
+あかつき、 さと.る
+daybreak, dawn, in the event
+----------
+----------
+凝
+ギョウ
+こ.る、 こ.らす、 こご.らす、 こご.らせる、 こご.る
+congeal, freeze, stiff, be absorbed in
+----------
+----------
+巾
+キン、 フク
+おお.い、 ちきり、 きれ
+towel, hanging scroll, width, cloth radical (no. 50)
+----------
+----------
+斤
+キン
+
+axe, 1.32 lb, catty, counter for loaves of bread, axe radical (no. 69)
+----------
+----------
+菌
+キン
+
+germ, fungus, bacteria
+----------
+----------
+琴
+キン、 ゴン
+こと
+harp, koto
+----------
+----------
+僅
+キン、 ゴン
+わず.か
+a wee bit
+----------
+----------
+緊
+キン
+し.める、 し.まる
+tense, solid, hard, reliable, tight
+----------
+----------
+錦
+キン
+にしき
+brocade, fine dress, honors
+----------
+----------
+謹
+キン
+つつし.む
+discreet, reverently, humbly
+----------
+----------
+襟
+キン
+えり
+collar, neck, lapel, one's inner feelings
+----------
+----------
+吟
+ギン
+
+versify, singing, recital
+----------
+----------
+駆
+ク
+か.ける、 か.る
+drive, run, gallop, advance, inspire, impel
+----------
+----------
+惧
+ク、 グ
+おそ.れる
+fear, be afraid of, dread
+----------
+----------
+愚
+グ
+おろ.か
+foolish, folly, absurdity, stupid
+----------
+----------
+偶
+グウ
+たま
+accidentally, even number, couple, man & wife, same kind
+----------
+----------
+遇
+グウ
+あ.う
+meet, encounter, interview, treat, entertain, receive, deal with
+----------
+----------
+隅
+グウ
+すみ
+corner, nook
+----------
+----------
+串
+カン、 ケン、 セン
+くし、 つらぬ.く
+spit, skewer
+----------
+----------
+屈
+クツ
+かが.む、 かが.める
+yield, bend, flinch, submit
+----------
+----------
+掘
+クツ
+ほ.る
+dig, delve, excavate
+----------
+----------
+窟
+クツ、 コツ
+いわや、 いはや、 あな
+cavern
+----------
+----------
+熊
+ユウ
+くま
+bear
+----------
+----------
+繰
+ソウ
+く.る
+winding, reel, spin, turn (pages), look up, refer to
+----------
+----------
+勲
+クン
+いさお
+meritorious deed, merit
+----------
+----------
+薫
+クン
+かお.る
+send forth fragrance, fragrant, be scented, smoke (tobacco)
+----------
+----------
+刑
+ケイ
+
+punish, penalty, sentence, punishment
+----------
+----------
+茎
+ケイ、 キョウ
+くき
+stalk, stem
+----------
+----------
+契
+ケイ
+ちぎ.る
+pledge, promise, vow
+----------
+----------
+恵
+ケイ、 エ
+めぐ.む、 めぐ.み
+favor, blessing, grace, kindness
+----------
+----------
+啓
+ケイ
+ひら.く、 さと.す
+disclose, open, say
+----------
+----------
+掲
+ケイ
+かか.げる
+put up (a notice), put up, hoist, display, hang out, publish, describe
+----------
+----------
+渓
+ケイ
+たに、 たにがわ
+mountain stream, valley
+----------
+----------
+蛍
+ケイ
+ほたる
+lightning-bug, firefly
+----------
+----------
+傾
+ケイ
+かたむ.く、 かたむ.ける、 かたぶ.く、 かた.げる、 かし.げる
+lean, incline, tilt, trend, wane, sink, ruin, bias
+----------
+----------
+携
+ケイ
+たずさ.える、 たずさ.わる
+portable, carry (in hand), armed with, bring along
+----------
+----------
+継
+ケイ
+つ.ぐ、 まま-
+inherit, succeed, continue, patch, graft (tree)
+----------
+----------
+詣
+ケイ、 ゲイ
+けい.する、 まい.る、 いた.る、 もう.でる
+visit a temple, arrive, attain
+----------
+----------
+慶
+ケイ
+よろこ.び
+jubilation, congratulate, rejoice, be happy
+----------
+----------
+憬
+ケイ
+あこが.れる
+yearn for, aspire to, admire
+----------
+----------
+稽
+ケイ
+かんが.える、 とど.める
+think, consider
+----------
+----------
+憩
+ケイ
+いこ.い、 いこ.う
+recess, rest, relax, repose
+----------
+----------
+鶏
+ケイ
+にわとり、 とり
+chicken
+----------
+----------
+迎
+ゲイ
+むか.える
+welcome, meet, greet
+----------
+----------
+鯨
+ゲイ
+くじら
+whale
+----------
+----------
+隙
+ゲキ、 キャク、 ケキ
+すき、 す.く、 す.かす、 ひま
+crevice, fissure, discord, opportunity, leisure
+----------
+----------
+撃
+ゲキ
+う.つ
+beat, attack, defeat, conquer
+----------
+----------
+桁
+コウ
+けた
+beam, girder, spar, unit or column (accounting)
+----------
+----------
+傑
+ケツ
+すぐ.れる
+greatness, excellence
+----------
+----------
+肩
+ケン
+かた
+shoulder
+----------
+----------
+倹
+ケン
+つま.しい、 つづまやか
+frugal, economy, thrifty
+----------
+----------
+兼
+ケン
+か.ねる、 -か.ねる
+concurrently, and, beforehand, in advance
+----------
+----------
+剣
+ケン
+つるぎ
+sabre, sword, blade, clock hand
+----------
+----------
+拳
+ケン、 ゲン
+こぶし
+fist
+----------
+----------
+軒
+ケン
+のき
+flats, counter for houses, eaves
+----------
+----------
+圏
+ケン
+かこ.い
+sphere, circle, radius, range
+----------
+----------
+堅
+ケン
+かた.い、 -がた.い
+strict, hard, solid, tough, tight, reliable
+----------
+----------
+嫌
+ケン、 ゲン
+きら.う、 きら.い、 いや
+dislike, detest, hate
+----------
+----------
+献
+ケン、 コン
+たてまつ.る
+offering, counter for drinks, present, offer
+----------
+----------
+遣
+ケン
+つか.う、 -つか.い、 -づか.い、 つか.わす、 や.る
+dispatch, despatch, send, give, donate, do, undertake
+----------
+----------
+賢
+ケン
+かしこ.い
+intelligent, wise, wisdom, cleverness
+----------
+----------
+謙
+ケン
+へりくだ.る
+self-effacing, humble oneself, condescend, be modest
+----------
+----------
+鍵
+ケン
+かぎ
+key
+----------
+----------
+繭
+ケン
+まゆ、 きぬ
+cocoon
+----------
+----------
+顕
+ケン
+あきらか、 あらわ.れる
+appear, existing
+----------
+----------
+懸
+ケン、 ケ
+か.ける、 か.かる
+state of suspension, hang, depend, consult, distant, far apart
+----------
+----------
+幻
+ゲン
+まぼろし
+phantasm, vision, dream, illusion, apparition
+----------
+----------
+玄
+ゲン
+くろ、 くろ.い
+mysterious, occultness, black, deep, profound
+----------
+----------
+弦
+ゲン
+つる
+bowstring, chord, hypotenuse
+----------
+----------
+舷
+ゲン
+ふなばた、 ふなべり
+gunwale
+----------
+----------
+股
+コ
+また、 もも
+thigh, crotch
+----------
+----------
+虎
+コ
+とら
+tiger, drunkard
+----------
+----------
+孤
+コ
+
+orphan, alone
+----------
+----------
+弧
+コ
+
+arc, arch, bow
+----------
+----------
+枯
+コ
+か.れる、 か.らす
+wither, die, dry up, be seasoned
+----------
+----------
+雇
+コ
+やと.う
+employ, hire
+----------
+----------
+誇
+コ
+ほこ.る
+boast, be proud, pride, triumphantly
+----------
+----------
+鼓
+コ
+つづみ
+drum, beat, rouse, muster
+----------
+----------
+錮
+コ
+ふさ.ぐ
+confinement, to tie
+----------
+----------
+顧
+コ
+かえり.みる
+look back, review, examine oneself, turn around
+----------
+----------
+互
+ゴ
+たが.い、 かたみ.に
+mutually, reciprocally, together
+----------
+----------
+呉
+ゴ
+く.れる、 くれ
+give, do something for, kingdom of Wu
+----------
+----------
+娯
+ゴ
+
+recreation, pleasure
+----------
+----------
+悟
+ゴ
+さと.る
+enlightenment, perceive, discern, realize, understand
+----------
+----------
+碁
+ゴ
+
+Go
+----------
+----------
+勾
+コウ、 ク
+かぎ、 ま.がる
+be bent, slope, capture
+----------
+----------
+孔
+コウ、 ク
+あな
+cavity, hole, slit, very, great, exceedingly
+----------
+----------
+巧
+コウ
+たく.み、 たく.む、 うま.い
+adroit, skilled, ingenuity
+----------
+----------
+甲
+コウ、 カン
+きのえ
+armor, high (voice), A grade, first class, former, instep, carapace
+----------
+----------
+江
+コウ
+え
+creek, inlet, bay
+----------
+----------
+坑
+コウ
+
+pit, hole
+----------
+----------
+抗
+コウ
+あらが.う
+confront, resist, defy, oppose
+----------
+----------
+攻
+コウ
+せ.める
+aggression, attack, criticize, polish
+----------
+----------
+更
+コウ
+さら、 さら.に、 ふ.ける、 ふ.かす
+grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further
+----------
+----------
+拘
+コウ
+かか.わる
+arrest, seize, concerned, adhere to, despite
+----------
+----------
+肯
+コウ
+がえんじ.る
+agreement, consent, comply with
+----------
+----------
+侯
+コウ
+
+marquis, lord, daimyo
+----------
+----------
+恒
+コウ
+つね、 つねに
+constancy, always
+----------
+----------
+洪
+コウ
+
+deluge, flood, vast
+----------
+----------
+荒
+コウ
+あ.らす、 あ.れる、 あら.い、 すさ.ぶ、 すさ.む、 あ.らし
+laid waste, rough, rude, wild
+----------
+----------
+郊
+コウ
+
+outskirts, suburbs, rural area
+----------
+----------
+香
+コウ、 キョウ
+か、 かお.り、 かお.る
+incense, smell, perfume
+----------
+----------
+貢
+コウ、 ク
+みつ.ぐ
+tribute, support, finance
+----------
+----------
+控
+コウ
+ひか.える、 ひか.え
+withdraw, draw in, hold back, refrain from, be moderate
+----------
+----------
+梗
+コウ、 キョウ
+ふさぐ、 やまにれ、 おおむね
+for the most part, close up, flower stem
+----------
+----------
+喉
+コウ
+のど
+throat, voice
+----------
+----------
+慌
+コウ
+あわ.てる、 あわ.ただしい
+disconcerted, be confused, lose one's head
+----------
+----------
+硬
+コウ
+かた.い
+stiff, hard
+----------
+----------
+絞
+コウ
+しぼ.る、 し.める、 し.まる
+strangle, constrict, wring
+----------
+----------
+項
+コウ
+うなじ
+paragraph, nape of neck, clause, item, term (expression)
+----------
+----------
+溝
+コウ
+みぞ
+gutter, ditch, sewer, drain, 10**32
+----------
+----------
+綱
+コウ
+つな
+hawser, class (genus), rope, cord, cable
+----------
+----------
+酵
+コウ
+
+fermentation
+----------
+----------
+稿
+コウ
+わら、 したがき
+draft, copy, manuscript, straw
+----------
+----------
+衡
+コウ
+
+equilibrium, measuring rod, scale
+----------
+----------
+購
+コウ
+
+subscription, buy
+----------
+----------
+乞
+コツ、 キツ、 キ、 キケ、 コチ
+こ.う
+beg, invite, ask
+----------
+----------
+拷
+ゴウ
+
+torture, beat
+----------
+----------
+剛
+ゴウ
+
+sturdy, strength
+----------
+----------
+傲
+ゴウ
+おご.る、 あなど.る
+be proud
+----------
+----------
+豪
+ゴウ
+えら.い
+overpowering, great, powerful, excelling, Australia
+----------
+----------
+克
+コク
+か.つ
+overcome, kindly, skillfully
+----------
+----------
+酷
+コク
+ひど.い
+cruel, severe, atrocious, unjust
+----------
+----------
+獄
+ゴク
+
+prison, jail
+----------
+----------
+駒
+ク
+こま
+pony, horse, colt
+----------
+----------
+込
+
+-こ.む、 こ.む、 こ.み、 -こ.み、 こ.める
+crowded, mixture, in bulk, included, (kokuji)
+----------
+----------
+頃
+ケイ、 キョウ
+ころ、 ごろ、 しばら.く
+time, about, toward
+----------
+----------
+昆
+コン
+
+descendants, elder brother, insect
+----------
+----------
+恨
+コン
+うら.む、 うら.めしい
+regret, bear a grudge, resentment, malice, hatred
+----------
+----------
+婚
+コン
+
+marriage
+----------
+----------
+痕
+コン
+あと
+mark, foot print
+----------
+----------
+紺
+コン
+
+dark blue, navy
+----------
+----------
+魂
+コン
+たましい、 たま
+soul, spirit
+----------
+----------
+墾
+コン
+は.る、 ひら.く
+ground-breaking, open up farmland
+----------
+----------
+懇
+コン
+ねんご.ろ
+sociable, kind, courteous, hospitable, cordial
+----------
+----------
+佐
+サ
+
+assistant, help
+----------
+----------
+沙
+サ、 シャ
+すな、 よなげる
+sand
+----------
+----------
+唆
+サ
+そそ.る、 そそのか.す
+tempt, seduce, instigate, promote
+----------
+----------
+詐
+サ
+いつわ.る
+lie, falsehood, deceive, pretend
+----------
+----------
+鎖
+サ
+くさり、 とざ.す
+chain, irons, connection
+----------
+----------
+挫
+ザ、 サ
+くじ.く、 くじ.ける
+crush, break, sprain, discourage
+----------
+----------
+采
+サイ
+と.る、 いろどり
+dice, form, appearance, take, gather, coloring
+----------
+----------
+砕
+サイ
+くだ.く、 くだ.ける
+smash, break, crush, familiar, popular
+----------
+----------
+宰
+サイ
+
+superintend, manager, rule
+----------
+----------
+栽
+サイ
+
+plantation, planting
+----------
+----------
+彩
+サイ
+いろど.る
+coloring, paint, makeup
+----------
+----------
+斎
+サイ
+とき、 つつし.む、 ものいみ、 い.む、 いわ.う、 いつ.く
+purification, Buddhist food, room, worship, avoid, alike
+----------
+----------
+債
+サイ
+
+bond, loan, debt
+----------
+----------
+催
+サイ
+もよう.す、 もよお.す
+sponsor, hold (a meeting), give (a dinner)
+----------
+----------
+塞
+ソク、 サイ
+ふさ.ぐ、 とりで、 み.ちる
+close, shut, cover, block, obstruct
+----------
+----------
+歳
+サイ、 セイ
+とし、 とせ、 よわい
+year-end, age, occasion, opportunity
+----------
+----------
+載
+サイ
+の.せる、 の.る
+ride, board, get on, place, spread, 10**44, record, publish
+----------
+----------
+埼
+キ
+さき、 さい、 みさき
+cape, spit, promontory
+----------
+----------
+剤
+ザイ、 スイ、 セイ
+かる、 けず.る
+dose, medicine, drug
+----------
+----------
+崎
+キ
+さき、 さい、 みさき
+promontory, cape, spit
+----------
+----------
+削
+サク
+けず.る、 はつ.る、 そ.ぐ
+plane, sharpen, whittle, pare, shave
+----------
+----------
+柵
+サク、 サン
+しがら.む、 しがらみ、 とりで、 やらい
+stockade, fence, weir, entwine around
+----------
+----------
+索
+サク
+
+cord, rope, searching, inquiring
+----------
+----------
+酢
+サク
+す
+vinegar, sour, acid, tart
+----------
+----------
+搾
+サク
+しぼ.る
+squeeze
+----------
+----------
+錯
+サク、 シャク
+
+confused, mix, be in disorder
+----------
+----------
+咲
+ショウ
+さ.く、 -ざき
+blossom, bloom
+----------
+----------
+刹
+セチ、 セツ、 サツ
+
+temple
+----------
+----------
+拶
+サツ
+せま.る
+be imminent, draw close
+----------
+----------
+撮
+サツ
+と.る、 つま.む、 -ど.り
+snapshot, take pictures
+----------
+----------
+擦
+サツ
+す.る、 す.れる、 -ず.れ、 こす.る、 こす.れる
+grate, rub, scratch, scrape, chafe, scour
+----------
+----------
+桟
+サン、 セン
+かけはし
+scaffold, cleat, frame, jetty, bolt (door)
+----------
+----------
+惨
+サン、 ザン
+みじ.め、 いた.む、 むご.い
+wretched, disaster, cruelty, harsh
+----------
+----------
+傘
+サン
+かさ
+umbrella
+----------
+----------
+斬
+ザン、 サン、 セン、 ゼン
+き.る
+beheading, kill, murder
+----------
+----------
+暫
+ザン
+しばら.く
+temporarily, a while, moment, long time
+----------
+----------
+旨
+シ
+むね、 うま.い
+delicious, relish, show a liking for, purport, will, clever, expert
+----------
+----------
+伺
+シ
+うかが.う
+pay respects, visit, ask, inquire, question, implore
+----------
+----------
+刺
+シ
+さ.す、 さ.さる、 さ.し、 さし、 とげ
+thorn, pierce, stab, prick, sting, calling card
+----------
+----------
+祉
+シ
+
+welfare, happiness
+----------
+----------
+肢
+シ
+
+limb, arms & legs
+----------
+----------
+施
+シ、 セ
+ほどこ.す
+give, bestow, perform, alms
+----------
+----------
+恣
+シ
+ほしいまま
+selfish, arbitrary
+----------
+----------
+脂
+シ
+あぶら
+fat, grease, tallow, lard, rosin, gum, tar
+----------
+----------
+紫
+シ
+むらさき
+purple, violet
+----------
+----------
+嗣
+シ
+
+heir, succeed
+----------
+----------
+雌
+シ
+め-、 めす、 めん
+feminine, female
+----------
+----------
+摯
+シ
+いた.る
+gift, seriousness
+----------
+----------
+賜
+シ
+たまわ.る、 たま.う、 たも.う
+grant, gift, boon, results
+----------
+----------
+諮
+シ
+はか.る
+consult with
+----------
+----------
+侍
+ジ、 シ
+さむらい、 はべ.る
+waiter, samurai, wait upon, serve
+----------
+----------
+滋
+ジ、 シ
+
+nourishing, more & more, be luxuriant, planting, turbidity
+----------
+----------
+慈
+ジ
+いつく.しむ
+mercy
+----------
+----------
+餌
+ジ、 ニ
+え、 えば、 えさ、 もち
+food, bait, prey, tempting profit
+----------
+----------
+璽
+ジ
+
+emperor's seal
+----------
+----------
+鹿
+ロク
+しか、 か
+deer
+----------
+----------
+軸
+ジク
+
+axis, pivot, stem, stalk, counter for book scrolls
+----------
+----------
+叱
+シツ、 シチ
+しか.る
+scold, reprove
+----------
+----------
+疾
+シツ
+はや.い
+rapidly
+----------
+----------
+執
+シツ、 シュウ
+と.る
+tenacious, take hold, grasp, take to heart
+----------
+----------
+湿
+シツ、 シュウ
+しめ.る、 しめ.す、 うるお.う、 うるお.す
+damp, wet, moist
+----------
+----------
+嫉
+シツ
+そね.む、 ねた.む、 にく.む
+jealous, envy
+----------
+----------
+漆
+シツ
+うるし
+lacquer, varnish, seven
+----------
+----------
+芝
+シ
+しば
+turf, lawn
+----------
+----------
+赦
+シャ
+
+pardon, forgiveness
+----------
+----------
+斜
+シャ
+なな.め、 はす
+diagonal, slanting, oblique
+----------
+----------
+煮
+シャ
+に.る、 -に、 に.える、 に.やす
+boil, cook
+----------
+----------
+遮
+シャ
+さえぎ.る
+intercept, interrupt, obstruct
+----------
+----------
+邪
+ジャ
+よこし.ま
+wicked, injustice, wrong
+----------
+----------
+蛇
+ジャ、 ダ、 イ、 ヤ
+へび
+snake, serpent, hard drinker
+----------
+----------
+酌
+シャク
+く.む
+bar-tending, serving sake, the host, draw (water), ladle, scoop, pump
+----------
+----------
+釈
+シャク、 セキ
+とく、 す.てる、 ゆる.す
+explanation
+----------
+----------
+爵
+シャク
+
+baron, peerage, court rank
+----------
+----------
+寂
+ジャク、 セキ
+さび、 さび.しい、 さび.れる、 さみ.しい
+loneliness, quietly, mellow, mature, death of a priest
+----------
+----------
+朱
+シュ
+あけ
+vermilion, cinnabar, scarlet, red, bloody
+----------
+----------
+狩
+シュ
+か.る、 か.り、 -が.り
+hunt, raid, gather
+----------
+----------
+殊
+シュ
+こと
+particularly, especially, exceptionally
+----------
+----------
+珠
+シュ
+たま
+pearl, gem, jewel
+----------
+----------
+腫
+シュ、 ショウ
+は.れる、 は.れ、 は.らす、 はれもの
+tumor, swelling
+----------
+----------
+趣
+シュ
+おもむき、 おもむ.く
+purport, gist, elegance, interest, proceed to, tend, become
+----------
+----------
+寿
+ジュ、 ス、 シュウ
+ことぶき、 ことぶ.く、 ことほ.ぐ
+longevity, congratulations, one's natural life
+----------
+----------
+呪
+ジュ、 シュ、 シュウ、 ズ
+まじな.う、 のろ.い、 まじな.い、 のろ.う
+spell, curse, charm, malediction
+----------
+----------
+需
+ジュ
+
+demand, request, need
+----------
+----------
+儒
+ジュ
+
+Confucian
+----------
+----------
+囚
+シュウ
+とら.われる
+captured, criminal, arrest, catch
+----------
+----------
+舟
+シュウ
+ふね、 ふな-、 -ぶね
+boat, ship
+----------
+----------
+秀
+シュウ
+ひい.でる
+excel, excellence, beauty, surpass
+----------
+----------
+臭
+シュウ
+くさ.い、 -くさ.い、 にお.う、 にお.い
+stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant, stink, glow, be bright
+----------
+----------
+袖
+シュウ
+そで
+sleeve, wing (building), extension, give cold shoulder
+----------
+----------
+羞
+シュウ
+はじ.る、 すすめ.る、 は.ずかしい
+feel ashamed
+----------
+----------
+愁
+シュウ
+うれ.える、 うれ.い
+distress, grieve, lament, be anxious
+----------
+----------
+酬
+シュウ、 シュ、 トウ
+むく.いる
+repay, reward, retribution
+----------
+----------
+醜
+シュウ
+みにく.い、 しこ
+ugly, unclean, shame, bad looking
+----------
+----------
+蹴
+シュク、 シュウ
+け.る
+kick
+----------
+----------
+襲
+シュウ
+おそ.う、 かさ.ね
+attack, advance on, succeed to, pile, heap
+----------
+----------
+汁
+ジュウ
+しる、 -しる、 つゆ
+soup, juice, broth, sap, gravy, pus
+----------
+----------
+充
+ジュウ
+あ.てる、 み.たす
+allot, fill
+----------
+----------
+柔
+ジュウ、 ニュウ
+やわ.らか、 やわ.らかい、 やわ、 やわ.ら
+tender, weakness, gentleness, softness
+----------
+----------
+渋
+ジュウ、 シュウ
+しぶ、 しぶ.い、 しぶ.る
+astringent, hesitate, reluctant, have diarrhea
+----------
+----------
+銃
+ジュウ
+つつ
+gun, arms
+----------
+----------
+獣
+ジュウ
+けもの、 けだもの
+animal, beast
+----------
+----------
+叔
+シュク
+
+uncle, youth
+----------
+----------
+淑
+シュク
+しと.やか
+graceful, gentle, pure
+----------
+----------
+粛
+シュク、 スク
+つつし.む
+solemn, quietly, softly
+----------
+----------
+塾
+ジュク
+
+cram school, private school
+----------
+----------
+俊
+シュン
+
+sagacious, genius, excellence
+----------
+----------
+瞬
+シュン
+またた.く、 まじろ.ぐ
+wink, blink, twinkle
+----------
+----------
+旬
+ジュン、 シュン
+
+decameron, ten-day period, season (for specific products)
+----------
+----------
+巡
+ジュン
+めぐ.る、 めぐ.り
+patrol, go around, circumference
+----------
+----------
+盾
+ジュン
+たて
+shield, escutcheon, pretext
+----------
+----------
+准
+ジュン
+
+quasi-, semi-, associate
+----------
+----------
+殉
+ジュン
+
+martyrdom, follow by resigning
+----------
+----------
+循
+ジュン
+
+sequential, follow
+----------
+----------
+潤
+ジュン
+うるお.う、 うるお.す、 うる.む
+wet, be watered, profit by, receive benefits, favor, charm, steep
+----------
+----------
+遵
+ジュン
+
+abide by, follow, obey, learn
+----------
+----------
+庶
+ショ
+
+commoner, all, bastard
+----------
+----------
+緒
+ショ、 チョ
+お、 いとぐち
+thong, beginning, inception, end, cord, strap, mental or emotional state
+----------
+----------
+如
+ジョ、 ニョ
+ごと.し
+likeness, like, such as, as if, better, best, equal
+----------
+----------
+叙
+ジョ
+つい.ず、 ついで
+confer, relate, narrate, describe
+----------
+----------
+徐
+ジョ
+おもむ.ろに
+gradually, slowly, deliberately, gently
+----------
+----------
+升
+ショウ
+ます
+measuring box, 1.8 liter
+----------
+----------
+召
+ショウ
+め.す
+seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)
+----------
+----------
+匠
+ショウ
+たくみ
+artisan, workman, carpenter
+----------
+----------
+床
+ショウ
+とこ、 ゆか
+bed, counter for beds, floor, padding, tatami
+----------
+----------
+抄
+ショウ
+
+extract, selection, summary, copy, spread thin
+----------
+----------
+肖
+ショウ
+あやか.る
+resemblance
+----------
+----------
+尚
+ショウ
+なお
+esteem, furthermore, still, yet
+----------
+----------
+昇
+ショウ
+のぼ.る
+rise up
+----------
+----------
+沼
+ショウ
+ぬま
+marsh, lake, bog, swamp, pond
+----------
+----------
+宵
+ショウ
+よい
+wee hours, evening, early night
+----------
+----------
+症
+ショウ
+
+symptoms, illness
+----------
+----------
+祥
+ショウ
+さいわ.い、 きざ.し、 よ.い、 つまび.らか
+auspicious, happiness, blessedness, good omen, good fortune
+----------
+----------
+称
+ショウ
+たた.える、 とな.える、 あ.げる、 かな.う、 はか.り、 はか.る、 ほめ.る
+appellation, praise, admire, name, title, fame
+----------
+----------
+渉
+ショウ
+わた.る
+ford, go cross, transit, ferry, import, involve
+----------
+----------
+紹
+ショウ
+
+introduce, inherit, help
+----------
+----------
+訟
+ショウ
+
+sue, accuse
+----------
+----------
+掌
+ショウ
+てのひら、 たなごころ
+manipulate, rule, administer, conduct, palm of hand
+----------
+----------
+晶
+ショウ
+
+sparkle, clear, crystal
+----------
+----------
+焦
+ショウ
+こ.げる、 こ.がす、 こ.がれる、 あせ.る、 じ.れる、 じ.らす
+char, hurry, impatient, irritate, burn, scorch, singe
+----------
+----------
+硝
+ショウ
+
+nitrate, saltpeter
+----------
+----------
+粧
+ショウ
+
+cosmetics, adorn (one's person)
+----------
+----------
+詔
+ショウ
+みことのり
+imperial edict
+----------
+----------
+奨
+ショウ、 ソウ
+すす.める
+exhort, urge, encourage
+----------
+----------
+詳
+ショウ
+くわ.しい、 つまび.らか
+detailed, full, minute, accurate, well-informed
+----------
+----------
+彰
+ショウ
+
+patent, clear
+----------
+----------
+憧
+ショウ、 トウ、 ドウ
+あこが.れる
+yearn after, long for, aspire to, admire, adore
+----------
+----------
+衝
+ショウ
+つ.く
+collide, brunt, highway, opposition (astronomy), thrust, pierce, stab, prick
+----------
+----------
+償
+ショウ
+つぐな.う
+reparation, make up for, recompense, redeem
+----------
+----------
+礁
+ショウ
+
+reef, sunken rock
+----------
+----------
+鐘
+ショウ
+かね
+bell, gong, chimes
+----------
+----------
+丈
+ジョウ
+たけ、 だけ
+length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely
+----------
+----------
+冗
+ジョウ
+
+superfluous, uselessness
+----------
+----------
+浄
+ジョウ、 セイ
+きよ.める、 きよ.い
+clean, purify, cleanse, exorcise, Manchu Dynasty
+----------
+----------
+剰
+ジョウ
+あまつさえ、 あま.り、 あま.る
+surplus, besides
+----------
+----------
+畳
+ジョウ、 チョウ
+たた.む、 たたみ、 かさ.なる
+tatami mat, counter for tatami mats, fold, shut up, do away with
+----------
+----------
+縄
+ジョウ
+なわ、 ただ.す
+straw rope, cord
+----------
+----------
+壌
+ジョウ
+つち
+lot, earth, soil
+----------
+----------
+嬢
+ジョウ
+むすめ
+lass, girl, Miss, daughter
+----------
+----------
+錠
+ジョウ
+
+lock, fetters, shackles
+----------
+----------
+譲
+ジョウ
+ゆず.る
+defer, turnover, transfer, convey
+----------
+----------
+醸
+ジョウ
+かも.す
+brew, cause
+----------
+----------
+拭
+ショク、 シキ
+ぬぐ.う、 ふ.く
+wipe, mop, swab
+----------
+----------
+殖
+ショク
+ふ.える、 ふ.やす
+augment, increase, multiply, raise
+----------
+----------
+飾
+ショク
+かざ.る、 かざ.り
+decorate, ornament, adorn, embellish
+----------
+----------
+触
+ショク
+ふ.れる、 さわ.る、 さわ
+contact, touch, feel, hit, proclaim, announce, conflict
+----------
+----------
+嘱
+ショク
+しょく.する、 たの.む
+entrust, request, send a message
+----------
+----------
+辱
+ジョク
+はずかし.める
+embarrass, humiliate, shame
+----------
+----------
+尻
+コウ
+しり
+buttocks, hips, butt, rear
+----------
+----------
+伸
+シン
+の.びる、 の.ばす、 の.べる、 の.す
+expand, stretch, extend, lengthen, increase
+----------
+----------
+芯
+シン
+
+wick
+----------
+----------
+辛
+シン
+から.い、 つら.い、 -づら.い、 かのと
+spicy, bitter, hot, acrid
+----------
+----------
+侵
+シン
+おか.す
+encroach, invade, raid, trespass, violate
+----------
+----------
+津
+シン
+つ
+haven, port, harbor, ferry
+----------
+----------
+唇
+シン
+くちびる
+lips
+----------
+----------
+娠
+シン
+
+with child, pregnancy
+----------
+----------
+振
+シン
+ふ.る、 ふ.れる、 ふ.るう
+shake, wave, wag, swing
+----------
+----------
+浸
+シン
+ひた.す、 ひた.る、 つ.かる
+immersed, soak, dip, steep, moisten, wet, dunk
+----------
+----------
+紳
+シン
+
+sire, good belt, gentleman
+----------
+----------
+診
+シン
+み.る
+checkup, seeing, diagnose, examine
+----------
+----------
+寝
+シン
+ね.る、 ね.かす、 い.ぬ、 みたまや、 や.める
+lie down, sleep, rest, bed, remain unsold
+----------
+----------
+慎
+シン
+つつし.む、 つつ.ましい、 つつし、 つつし.み
+humility, be careful, discreet, prudent
+----------
+----------
+審
+シン
+つまび.らか、 つぶさ.に
+hearing, judge, trial
+----------
+----------
+震
+シン
+ふる.う、 ふる.える、 ふる.わせる、 ふる.わす
+quake, shake, tremble, quiver, shiver
+----------
+----------
+薪
+シン
+たきぎ、 まき
+fuel, firewood, kindling
+----------
+----------
+刃
+ジン、 ニン
+は、 やいば、 き.る
+blade, sword, edge
+----------
+----------
+尽
+ジン、 サン
+つ.きる、 つ.くす、 つ.かす、 -づ.く、 -ず.く、 ことごと.く
+exhaust, use up, run out of, deplete, befriend, serve
+----------
+----------
+迅
+ジン
+
+swift, fast
+----------
+----------
+甚
+ジン
+はなは.だ、 はなは.だしい
+tremendously, very, great, exceedingly
+----------
+----------
+陣
+ジン
+
+camp, battle array, ranks, position, sudden, brief time
+----------
+----------
+尋
+ジン
+たず.ねる、 ひろ
+inquire, fathom, look for
+----------
+----------
+腎
+ジン
+
+kidney
+----------
+----------
+須
+ス、 シュ
+すべから.く、 すべし、 ひげ、 まつ、 もち.いる、 もと.める
+ought, by all means, necessarily
+----------
+----------
+吹
+スイ
+ふ.く
+blow, breathe, puff, emit, smoke
+----------
+----------
+炊
+スイ
+た.く、 -だ.き
+cook, boil
+----------
+----------
+帥
+スイ
+
+commander, leading troops, governor
+----------
+----------
+粋
+スイ
+いき
+chic, style, purity, essence, pith, cream, elite, choice
+----------
+----------
+衰
+スイ
+おとろ.える
+decline, wane, weaken
+----------
+----------
+酔
+スイ
+よ.う、 よ.い、 よ
+drunk, feel sick, poisoned, elated, spellbound
+----------
+----------
+遂
+スイ
+と.げる、 つい.に
+consummate, accomplish, attain, commit (suicide)
+----------
+----------
+睡
+スイ
+ねむ.る、 ねむ.い
+drowsy, sleep, die
+----------
+----------
+穂
+スイ
+ほ
+ear, ear (grain), head, crest (wave)
+----------
+----------
+随
+ズイ
+まにま.に、 したが.う
+follow, though, notwithstanding, while, during, both, all, obey, submit to, comply, at the mercy of (the waves)
+----------
+----------
+髄
+ズイ
+
+marrow, pith, essence
+----------
+----------
+枢
+スウ、 シュ
+とぼそ、 からくり
+hinge, pivot, door
+----------
+----------
+崇
+スウ
+あが.める
+adore, respect, revere, worship
+----------
+----------
+据
+キョ
+す.える、 す.わる
+set, lay a foundation, install, equip, squat down, sit down
+----------
+----------
+杉
+サン
+すぎ
+cedar, cryptomeria
+----------
+----------
+裾
+キョ、 コ
+すそ
+cuff, hem, foot of mountain
+----------
+----------
+瀬
+ライ
+せ
+rapids, current, torrent, shallows, shoal
+----------
+----------
+是
+ゼ、 シ
+これ、 この、 ここ
+just so, this, right, justice
+----------
+----------
+井
+セイ、 ショウ
+い
+well, well crib, town, community
+----------
+----------
+姓
+セイ、 ショウ
+
+surname
+----------
+----------
+征
+セイ
+
+subjugate, attack the rebellious, collect taxes
+----------
+----------
+斉
+セイ、 サイ
+そろ.う、 ひと.しい、 ひと.しく、 あたる、 はやい
+adjusted, alike, equal, similar variety of
+----------
+----------
+牲
+セイ
+
+animal sacrifice, offering
+----------
+----------
+凄
+セイ、 サイ
+さむ.い、 すご.い、 すさ.まじい
+uncanny, weird, threatening, horrible
+----------
+----------
+逝
+セイ
+ゆ.く、 い.く
+departed, die
+----------
+----------
+婿
+セイ
+むこ
+bridegroom, son-in-law
+----------
+----------
+誓
+セイ
+ちか.う
+vow, swear, pledge
+----------
+----------
+請
+セイ、 シン、 ショウ
+こ.う、 う.ける
+solicit, invite, ask
+----------
+----------
+醒
+セイ
+さ.ます、 さ.める
+awake, be disillusioned, sober up
+----------
+----------
+斥
+セキ
+しりぞ.ける
+reject, retreat, recede, withdraw, repel, repulse
+----------
+----------
+析
+セキ
+
+chop, divide, tear, analyze
+----------
+----------
+脊
+セキ
+せ、 せい
+stature, height
+----------
+----------
+隻
+セキ
+
+vessels, counter for ships, fish, birds, arrows, one of a pair
+----------
+----------
+惜
+セキ
+お.しい、 お.しむ
+pity, be sparing of, frugal, stingy, regret
+----------
+----------
+戚
+ソク、 セキ
+いた.む、 うれ.える、 みうち
+grieve, relatives
+----------
+----------
+跡
+セキ
+あと
+tracks, mark, print, impression
+----------
+----------
+籍
+セキ
+
+enroll, domiciliary register, membership
+----------
+----------
+拙
+セツ
+つたな.い
+bungling, clumsy, unskillful
+----------
+----------
+窃
+セツ
+ぬす.む、 ひそ.か
+stealth, steal, secret, private, hushed
+----------
+----------
+摂
+セツ、 ショウ
+おさ.める、 かね.る、 と.る
+vicarious, surrogate, act in addition to, take in, absorb
+----------
+----------
+仙
+セン、 セント
+
+hermit, wizard, cent
+----------
+----------
+占
+セン
+し.める、 うらな.う
+fortune-telling, divining, forecasting, occupy, hold, have, get, take
+----------
+----------
+扇
+セン
+おうぎ
+fan, folding fan
+----------
+----------
+栓
+セン
+
+plug, bolt, cork, bung, stopper
+----------
+----------
+旋
+セン
+め.ぐる、 いばり
+rotation, go around
+----------
+----------
+煎
+セン
+せん.じる、 い.る、 に.る
+broil, parch, roast, boil
+----------
+----------
+羨
+セン、 エン
+うらや.む、 あまり
+envious, be jealous, covet
+----------
+----------
+腺
+セン
+
+gland, (kokuji)
+----------
+----------
+詮
+セン
+せん.ずる、 かい、 あき.らか
+discussion, methods called for, selection, result
+----------
+----------
+践
+セン
+ふ.む
+tread, step on, trample, practice, carry through
+----------
+----------
+箋
+セン
+ふだ
+paper, label, letter, composition
+----------
+----------
+潜
+セン
+ひそ.む、 もぐ.る、 かく.れる、 くぐ.る、 ひそ.める
+submerge, conceal, hide, lower (voice), hush
+----------
+----------
+遷
+セン
+うつ.る、 うつ.す、 みやこがえ
+transition, move, change
+----------
+----------
+薦
+セン
+すす.める
+recommend, mat, advise, encourage, offer
+----------
+----------
+繊
+セン
+
+slender, fine, thin kimono
+----------
+----------
+鮮
+セン
+あざ.やか
+fresh, vivid, clear, brilliant, Korea
+----------
+----------
+禅
+ゼン、 セン
+しずか、 ゆず.る
+Zen, silent meditation
+----------
+----------
+漸
+ゼン
+ようや.く、 やや、 ようよ.う、 すす.む
+steadily, gradually advancing, finally, barely
+----------
+----------
+膳
+ゼン、 セン
+かしわ、 すす.める、 そな.える
+small low table, tray
+----------
+----------
+繕
+ゼン
+つくろ.う
+darning, repair, mend, trim, tidy up, adjust
+----------
+----------
+狙
+ソ、 ショ
+ねら.う、 ねら.い
+aim at, sight, shadow, stalk
+----------
+----------
+阻
+ソ
+はば.む
+thwart, separate from, prevent, obstruct, deter, impede
+----------
+----------
+租
+ソ
+
+tariff, crop tax, borrowing
+----------
+----------
+措
+ソ
+お.く
+set aside, give up, suspend, discontinue, lay aside, except
+----------
+----------
+粗
+ソ
+あら.い、 あら-
+coarse, rough, rugged
+----------
+----------
+疎
+ソ、 ショ
+うと.い、 うと.む、 まば.ら
+alienate, rough, neglect, shun, sparse, penetrate
+----------
+----------
+訴
+ソ
+うった.える
+accusation, sue, complain of pain, appeal to
+----------
+----------
+塑
+ソ
+でく
+model, molding
+----------
+----------
+遡
+ソ、 サク
+さかのぼ.る
+go upstream, retrace the past
+----------
+----------
+礎
+ソ
+いしずえ
+cornerstone, foundation stone
+----------
+----------
+双
+ソウ
+ふた、 たぐい、 ならぶ、 ふたつ
+pair, set, comparison, counter for pairs
+----------
+----------
+壮
+ソウ
+さかん
+robust, manhood, prosperity
+----------
+----------
+荘
+ソウ、 ショウ、 チャン
+ほうき、 おごそ.か
+villa, inn, cottage, feudal manor, solemn, dignified
+----------
+----------
+捜
+ソウ、 シュ、 シュウ
+さが.す
+search, look for, locate
+----------
+----------
+挿
+ソウ
+さ.す、 はさ.む
+insert, put in, graft, wear (sword)
+----------
+----------
+桑
+ソウ
+くわ
+mulberry
+----------
+----------
+掃
+ソウ、 シュ
+は.く
+sweep, brush
+----------
+----------
+曹
+ソウ、 ゾウ
+
+office, official, comrade, fellow
+----------
+----------
+曽
+ソウ、 ソ、 ゾウ
+かつ、 かつて、 すなわち
+formerly, once, before, ever, never, ex-
+----------
+----------
+爽
+ソウ
+あき.らか、 さわ.やか、 たがう
+refreshing, bracing, resonant, sweet, clear
+----------
+----------
+喪
+ソウ
+も
+miss, mourning
+----------
+----------
+痩
+ソウ、 チュウ、 シュウ、 シュ
+や.せる
+get thin
+----------
+----------
+葬
+ソウ
+ほうむ.る
+interment, bury, shelve
+----------
+----------
+僧
+ソウ
+
+Buddhist priest, monk
+----------
+----------
+遭
+ソウ
+あ.う、 あ.わせる
+encounter, meet, party, association, interview, join
+----------
+----------
+槽
+ソウ
+ふね
+vat, tub, tank
+----------
+----------
+踪
+ソウ、 ショウ
+あと
+remains, clue, footprint
+----------
+----------
+燥
+ソウ
+はしゃ.ぐ
+parch, dry up
+----------
+----------
+霜
+ソウ
+しも
+frost
+----------
+----------
+騒
+ソウ
+さわ.ぐ、 うれい、 さわ.がしい
+boisterous, make noise, clamor, disturb, excite
+----------
+----------
+藻
+ソウ
+も
+seaweed, duckweed
+----------
+----------
+憎
+ゾウ
+にく.む、 にく.い、 にく.らしい、 にく.しみ
+hate, detest
+----------
+----------
+贈
+ゾウ、 ソウ
+おく.る
+presents, send, give to, award to, confer on, presenting something
+----------
+----------
+即
+ソク
+つ.く、 つ.ける、 すなわ.ち
+instant, namely, as is, conform, agree, adapt
+----------
+----------
+促
+ソク
+うなが.す
+stimulate, urge, press, demand, incite
+----------
+----------
+捉
+ソク、 サク
+とら.える
+catch, capture
+----------
+----------
+俗
+ゾク
+
+vulgar, customs, manners, worldliness, mundane things
+----------
+----------
+賊
+ゾク
+
+burglar, rebel, traitor, robber
+----------
+----------
+遜
+ソン
+したが.う、 へりくだ.る、 ゆず.る
+humble, modest
+----------
+----------
+汰
+タ、 タイ
+おご.る、 にご.る、 よな.げる
+washing, sieving, filtering, weeding out, luxury
+----------
+----------
+妥
+ダ
+
+gentle, peace, depravity
+----------
+----------
+唾
+ダ、 タ
+つば、 つばき
+saliva, sputum
+----------
+----------
+堕
+ダ
+お.ちる、 くず.す、 くず.れる
+degenerate, descend to, lapse into
+----------
+----------
+惰
+ダ
+
+lazy, laziness
+----------
+----------
+駄
+ダ、 タ
+
+burdensome, pack horse, horse load, send by horse, trivial, worthless
+----------
+----------
+耐
+タイ
+た.える
+-proof, enduring
+----------
+----------
+怠
+タイ
+おこた.る、 なま.ける
+neglect, laziness
+----------
+----------
+胎
+タイ
+
+womb, uterus
+----------
+----------
+泰
+タイ
+
+peaceful, calm, peace, easy, Thailand, extreme, excessive, great
+----------
+----------
+堆
+タイ、 ツイ
+うずたか.い
+piled high
+----------
+----------
+袋
+タイ、 ダイ
+ふくろ
+sack, bag, pouch
+----------
+----------
+逮
+タイ
+
+apprehend, chase
+----------
+----------
+替
+タイ
+か.える、 か.え-、 か.わる
+exchange, spare, substitute, per-
+----------
+----------
+滞
+タイ、 テイ
+とどこお.る
+stagnate, be delayed, overdue, arrears
+----------
+----------
+戴
+タイ
+いただ.く
+be crowned with, live under (a ruler), receive
+----------
+----------
+滝
+ロウ、 ソウ
+たき
+waterfall, rapids, cascade
+----------
+----------
+択
+タク
+えら.ぶ
+choose, select, elect, prefer
+----------
+----------
+沢
+タク
+さわ、 うるお.い、 うるお.す、 つや
+swamp, marsh, brilliance, grace
+----------
+----------
+卓
+タク
+
+eminent, table, desk, high
+----------
+----------
+拓
+タク
+ひら.く
+clear (the land), open, break up (land)
+----------
+----------
+託
+タク
+かこつ.ける、 かこ.つ、 かこ.つける
+consign, requesting, entrusting with, pretend, hint
+----------
+----------
+濯
+タク
+すす.ぐ、 ゆす.ぐ
+laundry, wash, pour on, rinse
+----------
+----------
+諾
+ダク
+
+consent, assent, agreement
+----------
+----------
+濁
+ダク、 ジョク
+にご.る、 にご.す
+voiced, uncleanness, wrong, nigori, impurity
+----------
+----------
+但
+タン
+ただ.し
+however, but
+----------
+----------
+脱
+ダツ
+ぬ.ぐ、 ぬ.げる
+undress, removing, escape from, get rid of, be left out, take off
+----------
+----------
+奪
+ダツ
+うば.う
+rob, take by force, snatch away, dispossess, plunder, usurp
+----------
+----------
+棚
+ホウ
+たな、 -だな
+shelf, ledge, rack, mount, mantle, trellis
+----------
+----------
+誰
+スイ
+だれ、 たれ、 た
+who, someone, somebody
+----------
+----------
+丹
+タン
+に
+rust-colored, red, red lead, pills, sincerity
+----------
+----------
+旦
+タン、 ダン
+あき.らか、 あきら、 ただし、 あさ、 あした
+daybreak, dawn, morning
+----------
+----------
+胆
+タン
+きも
+gall bladder, courage, pluck, nerve
+----------
+----------
+淡
+タン
+あわ.い
+thin, faint, pale, fleeting
+----------
+----------
+嘆
+タン
+なげ.く、 なげ.かわしい
+sigh, lament, moan, grieve, sigh of admiration
+----------
+----------
+端
+タン
+はし、 は、 はた、 -ばた、 はな
+edge, origin, end, point, border, verge, cape
+----------
+----------
+綻
+タン
+ほころ.びる
+be rent, ripped, unravel, run, begin to open, smile
+----------
+----------
+鍛
+タン
+きた.える
+forge, discipline, train
+----------
+----------
+弾
+ダン、 タン
+ひ.く、 -ひ.き、 はず.む、 たま、 はじ.く、 はじ.ける、 ただ.す、 はじ.きゆみ
+bullet, twang, flip, snap
+----------
+----------
+壇
+ダン、 タン
+
+podium, stage, rostrum, terrace
+----------
+----------
+恥
+チ
+は.じる、 はじ、 は.じらう、 は.ずかしい
+shame, dishonor
+----------
+----------
+致
+チ
+いた.す
+doth, do, send, forward, cause, exert, incur, engage
+----------
+----------
+遅
+チ
+おく.れる、 おく.らす、 おそ.い
+slow, late, back, later
+----------
+----------
+痴
+チ
+し.れる、 おろか
+stupid, foolish
+----------
+----------
+稚
+チ、 ジ
+いとけない、 おさない、 おくて、 おでる
+immature, young
+----------
+----------
+緻
+チ
+こまか.い
+fine (i.e. not coarse)
+----------
+----------
+畜
+チク
+
+livestock, domestic fowl and animals
+----------
+----------
+逐
+チク
+
+pursue, drive away, chase, accomplish, attain, commit
+----------
+----------
+蓄
+チク
+たくわ.える
+amass, raise, hoard, store
+----------
+----------
+秩
+チツ
+
+regularity, salary, order
+----------
+----------
+窒
+チツ
+
+plug up, obstruct
+----------
+----------
+嫡
+チャク、 テキ
+
+legitimate wife, direct descent (non-bastard)
+----------
+----------
+沖
+チュウ
+おき、 おきつ、 ちゅう.する、 わく
+open sea, offing, rise high into sky
+----------
+----------
+抽
+チュウ
+ひき-
+pluck, pull, extract, excel
+----------
+----------
+衷
+チュウ
+
+inmost, heart, mind, inside
+----------
+----------
+酎
+チュウ、 チュ
+かも.す
+sake
+----------
+----------
+鋳
+チュウ、 イ、 シュ、 シュウ
+い.る
+casting, mint
+----------
+----------
+駐
+チュウ
+
+stop-over, reside in, resident
+----------
+----------
+弔
+チョウ
+とむら.う、 とぶら.う
+condolences, mourning, funeral
+----------
+----------
+挑
+チョウ
+いど.む
+challenge, contend for, make love to
+----------
+----------
+彫
+チョウ
+ほ.る、 -ぼ.り
+carve, engrave, chisel
+----------
+----------
+眺
+チョウ
+なが.める
+stare, watch, look at, see, scrutinize
+----------
+----------
+釣
+チョウ
+つ.る、 つ.り、 つ.り-
+angling, fish, catch, allure, ensnare
+----------
+----------
+貼
+テン、 チョウ
+は.る、 つ.く
+stick, paste, apply
+----------
+----------
+超
+チョウ
+こ.える、 こ.す
+transcend, super-, ultra-
+----------
+----------
+跳
+チョウ
+は.ねる、 と.ぶ、 -と.び
+hop, leap up, spring, jerk, prance, buck, splash, sputter, snap
+----------
+----------
+徴
+チョウ、 チ
+しるし
+indications, sign, omen, symptom, collect, seek, refer to, question
+----------
+----------
+嘲
+チョウ、 トウ
+あざけ.る
+ridicule, insult
+----------
+----------
+澄
+チョウ
+す.む、 す.ます、 -す.ます
+lucidity, be clear, clear, clarify, settle, strain, look grave
+----------
+----------
+聴
+チョウ、 テイ
+き.く、 ゆる.す
+listen, headstrong, naughty, careful inquiry
+----------
+----------
+懲
+チョウ
+こ.りる、 こ.らす、 こ.らしめる
+penal, chastise, punish, discipline
+----------
+----------
+勅
+チョク
+いまし.める、 みことのり
+imperial order
+----------
+----------
+捗
+チョク、 ホ
+はかど.る
+make progress
+----------
+----------
+沈
+チン、 ジン
+しず.む、 しず.める
+sink, be submerged, subside, be depressed, aloes
+----------
+----------
+珍
+チン
+めずら.しい、 たから
+rare, curious, strange
+----------
+----------
+朕
+チン
+
+majestic plural, imperial we
+----------
+----------
+陳
+チン
+ひ.ねる
+exhibit, state, relate, explain
+----------
+----------
+鎮
+チン
+しず.める、 しず.まる、 おさえ
+tranquilize, ancient peace-preservation centers
+----------
+----------
+椎
+ツイ、 スイ
+つち、 う.つ
+chinquapin, mallet, spine
+----------
+----------
+墜
+ツイ
+お.ちる、 お.つ
+crash, fall (down)
+----------
+----------
+塚
+チョウ
+つか、 -づか
+hillock, mound
+----------
+----------
+漬
+シ
+つ.ける、 つ.かる、 -づ.け、 -づけ
+pickling, soak, moisten, steep
+----------
+----------
+坪
+ヘイ
+つぼ
+two-mat area, approx. thirty-six sq ft
+----------
+----------
+爪
+ソウ
+つめ、 つま-
+claw, nail, talon
+----------
+----------
+鶴
+カク
+つる
+crane, stork
+----------
+----------
+呈
+テイ
+
+display, offer, present, send, exhibit
+----------
+----------
+廷
+テイ
+
+courts, imperial court, government office
+----------
+----------
+抵
+テイ
+
+resist, reach, touch
+----------
+----------
+邸
+テイ
+やしき
+residence, mansion
+----------
+----------
+亭
+テイ、 チン
+
+pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name
+----------
+----------
+貞
+テイ、 ジョウ
+ただし.い、 さだ
+upright, chastity, constancy, righteousness
+----------
+----------
+帝
+テイ
+みかど
+sovereign, the emperor, god, creator
+----------
+----------
+訂
+テイ
+ただ.す
+revise, correct, decide
+----------
+----------
+逓
+テイ
+かわ.る、 たがいに
+relay, in turn, sending
+----------
+----------
+偵
+テイ
+
+spy
+----------
+----------
+堤
+テイ
+つつみ
+dike, bank, embankment
+----------
+----------
+艇
+テイ
+
+rowboat, small boat
+----------
+----------
+締
+テイ
+し.まる、 し.まり、 し.める、 -し.め、 -じ.め
+tighten, tie, shut, lock, fasten
+----------
+----------
+諦
+テイ、 タイ
+あきら.める、 つまびらか、 まこと
+truth, clarity, abandon, give up
+----------
+----------
+泥
+デイ、 ナイ、 デ、 ニ
+どろ、 なず.む
+mud, mire, adhere to, be attached to
+----------
+----------
+摘
+テキ
+つ.む
+pinch, pick, pluck, trim, clip, summarize
+----------
+----------
+滴
+テキ
+しずく、 したた.る
+drip, drop
+----------
+----------
+溺
+デキ、 ジョウ、 ニョウ
+いばり、 おぼ.れる
+drown, indulge
+----------
+----------
+迭
+テツ
+
+transfer, alternation
+----------
+----------
+哲
+テツ
+さとい、 あきらか
+philosophy, clear
+----------
+----------
+徹
+テツ
+
+penetrate, clear, pierce, strike home, sit up (all night)
+----------
+----------
+撤
+テツ
+
+remove, withdraw, disarm, dismantle, reject, exclude
+----------
+----------
+添
+テン
+そ.える、 そ.う
+annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate
+----------
+----------
+填
+テン、 チン
+は.まる、 は.める、 うず.める、 しず.める、 ふさ.ぐ
+fill in
+----------
+----------
+殿
+デン、 テン
+との、 -どの
+Mr., hall, mansion, palace, temple, lord
+----------
+----------
+斗
+ト、 トウ
+
+Big Dipper, ten sho (vol), sake dipper, dots and cross radical (no. 68)
+----------
+----------
+吐
+ト
+は.く、 つ.く
+spit, vomit, belch, confess, tell (lies)
+----------
+----------
+妬
+ト、 ツ
+ねた.む、 そね.む、 つも.る、 ふさ.ぐ
+jealous, envy
+----------
+----------
+途
+ト
+みち
+route, way, road
+----------
+----------
+渡
+ト
+わた.る、 -わた.る、 わた.す
+transit, ford, ferry, cross, import, deliver, diameter, migrate
+----------
+----------
+塗
+ト
+ぬ.る、 ぬ.り、 まみ.れる
+paint, plaster, daub, smear, coating
+----------
+----------
+賭
+ト
+か.ける、 かけ
+gamble, wager, bet
+----------
+----------
+奴
+ド
+やつ、 やっこ
+guy, slave, manservant, fellow
+----------
+----------
+怒
+ド、 ヌ
+いか.る、 おこ.る
+angry, be offended
+----------
+----------
+到
+トウ
+いた.る
+arrival, proceed, reach, attain, result in
+----------
+----------
+逃
+トウ
+に.げる、 に.がす、 のが.す、 のが.れる
+escape, flee, shirk, evade, set free
+----------
+----------
+倒
+トウ
+たお.れる、 -だお.れ、 たお.す、 さかさま、 さかさ、 さかしま
+overthrow, fall, collapse, drop, break down
+----------
+----------
+凍
+トウ
+こお.る、 こご.える、 こご.る、 い.てる、 し.みる
+frozen, congeal, refrigerate
+----------
+----------
+唐
+トウ
+から
+T'ang, China, foreign
+----------
+----------
+桃
+トウ
+もも
+peach
+----------
+----------
+透
+トウ
+す.く、 す.かす、 す.ける、 とう.る、 とう.す
+transparent, permeate, filter, penetrate
+----------
+----------
+悼
+トウ
+いた.む
+lament, grieve over
+----------
+----------
+盗
+トウ
+ぬす.む、 ぬす.み
+steal, rob, pilfer
+----------
+----------
+陶
+トウ
+すえ
+pottery, porcelain
+----------
+----------
+塔
+トウ
+
+pagoda, tower, steeple
+----------
+----------
+搭
+トウ
+
+board, load (a vehicle), ride
+----------
+----------
+棟
+トウ
+むね、 むな-
+ridgepole, ridge
+----------
+----------
+痘
+トウ
+
+pox, smallpox
+----------
+----------
+筒
+トウ
+つつ
+cylinder, pipe, tube, gun barrel, sleeve
+----------
+----------
+稲
+トウ、 テ
+いね、 いな-
+rice plant
+----------
+----------
+踏
+トウ
+ふ.む、 ふ.まえる
+step, trample, carry through, appraise, evade payment
+----------
+----------
+謄
+トウ
+
+mimeograph, copy
+----------
+----------
+藤
+トウ、 ドウ
+ふじ
+wisteria
+----------
+----------
+闘
+トウ
+たたか.う、 あらそ.う
+fight, war
+----------
+----------
+騰
+トウ
+あが.る、 のぼ.る
+leaping up, jumping up, rising, advancing, going
+----------
+----------
+洞
+ドウ
+ほら
+den, cave, excavation
+----------
+----------
+胴
+ドウ
+
+trunk, torso, hull (ship), hub of wheel
+----------
+----------
+瞳
+ドウ、 トウ
+ひとみ
+pupil (of eye)
+----------
+----------
+峠
+
+とうげ
+mountain peak, mountain pass, climax, crest, (kokuji)
+----------
+----------
+匿
+トク
+かくま.う
+hide, shelter, shield
+----------
+----------
+督
+トク
+
+coach, command, urge, lead, supervise
+----------
+----------
+篤
+トク
+あつ.い
+fervent, kind, cordial, serious, deliberate
+----------
+----------
+栃
+
+とち
+horse chestnut, (kokuji)
+----------
+----------
+凸
+トツ
+でこ
+convex, beetle brow, uneven
+----------
+----------
+突
+トツ、 カ
+つ.く
+stab, protruding, thrust, pierce, prick, collision, sudden
+----------
+----------
+屯
+トン
+たむろ
+barracks, police station, camp, ton
+----------
+----------
+豚
+トン
+ぶた
+pork, pig
+----------
+----------
+頓
+トン、 トツ
+にわか.に、 とん.と、 つまず.く、 とみ.に、 ぬかずく
+suddenly, immediately, in a hurry, arrange, stay in place, bow, kowtow
+----------
+----------
+貪
+タン、 ドン、 トン
+むさぼ.る
+covet, indulge in
+----------
+----------
+鈍
+ドン
+にぶ.い、 にぶ.る、 にぶ-、 なま.る、 なまく.ら
+dull, slow, foolish, blunt
+----------
+----------
+曇
+ドン
+くも.る
+cloudy weather, cloud up
+----------
+----------
+丼
+トン、 タン、 ショウ、 セイ
+どんぶり
+bowl, bowl of food
+----------
+----------
+那
+ナ、 ダ
+なに、 なんぞ、 いかん
+what?
+----------
+----------
+奈
+ナ、 ナイ、 ダイ
+いかん、 からなし
+Nara, what?
+----------
+----------
+梨
+リ
+なし
+pear tree
+----------
+----------
+謎
+メイ、 ベイ
+なぞ
+riddle, puzzle, enigma, hint, tip
+----------
+----------
+鍋
+カ
+なべ
+pot, pan, kettle
+----------
+----------
+軟
+ナン
+やわ.らか、 やわ.らかい
+soft
+----------
+----------
+尼
+ニ
+あま
+nun
+----------
+----------
+弐
+ニ、 ジ
+ふた.つ、 そえ
+II, two, second
+----------
+----------
+匂
+
+にお.う、 にお.い、 にお.わせる
+fragrant, stink, glow, insinuate, (kokuji)
+----------
+----------
+虹
+コウ
+にじ
+rainbow
+----------
+----------
+尿
+ニョウ
+ゆばり、 いばり、 しと
+urine
+----------
+----------
+妊
+ニン、 ジン
+はら.む、 みごも.る
+pregnancy
+----------
+----------
+忍
+ニン
+しの.ぶ、 しの.ばせる
+endure, bear, put up with, conceal, secrete, spy, sneak
+----------
+----------
+寧
+ネイ
+むし.ろ
+rather, preferably, peaceful, quiet, tranquility
+----------
+----------
+捻
+ネン、 ジョウ
+ね.じる、 ねじ.る、 ひね.くる、 ひね.る
+twirl, twist, play with
+----------
+----------
+粘
+ネン
+ねば.る
+sticky, glutinous, greasy, persevere
+----------
+----------
+悩
+ノウ
+なや.む、 なや.ます、 なや.ましい、 なやみ
+trouble, worry, in pain, distress, illness
+----------
+----------
+濃
+ノウ
+こ.い
+concentrated, thick, dark, undiluted
+----------
+----------
+把
+ハ、 ワ
+
+grasp, faggot, bunch, counter for bundles
+----------
+----------
+覇
+ハ、 ハク
+はたがしら
+hegemony, supremacy, leadership, champion
+----------
+----------
+婆
+バ
+ばば、 ばあ
+old woman, grandma, wet nurse
+----------
+----------
+罵
+バ
+ののし.る
+abuse, insult
+----------
+----------
+杯
+ハイ
+さかずき
+counter for cupfuls, wine glass, glass, toast
+----------
+----------
+排
+ハイ
+
+repudiate, exclude, expel, reject, line up, arrange
+----------
+----------
+廃
+ハイ
+すた.れる、 すた.る
+abolish, obsolete, cessation, discarding, abandon
+----------
+----------
+輩
+ハイ
+-ばら、 やから、 やかい、 ともがら
+comrade, fellow, people, companions
+----------
+----------
+培
+バイ
+つちか.う
+cultivate, foster
+----------
+----------
+陪
+バイ
+
+obeisance, follow, accompany, attend on
+----------
+----------
+媒
+バイ
+なこうど
+mediator, go-between
+----------
+----------
+賠
+バイ
+
+compensation, indemnify
+----------
+----------
+伯
+ハク
+
+chief, count, earl, uncle, Brazil
+----------
+----------
+拍
+ハク、 ヒョウ
+
+clap, beat (music)
+----------
+----------
+泊
+ハク
+と.まる、 と.める
+overnight stay, put up at, ride at anchor
+----------
+----------
+迫
+ハク
+せま.る
+urge, force, imminent, spur on
+----------
+----------
+剥
+ハク、 ホク
+へ.ぐ、 へず.る、 む.く、 む.ける、 は.がれる、 は.ぐ、 は.げる、 は.がす
+come off, peel, fade, discolor
+----------
+----------
+舶
+ハク
+
+liner, ship
+----------
+----------
+薄
+ハク
+うす.い、 うす-、 -うす、 うす.める、 うす.まる、 うす.らぐ、 うす.ら-、 うす.れる、 すすき
+dilute, thin, weak (tea), pampas grass
+----------
+----------
+漠
+バク
+
+vague, obscure, desert, wide
+----------
+----------
+縛
+バク
+しば.る
+truss, arrest, bind, tie, restrain
+----------
+----------
+爆
+バク
+は.ぜる
+bomb, burst open, pop, split
+----------
+----------
+箸
+チョ、 チャク
+はし
+chopsticks
+----------
+----------
+肌
+キ
+はだ
+texture, skin, body, grain
+----------
+----------
+鉢
+ハチ、 ハツ
+
+bowl, rice tub, pot, crown
+----------
+----------
+髪
+ハツ
+かみ
+hair of the head
+----------
+----------
+伐
+バツ、 ハツ、 カ、 ボチ
+き.る、 そむ.く、 う.つ
+fell, strike, attack, punish
+----------
+----------
+抜
+バツ、 ハツ、 ハイ
+ぬ.く、 -ぬ.く、 ぬ.き、 ぬ.ける、 ぬ.かす、 ぬ.かる
+slip out, extract, pull out, pilfer, quote, remove, omit
+----------
+----------
+罰
+バツ、 バチ、 ハツ
+ばっ.する
+penalty, punishment
+----------
+----------
+閥
+バツ
+
+clique, lineage, pedigree, faction, clan
+----------
+----------
+氾
+ハン
+ひろ.がる
+spread out, wide
+----------
+----------
+帆
+ハン
+ほ
+sail
+----------
+----------
+汎
+ハン、 ブ、 フウ、 ホウ、 ホン
+ただよ.う、 ひろ.い
+pan-
+----------
+----------
+伴
+ハン、 バン
+ともな.う
+consort, accompany, bring with, companion
+----------
+----------
+阪
+ハン
+さか
+heights, slope
+----------
+----------
+畔
+ハン
+あぜ、 くろ、 ほとり
+paddy ridge, levee
+----------
+----------
+般
+ハン
+
+carrier, carry, all, general, sort, kind
+----------
+----------
+販
+ハン
+
+marketing, sell, trade
+----------
+----------
+斑
+ハン
+ふ、 まだら
+spot, blemish, speck, patches
+----------
+----------
+搬
+ハン
+
+conveyor, carry, transport
+----------
+----------
+煩
+ハン、 ボン
+わずら.う、 わずら.わす、 うるさ.がる、 うるさ.い
+anxiety, trouble, worry, pain, ill, annoy, nuisance, irksome
+----------
+----------
+頒
+ハン
+わ.かつ、 わ.ける
+distribute, disseminate, partition, understand
+----------
+----------
+範
+ハン
+
+pattern, example, model
+----------
+----------
+繁
+ハン
+しげ.る、 しげ.く
+luxuriant, thick, overgrown, frequency, complexity, trouble
+----------
+----------
+藩
+ハン
+
+clan, enclosure
+----------
+----------
+蛮
+バン
+えびす
+barbarian
+----------
+----------
+盤
+バン
+
+tray, shallow bowl, platter, tub, board, phonograph record
+----------
+----------
+妃
+ヒ
+きさき
+queen, princess
+----------
+----------
+彼
+ヒ
+かれ、 かの、 か.の
+he, that, the
+----------
+----------
+披
+ヒ
+
+expose, open
+----------
+----------
+卑
+ヒ
+いや.しい、 いや.しむ、 いや.しめる
+lowly, base, vile, vulgar
+----------
+----------
+疲
+ヒ
+つか.れる、 -づか.れ、 つか.らす
+exhausted, tire, weary
+----------
+----------
+被
+ヒ
+こうむ.る、 おお.う、 かぶ.る、 かぶ.せる
+incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving
+----------
+----------
+扉
+ヒ
+とびら
+front door, title page, front page
+----------
+----------
+碑
+ヒ
+いしぶみ
+tombstone, monument
+----------
+----------
+罷
+ヒ
+まか.り-、 や.める
+quit, stop, leave, withdraw, go
+----------
+----------
+避
+ヒ
+さ.ける、 よ.ける
+evade, avoid, avert, ward off, shirk, shun
+----------
+----------
+尾
+ビ
+お
+tail, end, counter for fish, lower slope of mountain
+----------
+----------
+眉
+ビ、 ミ
+まゆ
+eyebrow
+----------
+----------
+微
+ビ
+かす.か
+delicate, minuteness, insignificance
+----------
+----------
+膝
+シツ
+ひざ
+knee, lap
+----------
+----------
+肘
+チュウ
+ひじ
+elbow, arm
+----------
+----------
+匹
+ヒツ
+ひき
+equal, head, counter for small animals, roll of cloth
+----------
+----------
+泌
+ヒツ、 ヒ
+
+ooze, flow, soak in, penetrate, secrete
+----------
+----------
+姫
+キ
+ひめ、 ひめ-
+princess
+----------
+----------
+漂
+ヒョウ
+ただよ.う
+drift, float (on liquid)
+----------
+----------
+苗
+ビョウ、 ミョウ
+なえ、 なわ-
+seedling, sapling, shoot
+----------
+----------
+描
+ビョウ
+えが.く、 か.く
+sketch, compose, write, draw, paint
+----------
+----------
+猫
+ビョウ
+ねこ
+cat
+----------
+----------
+浜
+ヒン
+はま
+seacoast, beach, seashore
+----------
+----------
+賓
+ヒン
+
+V.I.P., guest
+----------
+----------
+頻
+ヒン
+しき.りに
+repeatedly, recur
+----------
+----------
+敏
+ビン
+さとい
+cleverness, agile, alert
+----------
+----------
+瓶
+ビン
+かめ、 へい
+bottle, vial, jar, jug, vat, urn
+----------
+----------
+扶
+フ
+たす.ける
+aid, help, assist
+----------
+----------
+怖
+フ、 ホ
+こわ.い、 こわ.がる、 お.じる、 おそ.れる
+dreadful, be frightened, fearful
+----------
+----------
+阜
+フ、 フウ
+
+hill, mound, left village radical (no. 170)
+----------
+----------
+附
+フ
+つ.ける、 つ.く
+affixed, attach, refer to, append
+----------
+----------
+訃
+フ
+しらせ
+obituary
+----------
+----------
+赴
+フ
+おもむ.く
+proceed, get, become, tend
+----------
+----------
+浮
+フ
+う.く、 う.かれる、 う.かぶ、 う.かべる
+floating, float, rise to surface
+----------
+----------
+符
+フ
+
+token, sign, mark, tally, charm
+----------
+----------
+普
+フ
+あまね.く、 あまねし
+universal, wide(ly), generally, Prussia
+----------
+----------
+腐
+フ
+くさ.る、 -くさ.る、 くさ.れる、 くさ.れ、 くさ.らす、 くさ.す
+rot, decay, sour
+----------
+----------
+敷
+フ
+し.く、 -し.き
+spread, pave, sit, promulgate
+----------
+----------
+膚
+フ
+はだ
+skin, body, grain, texture, disposition
+----------
+----------
+賦
+フ、 ブ
+
+levy, ode, prose, poem, tribute, installment
+----------
+----------
+譜
+フ
+
+musical score, music, note, staff, table, genealogy
+----------
+----------
+侮
+ブ
+あなど.る、 あなず.る
+scorn, despise, make light of, contempt
+----------
+----------
+舞
+ブ
+ま.う、 -ま.う、 まい
+dance, flit, circle, wheel
+----------
+----------
+封
+フウ、 ホウ
+
+seal, closing
+----------
+----------
+伏
+フク
+ふ.せる、 ふ.す
+prostrated, bend down, bow, cover, lay (pipes)
+----------
+----------
+幅
+フク
+はば
+hanging scroll, width
+----------
+----------
+覆
+フク
+おお.う、 くつがえ.す、 くつがえ.る
+capsize, cover, shade, mantle, be ruined
+----------
+----------
+払
+フツ、 ヒツ、 ホツ
+はら.う、 -はら.い、 -ばら.い
+pay, clear out, prune, banish, dispose of
+----------
+----------
+沸
+フツ
+わ.く、 わ.かす
+seethe, boil, ferment, uproar, breed
+----------
+----------
+紛
+フン
+まぎ.れる、 -まぎ.れ、 まぎ.らす、 まぎ.らわす、 まぎ.らわしい
+distract, be mistaken for, go astray, divert
+----------
+----------
+雰
+フン
+
+atmosphere, fog
+----------
+----------
+噴
+フン
+ふ.く
+erupt, spout, emit, flush out
+----------
+----------
+墳
+フン
+
+tomb, mound
+----------
+----------
+憤
+フン
+いきどお.る
+aroused, resent, be indignant, anger
+----------
+----------
+丙
+ヘイ
+ひのえ
+third class, 3rd, 3rd calendar sign
+----------
+----------
+併
+ヘイ
+あわ.せる
+join, get together, unite, collective
+----------
+----------
+柄
+ヘイ
+がら、 え、 つか
+design, pattern, build, nature, character, handle, crank, grip, knob, shaft
+----------
+----------
+塀
+ヘイ、 ベイ
+
+fence, wall, (kokuji)
+----------
+----------
+幣
+ヘイ
+ぬさ
+cash, bad habit, humble prefix, gift, Shinto offerings of cloth, rope, cut paper
+----------
+----------
+弊
+ヘイ
+
+abuse, evil, vice, breakage
+----------
+----------
+蔽
+ヘイ、 ヘツ、 フツ
+おお.う、 おお.い
+cover, shade, mantle, capsize, be ruined
+----------
+----------
+餅
+ヘイ、 ヒョウ
+もち、 もちい
+mochi rice cake
+----------
+----------
+壁
+ヘキ
+かべ
+wall, lining (stomach), fence
+----------
+----------
+璧
+ヘキ
+たま
+sphere, ball
+----------
+----------
+癖
+ヘキ
+くせ、 くせ.に
+mannerism, habit, vice, trait, fault, kink
+----------
+----------
+蔑
+ベツ
+ないがしろ、 なみ.する、 くらい、 さげす.む
+ignore, despise, neglect, ridicule
+----------
+----------
+偏
+ヘン
+かたよ.る
+partial, side, left-side radical, inclining, biased
+----------
+----------
+遍
+ヘン
+あまね.く
+everywhere, times, widely, generally
+----------
+----------
+哺
+ホ
+はぐく.む、 ふく.む
+nurse, suckle
+----------
+----------
+捕
+ホ
+と.らえる、 と.らわれる、 と.る、 とら.える、 とら.われる、 つか.まえる、 つか.まる
+catch, capture
+----------
+----------
+舗
+ホ
+
+shop, store, pave
+----------
+----------
+募
+ボ
+つの.る
+recruit, campaign, gather (contributions), enlist, grow violent
+----------
+----------
+慕
+ボ
+した.う
+pining, yearn for, love dearly, adore
+----------
+----------
+簿
+ボ
+
+register, record book
+----------
+----------
+芳
+ホウ
+かんば.しい
+perfume, balmy, favorable, fragrant
+----------
+----------
+邦
+ホウ
+くに
+home country, country, Japan
+----------
+----------
+奉
+ホウ、 ブ
+たてまつ.る、 まつ.る、 ほう.ずる
+observance, offer, present, dedicate
+----------
+----------
+抱
+ホウ
+だ.く、 いだ.く、 かか.える
+embrace, hug, hold in arms
+----------
+----------
+泡
+ホウ
+あわ
+bubbles, foam, suds, froth
+----------
+----------
+胞
+ホウ
+
+placenta, sac, sheath
+----------
+----------
+俸
+ホウ
+
+stipend, salary
+----------
+----------
+倣
+ホウ
+なら.う
+emulate, imitate
+----------
+----------
+峰
+ホウ
+みね、 ね
+summit, peak
+----------
+----------
+砲
+ホウ
+
+cannon, gun
+----------
+----------
+崩
+ホウ
+くず.れる、 -くず.れ、 くず.す
+crumble, die, demolish, level
+----------
+----------
+蜂
+ホウ
+はち
+bee, wasp, hornet
+----------
+----------
+飽
+ホウ
+あ.きる、 あ.かす、 あ.く
+sated, tired of, bored, satiate
+----------
+----------
+褒
+ホウ
+ほ.める
+praise, extol
+----------
+----------
+縫
+ホウ
+ぬ.う
+sew, stitch, embroider
+----------
+----------
+乏
+ボウ
+とぼ.しい、 とも.しい
+destitution, scarce, limited
+----------
+----------
+忙
+ボウ、 モウ
+いそが.しい、 せわ.しい、 おそ.れる、 うれえるさま
+busy, occupied, restless
+----------
+----------
+坊
+ボウ、 ボッ
+
+boy, priest's residence, priest
+----------
+----------
+妨
+ボウ
+さまた.げる
+disturb, prevent, hamper, obstruct
+----------
+----------
+房
+ボウ
+ふさ
+tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room
+----------
+----------
+肪
+ボウ
+
+obese, fat
+----------
+----------
+某
+ボウ
+それがし、 なにがし
+so-and-so, one, a certain, that person
+----------
+----------
+冒
+ボウ
+おか.す
+risk, face, defy, dare, damage, assume (a name)
+----------
+----------
+剖
+ボウ
+
+divide
+----------
+----------
+紡
+ボウ
+つむ.ぐ
+spinning
+----------
+----------
+傍
+ボウ
+かたわ.ら、 わき、 おか-、 はた、 そば
+bystander, side, besides, while, nearby, third person
+----------
+----------
+帽
+ボウ、 モウ
+ずきん、 おお.う
+cap, headgear
+----------
+----------
+貌
+ボウ、 バク
+かたち、 かたどる
+form, appearance, countenance
+----------
+----------
+膨
+ボウ
+ふく.らむ、 ふく.れる
+swell, get fat, thick
+----------
+----------
+謀
+ボウ、 ム
+はか.る、 たばか.る、 はかりごと
+conspire, cheat, impose on, plan, devise, scheme, have in mind, deceive
+----------
+----------
+頬
+キョウ
+ほお、 ほほ
+cheeks, jaw
+----------
+----------
+朴
+ボク
+ほう、 ほお、 えのき
+crude, simple, plain, docile
+----------
+----------
+睦
+ボク、 モク
+むつ.まじい、 むつ.む、 むつ.ぶ
+intimate, friendly, harmonious
+----------
+----------
+僕
+ボク
+しもべ
+me, I (male), servant, manservant
+----------
+----------
+墨
+ボク
+すみ
+black ink, India ink, ink stick, Mexico
+----------
+----------
+撲
+ボク
+
+slap, strike, hit, beat, tell, speak
+----------
+----------
+没
+ボツ、 モツ
+おぼ.れる、 しず.む、 ない
+drown, sink, hide, fall into, disappear, die
+----------
+----------
+勃
+ボツ、 ホツ
+おこ.る、 にわかに
+suddenness, rise
+----------
+----------
+堀
+クツ
+ほり
+ditch, moat, canal
+----------
+----------
+奔
+ホン
+はし.る
+run, bustle
+----------
+----------
+翻
+ホン、 ハン
+ひるがえ.る、 ひるがえ.す
+flip, turn over, wave, flutter, change (mind)
+----------
+----------
+凡
+ボン、 ハン
+およ.そ、 おうよ.そ、 すべ.て
+commonplace, ordinary, mediocre
+----------
+----------
+盆
+ボン
+
+basin, lantern festival, tray
+----------
+----------
+麻
+マ、 マア
+あさ
+hemp, flax, numb
+----------
+----------
+摩
+マ
+ま.する、 さす.る、 す.る
+chafe, rub, polish, grind, scrape
+----------
+----------
+磨
+マ
+みが.く、 す.る
+grind, polish, scour, improve, brush (teeth)
+----------
+----------
+魔
+マ
+
+witch, demon, evil spirit
+----------
+----------
+昧
+マイ、 バイ
+くら.い、 むさぼ.る
+dark, foolish
+----------
+----------
+埋
+マイ
+う.める、 う.まる、 う.もれる、 うず.める、 うず.まる、 い.ける
+bury, be filled up, embedded
+----------
+----------
+膜
+マク
+
+membrane
+----------
+----------
+枕
+チン、 シン
+まくら
+pillow
+----------
+----------
+又
+ユウ
+また、 また-、 また.の-
+or again, furthermore, on the other hand
+----------
+----------
+抹
+マツ
+
+rub, paint, erase
+----------
+----------
+慢
+マン
+
+ridicule, laziness
+----------
+----------
+漫
+マン
+みだり.に、 そぞ.ろ
+cartoon, involuntarily, unrestrained, in spite of oneself, corrupt
+----------
+----------
+魅
+ミ
+
+fascination, charm, bewitch
+----------
+----------
+岬
+コウ
+みさき
+headland, cape, spit, promontory
+----------
+----------
+蜜
+ミツ、 ビツ
+
+honey, nectar, molasses
+----------
+----------
+妙
+ミョウ、 ビョウ
+たえ
+exquisite, strange, queer, mystery, miracle, excellent, delicate, charming
+----------
+----------
+眠
+ミン
+ねむ.る、 ねむ.い
+sleep, die, sleepy
+----------
+----------
+矛
+ム、 ボウ
+ほこ
+halberd, arms, festival float
+----------
+----------
+霧
+ム、 ボウ、 ブ
+きり
+fog, mist
+----------
+----------
+娘
+ジョウ
+むすめ、 こ
+daughter, girl
+----------
+----------
+冥
+メイ、 ミョウ
+くら.い
+dark
+----------
+----------
+銘
+メイ
+
+inscription, signature (of artisan)
+----------
+----------
+滅
+メツ
+ほろ.びる、 ほろ.ぶ、 ほろ.ぼす
+destroy, ruin, overthrow, perish
+----------
+----------
+免
+メン
+まぬか.れる、 まぬが.れる
+excuse, dismissal
+----------
+----------
+麺
+メン、 ベン
+むぎこ
+noodles, wheat flour
+----------
+----------
+茂
+モ
+しげ.る
+overgrown, grow thick, be luxuriant
+----------
+----------
+妄
+モウ、 ボウ
+みだ.りに
+delusion, unnecessarily, without authority, reckless
+----------
+----------
+盲
+モウ
+めくら
+blind, blind man, ignoramus
+----------
+----------
+耗
+モウ、 コウ
+
+decrease
+----------
+----------
+猛
+モウ
+
+fierce, rave, rush, become furious, wildness, strength
+----------
+----------
+網
+モウ
+あみ
+netting, network
+----------
+----------
+黙
+モク、 ボク
+だま.る、 もだ.す
+silence, become silent, stop speaking, leave as is
+----------
+----------
+紋
+モン
+
+family crest, figures
+----------
+----------
+冶
+ヤ
+い.る
+melting, smelting
+----------
+----------
+弥
+ミ、 ビ
+や、 いや、 いよ.いよ、 わた.る
+all the more, increasingly
+----------
+----------
+厄
+ヤク
+
+unlucky, misfortune, bad luck, disaster
+----------
+----------
+躍
+ヤク
+おど.る
+leap, dance, skip
+----------
+----------
+闇
+アン、 オン
+やみ、 くら.い
+get dark, gloom, disorder
+----------
+----------
+喩
+ユ
+たと.える、 さと.す
+metaphor, compare
+----------
+----------
+愉
+ユ
+たの.しい、 たの.しむ
+pleasure, happy, rejoice
+----------
+----------
+諭
+ユ
+さと.す
+rebuke, admonish, charge, warn, persuade
+----------
+----------
+癒
+ユ
+い.える、 いや.す、 い.やす
+healing, cure, quench (thirst), wreak
+----------
+----------
+唯
+ユイ、 イ
+ただ
+solely, only, merely, simply
+----------
+----------
+幽
+ユウ
+ふか.い、 かす.か、 くら.い、 しろ.い
+seclude, confine to a room, deep, profound, secluded, faint, dark, tranquil, calm
+----------
+----------
+悠
+ユウ
+
+permanence, distant, long time, leisure
+----------
+----------
+湧
+ユウ、 ヨウ、 ユ
+わ.く
+boil, ferment, seethe, uproar, breed
+----------
+----------
+猶
+ユウ、 ユ
+なお
+furthermore, still, yet
+----------
+----------
+裕
+ユウ
+
+abundant, rich, fertile
+----------
+----------
+雄
+ユウ
+お-、 おす、 おん
+masculine, male, hero, leader, superiority, excellence
+----------
+----------
+誘
+ユウ
+さそ.う、 いざな.う
+entice, lead, tempt, invite, ask, call for, seduce, allure
+----------
+----------
+憂
+ユウ
+うれ.える、 うれ.い、 う.い、 う.き
+melancholy, grieve, lament, be anxious, sad, unhappy
+----------
+----------
+融
+ユウ
+と.ける、 と.かす
+dissolve, melt
+----------
+----------
+与
+ヨ
+あた.える、 あずか.る、 くみ.する、 ともに
+bestow, participate in, give, award, impart, provide, cause, gift, godsend
+----------
+----------
+誉
+ヨ
+ほま.れ、 ほ.める
+reputation, praise, honor, glory
+----------
+----------
+妖
+ヨウ
+あや.しい、 なま.めく、 わざわ.い
+attractive, bewitching, calamity
+----------
+----------
+庸
+ヨウ
+
+commonplace, ordinary, employment
+----------
+----------
+揚
+ヨウ
+あ.げる、 -あ.げ、 あ.がる
+raise, elevate, hoist, praise, extol, fry in deep fat
+----------
+----------
+揺
+ヨウ
+ゆ.れる、 ゆ.る、 ゆ.らぐ、 ゆ.るぐ、 ゆ.する、 ゆ.さぶる、 ゆ.すぶる、 うご.く
+swing, shake, sway, rock, tremble, vibrate
+----------
+----------
+溶
+ヨウ
+と.ける、 と.かす、 と.く
+melt, dissolve, thaw
+----------
+----------
+腰
+ヨウ
+こし
+loins, hips, waist, low wainscoting
+----------
+----------
+瘍
+ヨウ
+かさ
+swelling, boil, tumor
+----------
+----------
+踊
+ヨウ
+おど.る
+jump, dance, leap, skip
+----------
+----------
+窯
+ヨウ
+かま
+kiln, oven, furnace
+----------
+----------
+擁
+ヨウ
+
+hug, embrace, possess, protect, lead
+----------
+----------
+謡
+ヨウ
+うた.い、 うた.う
+song, sing, ballad, noh chanting
+----------
+----------
+抑
+ヨク
+おさ.える
+repress, well, now, in the first place, push, shove, press, seal, do in spite of
+----------
+----------
+沃
+ヨウ、 ヨク、 オク
+そそ.ぐ
+fertility
+----------
+----------
+翼
+ヨク
+つばさ
+wing, plane, flank
+----------
+----------
+拉
+ラツ、 ラ、 ロウ
+らっ.する、 ひし.ぐ、 くだ.く
+Latin, kidnap, crush
+----------
+----------
+裸
+ラ
+はだか
+naked, nude, uncovered, partially clothed
+----------
+----------
+羅
+ラ
+うすもの
+gauze, thin silk, Rome, arrange, spread out
+----------
+----------
+雷
+ライ
+かみなり、 いかずち、 いかづち
+thunder, lightning bolt
+----------
+----------
+頼
+ライ
+たの.む、 たの.もしい、 たよ.る
+trust, request
+----------
+----------
+絡
+ラク
+から.む、 から.まる
+entwine, coil around, get caught in
+----------
+----------
+酪
+ラク
+
+dairy products, whey, broth, fruit juice
+----------
+----------
+辣
+ラツ
+から.い
+pungent, spicy, harsh, cruel, severe
+----------
+----------
+濫
+ラン
+みだ.りに、 みだ.りがましい
+excessive, overflow, spread out
+----------
+----------
+藍
+ラン
+あい
+indigo
+----------
+----------
+欄
+ラン
+てすり
+column, handrail, blank, space
+----------
+----------
+吏
+リ
+
+officer, an official
+----------
+----------
+痢
+リ
+
+diarrhea
+----------
+----------
+履
+リ
+は.く
+perform, complete, footgear, shoes, boots, put on (the feet)
+----------
+----------
+璃
+リ
+
+glassy, lapis lazuli
+----------
+----------
+離
+リ
+はな.れる、 はな.す
+detach, separation, disjoin, digress
+----------
+----------
+慄
+リツ
+ふる.える、 おそ.れる、 おのの.く
+fear
+----------
+----------
+柳
+リュウ
+やなぎ
+willow
+----------
+----------
+竜
+リュウ、 リョウ、 ロウ
+たつ、 いせ
+dragon, imperial
+----------
+----------
+粒
+リュウ
+つぶ
+grains, drop, counter for tiny particles
+----------
+----------
+隆
+リュウ
+
+hump, high, noble, prosperity
+----------
+----------
+硫
+リュウ
+
+sulphur
+----------
+----------
+侶
+リョ、 ロ
+とも
+companion, follower
+----------
+----------
+虜
+リョ、 ロ
+とりこ、 とりく
+captive, barbarian, low epithet for the enemy
+----------
+----------
+慮
+リョ
+おもんぱく.る、 おもんぱか.る
+prudence, thought, concern, consider, deliberate, fear
+----------
+----------
+了
+リョウ
+
+complete, finish
+----------
+----------
+涼
+リョウ
+すず.しい、 すず.む、 すず.やか、 うす.い、 ひや.す、 まことに
+refreshing, nice and cool
+----------
+----------
+猟
+リョウ
+かり、 か.る
+game-hunting, shooting, game, bag
+----------
+----------
+陵
+リョウ
+みささぎ
+mausoleum, imperial tomb, mound, hill
+----------
+----------
+僚
+リョウ
+
+colleague, official, companion
+----------
+----------
+寮
+リョウ
+
+dormitory, hostel, villa, tea pavillion
+----------
+----------
+療
+リョウ
+
+heal, cure
+----------
+----------
+瞭
+リョウ
+あきらか
+clear
+----------
+----------
+糧
+リョウ、 ロウ
+かて
+provisions, food, bread
+----------
+----------
+厘
+リン
+
+rin, 1/10 sen, 1/10 bu
+----------
+----------
+倫
+リン
+
+ethics, companion
+----------
+----------
+隣
+リン
+とな.る、 となり
+neighboring
+----------
+----------
+瑠
+ル、 リュウ
+
+lapis lazuli
+----------
+----------
+涙
+ルイ、 レイ
+なみだ
+tears, sympathy
+----------
+----------
+累
+ルイ
+
+accumulate, involvement, trouble, tie up, continually
+----------
+----------
+塁
+ルイ、 ライ、 スイ
+とりで
+bases, fort, rampart, walls, base(ball)
+----------
+----------
+励
+レイ
+はげ.む、 はげ.ます
+encourage, be diligent, inspire
+----------
+----------
+戻
+レイ
+もど.す、 もど.る
+re-, return, revert, resume, restore, go backwards
+----------
+----------
+鈴
+レイ、 リン
+すず
+small bell, buzzer
+----------
+----------
+零
+レイ
+ぜろ、 こぼ.す、 こぼ.れる
+zero, spill, overflow, nothing, cipher
+----------
+----------
+霊
+レイ、 リョウ
+たま
+spirits, soul
+----------
+----------
+隷
+レイ
+したが.う、 しもべ
+slave, servant, prisoner, criminal, follower
+----------
+----------
+齢
+レイ
+よわい、 とし
+age
+----------
+----------
+麗
+レイ
+うるわ.しい、 うら.らか
+lovely, beautiful, graceful, resplendent
+----------
+----------
+暦
+レキ、 リャク
+こよみ
+calendar, almanac
+----------
+----------
+劣
+レツ
+おと.る
+inferiority, be inferior to, be worse
+----------
+----------
+烈
+レツ
+はげ.しい
+ardent, violent, vehement, furious, severe, extreme
+----------
+----------
+裂
+レツ
+さ.く、 さ.ける、 -ぎ.れ
+split, rend, tear
+----------
+----------
+恋
+レン
+こ.う、 こい、 こい.しい
+romance, in love, yearn for, miss, darling
+----------
+----------
+廉
+レン
+
+bargain, reason, charge, suspicion, point, account, purity, honest, low price, cheap, rested, contented, peaceful
+----------
+----------
+錬
+レン
+ね.る
+tempering, refine, drill, train, polish
+----------
+----------
+呂
+ロ、 リョ
+せぼね
+spine, backbone
+----------
+----------
+炉
+ロ
+いろり
+hearth, furnace, kiln, reactor
+----------
+----------
+賂
+ロ
+まいな.い、 まいな.う
+bribe
+----------
+----------
+露
+ロ、 ロウ
+つゆ
+dew, tears, expose, Russia
+----------
+----------
+弄
+ロウ、 ル
+いじく.る、 ろう.する、 いじ.る、 ひねく.る、 たわむ.れる、 もてあそ.ぶ
+play with, tamper, trifle with
+----------
+----------
+郎
+ロウ、 リョウ
+おとこ
+son, counter for sons
+----------
+----------
+浪
+ロウ
+
+wandering, waves, billows, reckless, unrestrained
+----------
+----------
+廊
+ロウ
+
+corridor, hall, tower
+----------
+----------
+楼
+ロウ
+たかどの
+watchtower, lookout, high building
+----------
+----------
+漏
+ロウ
+も.る、 も.れる、 も.らす
+leak, escape, time
+----------
+----------
+籠
+ロウ、 ル
+かご、 こ.める、 こも.る、 こ.む
+basket, devote oneself, seclude oneself, cage, coop, implied
+----------
+----------
+麓
+ロク
+ふもと
+foot of a mountain
+----------
+----------
+賄
+ワイ
+まかな.う
+bribe, board, supply, finance
+----------
+----------
+脇
+キョウ
+わき、 わけ
+armpit, the other way, another place, flank, supporting role
+----------
+----------
+惑
+ワク
+まど.う
+beguile, delusion, perplexity
+----------
+----------
+枠
+
+わく
+frame, framework, spindle, spool, bounding-box, (kokuji)
+----------
+----------
+湾
+ワン
+いりえ
+gulf, bay, inlet
+----------
+----------
+腕
+ワン
+うで
+arm, ability, talent
+----------
+##########
